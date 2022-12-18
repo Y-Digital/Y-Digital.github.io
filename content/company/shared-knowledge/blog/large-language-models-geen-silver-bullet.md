@@ -4,7 +4,7 @@ date = 2022-12-16T07:52:47Z
 description = "In de afgelopen jaren zijn er grote vooruitgangen geboekt in de toepassing van kunstmatige intel-ligentie (AI). Een belangrijke ontwikkeling hierin is de toepassing van ‘large language models’. Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalge-gevens te verwerken en hieruit nieuwe informa-tie te extraheren. Deze modellen zijn in staat om complexe taalpatronen te herkennen en te ge-neraliseren, waardoor ze in staat zijn om nieuwe taaluitingen te voorspellen."
 featured_image = "/img/upload/dixitcopy.jpg"
 layout = "blog"
-summary = "Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalgegevens te verwerken en hieruit nieuwe informatie te extraheren. Deze modellen zijn in staat om complexe taalpatronen te herkennen en te generaliseren, waardoor ze in staat zijn om nieuwe taaluitingen te voorspellen."
+summary = "Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalgegevens te verwerken en hieruit nieuwe informatie te extraheren."
 title = "Large language models: geen silver bullet"
 
 +++
