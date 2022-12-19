@@ -7,6 +7,6 @@ summary = "Namens Stichting de Nederlandstalige Spraak Coalitie vertelt Egon Ver
 title = "Beyond Voice EP 11 - Spraakcoalitie"
 [spotify]
 enable = true
-spotify_code = "https://open.spotify.com/episode/2jEryDdCDL0uJSntqpWIWj"
+spotify_code = "2jEryDdCDL0uJSntqpWIWj"
 
 +++
