@@ -1,5 +1,5 @@
 +++
-date = 2022-09-20T22:00:00Z
+date = 2022-08-23T22:00:00Z
 description = "Beyond Voice EP 10 - Sentiment analyse"
 featured_image = "/img/upload/beyond-voice-artwork-2.png"
 layout = "Podcast"
