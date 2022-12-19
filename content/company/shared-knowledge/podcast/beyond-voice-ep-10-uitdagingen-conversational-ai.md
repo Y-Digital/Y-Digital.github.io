@@ -7,6 +7,6 @@ summary = "Florian en Carla spreken over de uitdagingen in Conversational AI. Wa
 title = "Beyond Voice EP 10 - Sentiment analyse"
 [spotify]
 enable = true
-spotify_code = "https://open.spotify.com/episode/2TQaykti81OoziVivGRxH9"
+spotify_code = "2TQaykti81OoziVivGRxH9"
 
 +++
