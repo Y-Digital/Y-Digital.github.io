@@ -1,10 +1,10 @@
 +++
 date = 2022-09-20T22:00:00Z
-description = "Beyond Voice EP 10 - Uitdagingen in Conversational AI"
+description = "Beyond Voice EP 10 - Sentiment analyse"
 featured_image = "/img/upload/beyond-voice-artwork-2.png"
 layout = "Podcast"
-summary = "In deze Beyond Voice aflevering praten Florian en Carla over de uitdagingen in Conversational AI. Waarom is Sentiment Analyse noodzakelijk om een optimale customer experience te bieden?"
-title = "Beyond Voice EP 10 - Uitdagingen Conversational AI"
+summary = "Florian en Carla spreken over de uitdagingen in Conversational AI. Waarom is Sentiment Analyse noodzakelijk om een optimale customer experience te bieden?"
+title = "Beyond Voice EP 10 - Sentiment analyse"
 [spotify]
 enable = true
 spotify_code = "https://open.spotify.com/episode/2TQaykti81OoziVivGRxH9"
