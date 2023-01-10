@@ -2,7 +2,6 @@
 author = "Y.digital"
 date = 2023-01-10T08:05:44Z
 description = "Understanding language means understanding diversity. "
-draft = true
 featured_image = "/img/upload/hannah-wright-zzwshbu2y80-unsplash.jpg"
 layout = "blog"
 summary = "Access to helpful tools that have become omnipresent in our daily lives such as voice assistants, chatbots, or translation engines is only possible if our unique way of speaking can be handled by the language models supporting these applications."
