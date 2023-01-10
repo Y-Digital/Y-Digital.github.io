@@ -1,5 +1,5 @@
 +++
-author = "Y.digital"
+author = "Y.digital - Alexandra Redmann"
 date = 2023-01-10T08:05:44Z
 description = "Understanding language means understanding diversity. "
 featured_image = "/img/upload/hannah-wright-zzwshbu2y80-unsplash.jpg"
