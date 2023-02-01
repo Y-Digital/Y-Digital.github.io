@@ -4,7 +4,7 @@ date = 2023-02-01T08:23:14Z
 description = ""
 featured_image = "/img/upload/ek0c9062.JPG"
 layout = "blog"
-summary = "We are proud of the nomination of Alexandra Redmann as one of the 5 top women in the field of AI Innovation. "
+summary = "We're proud of the nomination of Alexandra Redmann as one of the 5 top women in the field of AI Innovation. "
 title = "Alexandra in top-5 nominees for AI Innovator of the year"
 
 +++
