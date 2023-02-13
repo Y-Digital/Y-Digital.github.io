@@ -31,11 +31,12 @@ vacancy:
     \- Ambassadeur van Design Thinking, Lean Startup en Agile werken binnen Y.
 
     \- Een toekomstgerichte visie op het gebied van UX/UI en Frontend Development – volgen van actuele ontwikkelingen en deze borgen binnen onze digitale platformen.
-  profile: |-
-    ## **Jouw profiel**
-
-    In deze rol werk ben je als expert verantwoordelijk voor de UX/UI van onze platformen, iets wat wij zien als cruciale taak voor het success van Y.digital. Je werkt samen met een team van Digitale Business Consultants en AI Developers. Voor deze rol zijn de volgende vaardigheden en kennis noodzakelijk:
-
+  profile: "## **Jouw profiel**\n\nIn deze rol werk ben je als expert verantwoordelijk
+    voor de UX/UI van onze platformen, iets wat wij zien als cruciale taak voor het
+    success van Y.digital. Je werkt samen met een team van Digitale Business Consultants
+    en AI Developers. "
+  skills_heading: 'Voor deze rol zijn de volgende vaardigheden en kennis noodzakelijk:'
+  skills: |-
     \- Ruime ervaring met ReactJS, React Native, JavaScript, CSS, en HTML
 
     \- Minimaal 5 jaar ervaring (medior) is vereist.
@@ -49,27 +50,6 @@ vacancy:
     \- Sociale vaardigheden: enthousiast, hands-on, gestructureerd, flexibel, resultaatgericht, sterke communicatieve vaardigheden.
 
     \- Basiskennis van Docker, Kubernetes, Python, Natural Language Processing (NLP) en Knowledge Graph technologie (bijv. RDF, SPARQL) is een pré.
-  skills_heading: Wat wij bieden
-  skills: |-
-    \- Het Y.clubhuis: ons gloednieuwe kantoor in Zeist, nabij Station Driebergen-Zeist
-
-    \- Een vriendelijke, open, niet-hiërarchische en collaboratieve werkomgeving
-
-    \- Innovatieve projecten bij spraakmakende organisaties in verschillende sectoren
-
-    \- Hybride werken, op kantoor (3 dagen), bij de klant of vanuit huis
-
-    \- Mobiliteitspakket & Yoga lessen (optioneel)
-
-    \- Een inspirerend, divers en internationaal team van collega's
-
-    \- Een leertraject op maat voor jouw behoeften en ambities
-
-    \- Voordelen waaronder: een uitgebreide pensioenregeling en bonusregeling
-
-    **Geïnteresseerd?**
-
-    Bel Ian FitzPatrick voor meer informatie (0624 52 45 00) of stuur een e-mail met een link naar je LinkedIn profile (ian@y.digital).
   what_we_offer_heading: Wat wij bieden
   what_we_offer: |-
     \- Het Y.clubhuis: ons gloednieuwe kantoor in Zeist, nabij Station Driebergen-Zeist
@@ -88,9 +68,9 @@ vacancy:
 
     \- Voordelen waaronder: een uitgebreide pensioenregeling en bonusregeling
   send_cv: |-
-    ## Sounds like you?
+    ## **Geïnteresseerd?**
 
-    Send us your CV and LinkedIn profile to [**result@y.digital**](mailto:result@y.digital)
+    Bel Ian FitzPatrick voor meer informatie (0624 52 45 00) of stuur een e-mail met een link naar je LinkedIn profile ([ian@y.digital](mailto:ian@y.digital)).
 - title: Medior Python Developer for ML and AI
   role: |-
     ## About Us:
