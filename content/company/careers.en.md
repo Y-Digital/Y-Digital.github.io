@@ -22,11 +22,15 @@ vacancy:
 
     Als UX/UI frontend developer maak je deel uit van ons development team en ga je actief aan de slag met de user experience. Je brengt customer journeys in kaart , maakt (nieuwe) prototypes en designs en valideert deze met de doelgroep. Vervolgens zorg je voor de realisatie. Je belangrijkste taken zijn:
 
-    * Innoveren en verbeteren van de user experience – Onze website en AI-platform Ally, maar ook de oplossingen voor onze klanten waar Frontend Development een belangrijke rol speelt.
-    * Op basis van user research ontwikkelen van customer journeys, ontwerpen van nieuwe prototypes en designs.
-    * Technische realisatie van deze concepten – in samenwerking met ons internationale team.
-    * Ambassadeur van Design Thinking, Lean Startup en Agile werken binnen Y.
-    * Een toekomstgerichte visie op het gebied van UX/UI en Frontend Development – volgen van actuele ontwikkelingen en deze borgen binnen onze digitale platformen.
+    \- Innoveren en verbeteren van de user experience – Onze website en AI-platform Ally, maar ook de oplossingen voor onze klanten waar Frontend Development een belangrijke rol speelt.
+
+    \- Op basis van user research ontwikkelen van customer journeys, ontwerpen van nieuwe prototypes en designs.
+
+    \- Technische realisatie van deze concepten – in samenwerking met ons internationale team.
+
+    \- Ambassadeur van Design Thinking, Lean Startup en Agile werken binnen Y.
+
+    \- Een toekomstgerichte visie op het gebied van UX/UI en Frontend Development – volgen van actuele ontwikkelingen en deze borgen binnen onze digitale platformen.
   profile: "## **Jouw profiel**\n\nIn deze rol werk ben je als expert verantwoordelijk
     voor de UX/UI van onze platformen, iets wat wij zien als cruciale taak voor het
     success van Y.digital. Je werkt samen met een team van Digitale Business Consultants
