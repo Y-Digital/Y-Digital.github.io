@@ -22,51 +22,34 @@ vacancy:
 
     Als UX/UI frontend developer maak je deel uit van ons development team en ga je actief aan de slag met de user experience. Je brengt customer journeys in kaart , maakt (nieuwe) prototypes en designs en valideert deze met de doelgroep. Vervolgens zorg je voor de realisatie. Je belangrijkste taken zijn:
 
-    \- Innoveren en verbeteren van de user experience – Onze website en AI-platform Ally, maar ook de oplossingen voor onze klanten waar Frontend Development een belangrijke rol speelt.
-
-    \- Op basis van user research ontwikkelen van customer journeys, ontwerpen van nieuwe prototypes en designs.
-
-    \- Technische realisatie van deze concepten – in samenwerking met ons internationale team.
-
-    \- Ambassadeur van Design Thinking, Lean Startup en Agile werken binnen Y.
-
-    \- Een toekomstgerichte visie op het gebied van UX/UI en Frontend Development – volgen van actuele ontwikkelingen en deze borgen binnen onze digitale platformen.
+    * Innoveren en verbeteren van de user experience – Onze website en AI-platform Ally, maar ook de oplossingen voor onze klanten waar Frontend Development een belangrijke rol speelt.
+    * Op basis van user research ontwikkelen van customer journeys, ontwerpen van nieuwe prototypes en designs.
+    * Technische realisatie van deze concepten – in samenwerking met ons internationale team.
+    * Ambassadeur van Design Thinking, Lean Startup en Agile werken binnen Y.
+    * Een toekomstgerichte visie op het gebied van UX/UI en Frontend Development – volgen van actuele ontwikkelingen en deze borgen binnen onze digitale platformen.
   profile: "## **Jouw profiel**\n\nIn deze rol werk ben je als expert verantwoordelijk
     voor de UX/UI van onze platformen, iets wat wij zien als cruciale taak voor het
     success van Y.digital. Je werkt samen met een team van Digitale Business Consultants
     en AI Developers. "
   skills_heading: 'Voor deze rol zijn de volgende vaardigheden en kennis noodzakelijk:'
   skills: |-
-    \- Ruime ervaring met ReactJS, React Native, JavaScript, CSS, en HTML
-
-    \- Minimaal 5 jaar ervaring (medior) is vereist.
-
-    \- Een opleiding op het gebied van Communication & Multimedia Design of een aanverwante opleiding op minimal HBO-niveau
-
-    \- Goede beheersing van de Nederlandse en Engelse taal
-
-    \- Ervaring met de agile manier van werken (bijv. SAFe, SCRUM) is een pré.
-
-    \- Sociale vaardigheden: enthousiast, hands-on, gestructureerd, flexibel, resultaatgericht, sterke communicatieve vaardigheden.
-
-    \- Basiskennis van Docker, Kubernetes, Python, Natural Language Processing (NLP) en Knowledge Graph technologie (bijv. RDF, SPARQL) is een pré.
+    * Ruime ervaring met ReactJS, React Native, JavaScript, CSS, en HTML
+    * Minimaal 5 jaar ervaring (medior) is vereist.
+    * Een opleiding op het gebied van Communication & Multimedia Design of een aanverwante opleiding op minimal HBO-niveau
+    * Goede beheersing van de Nederlandse en Engelse taal
+    * Ervaring met de agile manier van werken (bijv. SAFe, SCRUM) is een pré.
+    * Sociale vaardigheden: enthousiast, hands-on, gestructureerd, flexibel, resultaatgericht, sterke communicatieve vaardigheden.
+    * Basiskennis van Docker, Kubernetes, Python, Natural Language Processing (NLP) en Knowledge Graph technologie (bijv. RDF, SPARQL) is een pré.
   what_we_offer_heading: Wat wij bieden
   what_we_offer: |-
-    \- Het Y.clubhuis: ons gloednieuwe kantoor in Zeist, nabij Station Driebergen-Zeist
-
-    \- Een vriendelijke, open, niet-hiërarchische en collaboratieve werkomgeving
-
-    \- Innovatieve projecten bij spraakmakende organisaties in verschillende sectoren
-
-    \- Hybride werken, op kantoor (3 dagen), bij de klant of vanuit huis
-
-    \- Mobiliteitspakket & Yoga lessen (optioneel)
-
-    \- Een inspirerend, divers en internationaal team van collega's
-
-    \- Een leertraject op maat voor jouw behoeften en ambities
-
-    \- Voordelen waaronder: een uitgebreide pensioenregeling en bonusregeling
+    * Het Y.clubhuis: ons gloednieuwe kantoor in Zeist, nabij Station Driebergen-Zeist
+    * Een vriendelijke, open, niet-hiërarchische en collaboratieve werkomgeving
+    * Innovatieve projecten bij spraakmakende organisaties in verschillende sectoren
+    * Hybride werken, op kantoor (3 dagen), bij de klant of vanuit huis
+    * Mobiliteitspakket & Yoga lessen (optioneel)
+    * Een inspirerend, divers en internationaal team van collega's
+    * Een leertraject op maat voor jouw behoeften en ambities
+    * Voordelen waaronder: een uitgebreide pensioenregeling en bonusregeling
   send_cv: |-
     ## **Geïnteresseerd?**
 
