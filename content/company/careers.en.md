@@ -10,6 +10,65 @@ intro_text: Talent drives our team and our capacity to deliver the best solution
   people who are passionate about digital, learning and working together.
 page_title: Y.careers
 vacancy:
+- title: Business Transformation Experts (medior)
+  role: |-
+    ## Over ons:
+
+    Artificial Intelligence die natuurlijke taal verwerkt heeft de toekomst! Wil jij meedoen aan het vormgeven van die toekomst? Wil je organisaties inspireren hoe AI het beste past in hun bedrijfsstrategie? Wil je analyseren welke concrete AI-toepassingen direct waarde voor hen kunnen hebben? Wil je vervolgens de realisatie en implementatie van die AI-toepassingen begeleiden? Kom dan snel praten! Wij zoeken namelijk nieuwe collega's. Vanuit onze eigen Y.academy zorgen we eerst dat jij alles komt te weten over AI. Daarna ga je onze klanten helpen om de digital transformation van hun organisatie te regisseren.
+
+    Y.digital is dé AI-expert op het gebied van taal. We zijn gevestigd in Zeist, hebben een kantoor in Vietnam en starten dit jaar ook in Duitsland. We realiseren innovatieve AI-oplossingen vanuit ons eigen platform Ally. Onze missie is Empowering Humans: we zetten AI vooral in om mensen optimaal te ondersteunen. Onze klanten zitten dan ook in allerlei sectoren zoals overheid, financiële sector, energy- en utilities-sector, gezondheidszorg. We hebben de Y.academy en het Y.research lab om kennis te borgen en delen.
+
+    ## Jouw nieuwe collega’s:
+
+    Ons team is divers en internationaal. Vanuit onze vestigingen bieden we integrale dienstverlening:
+
+    * onze Business Transformation Experts helpen klanten bij het realiseren van hun AI-strategie, het signaleren van kansen, proces re-design, analyse, projectmanagement en het waarmaken van hun digitale transformatie.
+    * onze Engineers ontwerpen, realiseren, trainen en implementeren de AI-oplossingen, en ze ontwikkelen continu door aan ons AI-platform Ally.
+
+    Onze ambitie is om een autoriteit te worden op het gebied van taalverwerking, in Nederland en daarbuiten. We groeien snel en hebben vacatures voor gepassioneerde Business Transformation Experts om ons team te versterken!
+
+    ## De rol:
+
+    Als Business Transformation Expert werk je rechtstreeks voor spraakmakende organisaties in verschillende sectoren.
+
+    * Je vindt het leuk om een organisatie in te duiken en mensen te inspireren met nieuwe technologische mogelijkheden via presentaties en inspiratiessessies.
+    * Je stroopt je mouwen op en werkt samen met mensen uit de organisatie om ideeën te genereren, om te zetten in prototypes en daar concrete projecten van te maken. Dat doe je volgens de design thinking aanpak.
+    * Je voert business analyses en proces redesign uit, en neemt daarna de lead als projectmanager of product owner van het team dat de AI-oplossing gaat realiseren.
+    * Je betrekt continu alle stakeholders en zorgt ervoor dat de gewenste transformatie ook echt wordt doorgevoerd in de organisatie.
+    * Het werk is gevarieerd: soms zit je in een detacheringsopdracht, vaak samen met één van onze senioren, en in andere gevallen doe je mee aan onze projecten. Je werkt in ieder geval altijd nauw samen met onze hoogopgeleide experts, een sterke peer group van ervaren transformation experts, engineers en conversation designers.
+    * Je vertegenwoordigt Y.digital, onze unieke visie, klantgedreven aanpak en AI-platform Y.Ally.
+
+    Aangezien we snel uitbreiden en groeien, is er binnen deze rol méér dan voldoende ruimte om je te ontwikkelen, te groeien en je persoonlijke doelen en ambities te realiseren.
+  profile: 'Wij willen alleen de beste en gemotiveerde professionals op het gebied
+    van digitale transformatie:'
+  skills_heading: Skills and Knowledge
+  skills: |-
+    * Positief, enthousiast en gedreven.
+    * Passie voor mensen en het verbeteren van organisaties.
+    * Goed in verbinden van mensen en disciplines: bruggen bouwen tussen business en IT.
+    * Nieuwsgierig naar de nieuwe mogelijkheden van innovatieve technologie, maar ook bewust van negatieve kanten en risico’s.
+    * Minimaal 3 jaar ervaring (medior) in de rol van analist of consultant
+    * Ervaring in business analyse: requirements, business cases, proces redesign, informatie- en kennismodellering, DPIA.
+    * Ervaring in consultancy: strategie, design thinking, faciliteren van sessies, advisering, change management.
+    * Ervaring met agile werken, product owner /project manager, SAFe, SCRUM.
+    * Nederlandstalig, goed niveau in Engels.
+    * Sterke adviesvaardigheden en communicatieve vaardigheden, gestructureerd, flexibel, resultaatgericht, extravert, ambitieus en wil graag impact maken.
+    * Basiskennis van AI is een pré, in het bijzonder Natural Language Processing en Knowledge Graphs, maar via onze Y.academy zorgen we voor alle relevante verdieping.
+    * Een afgeronde bachelor of masteropleiding in een relevante discipline.
+    * Beschikbaarheid voor minimaal 32 uur per week.
+  what_we_offer_heading: 'What we offer:'
+  what_we_offer: |-
+    * Het Y.clubhouse: ons gloednieuwe kantoor in Zeist, vlakbij Station Driebergen-Zeist.
+    * Een vriendelijke, open, niet-hiërarchische en collaboratieve werkomgeving.
+    * Innovatieve projecten bij spraakmakende organisaties in verschillende sectoren.
+    * Hybride werken, op kantoor, bij de klant of vanuit huis.
+    * Mobiliteitspakket.
+    * Een inspirerend, divers en internationaal team van collega's.
+    * Een leertraject op maat van jouw wensen en ambities.
+    * Een uitgebreide pensioenregeling en bonusregeling.
+  send_cv: "Herken je jezelf in dit profiel en heb je zin in deze uitdaging?\n\nBel
+    Art Ligthart voor meer informatie (06-50 23 10 19) of stuur een e-mail met een
+    link naar je LinkedIn-profiel naar art@y.digital "
 - title: UX/UI Frontend Developer
   role: |-
     ## Over ons:
