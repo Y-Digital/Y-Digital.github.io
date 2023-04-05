@@ -1,102 +1,78 @@
 {{ define "main" }}
-
 <section class="wide light-gray">
-	
-<div class="slideshow-container">
-	<div class="slideshow-inner">
-		
-		{{ range .Params.hero_slide }}
-		<div class="mySlides">
-			<div class="hero"><img src="{{ .slide_image }}" width="1120px" height="375px"></div>
+  <div style="padding-bottom: 4em;" class="slideshow-container">
+    <div class="slideshow-inner">
+  
+      {{ range .Params.hero_slide }}
+      <div class="mySlides">
+        <div class="hero"><img style="height: 300px;object-fit: cover;" width="1120" src="{{ .slide_image }}" width="1120px"
+            height="300px"></div>
 
-		</div>
-		{{ end }}
-		
+      </div>
+      {{ end }}
+      
+      </div>
+
+
+    <div class="slide-text top">
+      {{ range .Params.hero_slide }}
+      <div class="circles">
+      </div>
+      {{ end }}
+      </div>
+      </div>
+  <section class="intro">
+    <h1 class="sub-circles">{{ .Params.page_title }}</h1>
+    {{ markdownify .Params.intro_text }}
+  </section>
+</section>
+{{ with .Params.media }}
+<section style="margin-top: 4em;" class="media">
+  <a href="{{ .first_item_link }}">
+    <div class="media-item">
+      <img src="/img/podcast.svg">
+      <p>{{ .first_item }}</p>
+    </div>
+  </a>
+  <a href="{{ .second_item_link }}" rel="noopener noreferrer" target="_blank">
+    <div class="media-item">
+      <img src="/img/download.svg">
+      <p>{{ .second_item }}</p>
+    </div>
+  </a>
+  <a href="{{ .third_item_link }}">
+    <div class="media-item">
+      <img src="/img/sign-up.svg">
+      <p>{{ .third_item }}</p>
+    </div>
+  </a>
+</section>
+{{ end }}
+{{ if .Params.numbered_features }}
+{{ $counter := 0 }}
+{{ $mod := 0 }}
+{{ range .Params.numbered_features }}
+{{ $counter = add $counter 1 }}
+<div style="margin-top: 2em;" id="sca0{{ $counter }}" class="sca-feature-section">
+  {{$mod = mod $counter 2}}
+  {{if eq 0 $mod }}
+  <div class="wide wide-right">
+    <h1 class="title">{{ .title }}</h1>
+    <p>{{ markdownify .text }}</p>
   </div>
-
-
-  <div class="slide-text top">
-  {{ range .Params.hero_slide }}
-			<div class="circles">
-				<div class="circle big dark-gray">
-					<p>{{ .slide_left_circle }}</p>
-				</div>
-				<div class="arrow"><img src="/img/arrow-dark-gray.svg" alt=""></div>
-				<div class="circle big orange">
-					<p>{{ .slide_right_circle }}</p>
-				</div>
-			</div>
-  {{ end }}
-	</div>
+  <a href="{{.image_link}}">
+    <img style="width: 100%;" class="sca-image right" src="{{ .image }}" alt="">
+  </a>
+  {{else}}
+  <a href="{{.image_link}}"><img style="width: 100%;" class="sca-image left" src="{{ .image }}" alt=""></a>
+  <div class="wide wide-left">
+    <h1 class="title">{{ .title }}</h1>
+    <p>{{ markdownify .text }}</p>
+  </div>
+  {{end}}
 </div>
-
-
-	<section class="intro">
-	<h1 class="sub-circles">{{ .Params.page_title }}</h1>
-	{{ markdownify .Params.intro_text }}
-	</section>
-</section>
-
-<section class="wide second white">
-	{{ with .Params.blue_button }}	
-	<a href="{{ .link | relLangURL }}">
-		<div class="circle download small">
-			<p>{{ .dark_text }}</p>
-				<img class="arrow-small" src="/img/arrow-white.svg">
-		</div>
-	</a>
-	{{ end }}
-
-	{{ partial "features.html" . }}
-	
-	{{ partial "round-button.html" . }}
-
-
-{{ range .Params.quote_slide }}
-	<div class="quote">
-		<div class="quote-author-image"><img src="{{ relURL .photo }}"></div>
-		<div class="square-text">
-			<div class="quote-text">
-				<p>“{{ .quote_text }}”</p>
-			</div>
-			<div class="quote-author">
-				<p>{{ .author }} / {{ .from }}</p>
-			</div>
-		</div>
-	</div>
 {{ end }}
-
-
-{{ with .Params.media }}	
-	<section class="media">
-		<a href="{{ .first_item_link }}">
-			<div class="media-item">
-				<img src="/img/podcast.svg">
-				<p>{{ .first_item }}</p>
-			</div>
-		</a>
-		<a href="{{ .second_item_link }}" rel="noopener noreferrer" target="_blank">
-			<div class="media-item">
-				<img src="/img/download.svg">
-				<p>{{ .second_item }}</p>
-			</div>
-		</a>
-		<a href="{{ .third_item_link }}">
-			<div class="media-item">
-				<img src="/img/sign-up.svg">
-				<p>{{ .third_item }}</p>
-			</div>
-		</a>
-	</section>
 {{ end }}
-
-
-	{{ partial "feature.html" . }}
-
-{{ partial "second-round-button.html" . }}
-
-</section>
-	<!-- {{ partial "newsletter-popup.html" . }} -->
-	<!-- {{ partial "newsletter.html" . }} -->
-	<!-- {{ partial "newsscript.html" . }} -->
+<div class="hero"><img src="{{ .Params.footer_photo }}" style="height: 300px;object-fit: cover;" width="1120"
+    height="300"></div>
 {{ end }}
