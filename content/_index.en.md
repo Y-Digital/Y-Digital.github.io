@@ -65,4 +65,44 @@ media:
   third_item: sign up newsletter
   third_item_link: "#footer-newsletter-form"
 
+footer_photo: "/img/hero-home.jpg"
+numbered_features:
+- title: Customer Identification
+  text: Customer identification is the process of verifying the identity of the person
+    calling your contact centre. By checking the authorisation via Conversational
+    AI, the assistant can prepare the call for the human agent. Or authorize the customer
+    for self-service. This will save a huge amount of time without sacrifising customer
+    satisfaction. Ally can verify a caller's identity through your CRM system using
+    their phone number and personal details such as date of birth or postal code.
+    Once the identity and intent of the caller are clear, the assistant can proceed
+    to either fulfil or route the call.
+  image: "/img/upload/sm_498233134-1.jpg"
+  image_link: "/solutions/" 
+- title: Call Routing
+  text: Based on the customer’s input, Ally connects the customer to the right department
+    and even best agent for their unique question. This can be based on variables
+    such as waiting times, a preference to talk to the same person they previously
+    spoke to, or specific subject matter knowledge of the agent. No matter who the
+    call is routed to, Ally is the ideal colleague and will always hand over the call
+    with all information ready to go.
+  image: "/img/upload/sm_office.jpg"
+  image_link: "/solutions/" 
+- title: Call Handling
+  text: Call Handling offers clients the ability to self-service, giving them the
+    opportunity to solve problems on-demand; also outside office hours. By starting
+    the conversation with the open question ‘How can I help you?’, clients can converse
+    with Ally in a natural way. Call Handling thus reduces call volume and allows
+    agents in contact centres to stop spending time on simple, repetitive questions.
+    They can focus on more complex issues.
+  image: "/img/upload/sm_office2.jpg"
+  image_link: "/solutions/" 
+- title: Registration
+  text: The conversation registration feature summarizes a transcript of an ongoing
+    discussion using an AI natural language model and in co-creation with the agent
+    registers all information in your CRM system. Hereby, Ally determines the issue
+    description and the resolution. Real-time summarisation solves the issue where
+    a customer needs to repeat their query and other information when transferred
+    from a voice assistant to an agent.
+  image: "/img/upload/sm_phone.jpg"
+  image_link: "/solutions/" 
 ---
