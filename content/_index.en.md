@@ -9,7 +9,11 @@ hero_circles:
   right_circle: Start humanising
 page_title: EMPOWERING HUMANS
 intro_text: |-
-  Y.digital deploys the latest, top-notch AI technology in language and cognition to support organizations, and their customers and employees. We believe technology should be complementary to the tasks a user - customer or employee - performs. The Ally platform includes a comprehensive toolkit of proven technologies in language understanding and AI, including NLP, NLU, semantic search, knowledge graphs, OCR/ICR and LLMs. All innovative components to model information based on internal information in this way we match customer demand and suggest the right knowledge at the right time.
+    - Has (re)training intents and scaling to new products, departments or brands become a problem? 
+    - Are you unable to grow because you seem to have exhausted all potential of the current RPA technology?
+    - Has quick and reliable access to correct and up-to-date information in your systems – such as your knowledge base, Sharepoint, intranet, your CRM and the website – become an issue?
+    
+    Y.digital deploys the latest, top-notch AI technology in language and cognition to support organizations, and their customers and employees. We believe technology should be complementary to the tasks a user - customer or employee - performs. The Ally platform includes a comprehensive toolkit of proven technologies in language understanding and AI, including NLP, NLU, semantic search, knowledge graphs, OCR/ICR and LLMs. These technologies all support the possibility to  model your (internal) business information to instantly offer the right knowledge just when you need it. 
 blue_button:
   dark_text: Get in Touch
   link: "/contact/"
@@ -65,17 +69,40 @@ media:
 
 footer_photo: "/img/hero-home.jpg"
 numbered_features:
-- title: EMPOWERING CONVERSATIONS WITH AI
-  text: Has (re)training intents and scaling to new products, departments or brands become a problem? 
+- title: Development
+  text: The heartbeat of Y.digital are our data-scientists and neurolinguists. 
+    They develop intelligent AI-solutions for customers when it comes to language 
+    understanding. They do not fear a challenge and help to extract crucial business 
+    information from employees in order to model this into AI technology and make it 
+    into useful solutions. The Ally-platform consists of different AI-technologies, 
+    that can be tailored and applied to your specific customer request. 
   image: "/img/upload/sm_498233134-1.jpg"
   image_link: "/solutions/" 
-- title: EMPOWERING DOCUMENT PROCESSING WITH AI
-  text: Are you unable to grow because you seem to have exhausted all potential of your current RPA technology?
+- title: Business Transformation
+  text: AI is an hot-topic on every boardroom agenda. Yet, it is important to keep a healthy 
+    balance between the technological innovations with regards to Machine Learning, Generative 
+    AI on the one hand, and on the other hand the ethical considerations and the practical change 
+    management, how will this affect employees on the work floor? The key question is: As an 
+    organization how could you make optimal use of AI technologies, in order to make sure that AI 
+    solutions become of added value to your organization? We are here to help you deconstruct the 
+    black-box that calls AI. Whether it is creating a strategy for your business or developing a 
+    vision how AI could help you in the next five years. We do so by mapping possible use-cases 
+    that are well suited for AI-solutions, checking possible risks that may occur when working with AI 
+    applications, executing impact assessments, and helping you deploy new ways of working with 
+    the required frameworks. 
   image: "/img/upload/sm_office.jpg"
   image_link: "/solutions/" 
-- title: EMPOWERING SMART SEARCH WITH AI
-  text: Has quick and reliable access to the correct and up-to-date information in your systems - such as 
-    knowledge base, Sharepoint, intranet or website – become an issue? 
+- title: Secondment
+  text: Are you looking for employees that could help you creating, developing and implementing AI 
+    solutions? Stop looking! Our workforce is also available for outsourcing in the field of AI 
+    and language understanding. Whether you need help with business transformation, the development 
+    of practical AI solutions in the area of Conversational AI, Intelligent Document Processing 
+    (IDP) or AI Search and Personalisation, we are here to help. 
+
+    Y.digital consists of experts in the field of AI, Machine Learning, Deep Learning, Natural Language 
+    Understanding and Natural Language Processing, knowledge graphs, generative AI and applying 
+    Large Language Models (LLM). We would like to challenge your request, finding out which route 
+    suits best for your organization.
   image: "/img/upload/sm_office2.jpg"
   image_link: "/solutions/" 
 ---
