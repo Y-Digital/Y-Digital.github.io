@@ -82,7 +82,7 @@ numbered_features:
   text: AI is an hot-topic on every boardroom agenda. Yet, it is important to keep a healthy 
     balance between the technological innovations with regards to Machine Learning, Generative 
     AI on the one hand, and on the other hand the ethical considerations and the practical change 
-    management, how will this affect employees on the work floor? The key question is: As an 
+    management, how will this affect employees on the work floor? The key question is - As an 
     organization how could you make optimal use of AI technologies, in order to make sure that AI 
     solutions become of added value to your organization? We are here to help you deconstruct the 
     black-box that calls AI. Whether it is creating a strategy for your business or developing a 
