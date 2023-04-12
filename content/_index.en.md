@@ -67,7 +67,7 @@ media:
   third_item: sign up newsletter
   third_item_link: "#footer-newsletter-form"
 
-footer_photo: "/img/hero-home.jpg"
+footer_photo: "/img/upload/ally.JPG"
 numbered_features:
 - title: Development
   text: The heartbeat of Y.digital are our data-scientists and neurolinguists. 
