@@ -879,6 +879,16 @@ p.name a {
   @media screen and (max-width: 74em) {
     .media p {
       font-size: 1rem; } }
+.intro ul {
+  margin-left: 2em;
+  padding-bottom: 1em;
+  list-style: disc; }
+
+.intro ul li {
+  font-size: 1.5rem;
+  line-height: 1.41666667;
+  letter-spacing: 0.24px; }
+
 /********** Approach **********/
 h1.approach {
   margin: 0;
