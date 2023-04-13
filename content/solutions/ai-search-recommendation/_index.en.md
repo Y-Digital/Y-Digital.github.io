@@ -37,13 +37,8 @@ numbered_features:
 - title: Searching & finding
   text: Searching and finding documents has changed immensely over last 2 decades, with the arrival of search engines on the internet searching for information has become more accessible. Yet, when searching internally within organization for information the possibility to finding what you are looking for is often less successful. The difference is that within most organizations use, specific jargon and the amount of expert knowledge that is needed to successfully find documents is elevated.
   image: "/img/upload/sm_498233134-1.jpg"
-- title: Call Routing
-  text: Based on the customer’s input, Ally connects the customer to the right department
-    and even best agent for their unique question. This can be based on variables
-    such as waiting times, a preference to talk to the same person they previously
-    spoke to, or specific subject matter knowledge of the agent. No matter who the
-    call is routed to, Ally is the ideal colleague and will always hand over the call
-    with all information ready to go.
+- title: Y AI?
+  text: AI is a technology that works perfectly for browsing through large amounts of data, analyzing it and offering the user the best search result. Y.digital helps organizations to unlock important information and turn it into useful knowledge with the help of the latest AI-technologies. Where some outdated technologies just look at key-word search, the possibilities of using the latest knowledge-graph technology is able to review the actual content of a text, and the combination of different words used in a specific context.
   image: "/img/upload/sm_office.jpg"
 - title: Call Handling
   text: Call Handling offers clients the ability to self-service, giving them the
