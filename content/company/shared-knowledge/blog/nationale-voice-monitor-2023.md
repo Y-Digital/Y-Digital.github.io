@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Carla Verwijmeren - Y.digital"
 date = 2023-04-13T07:15:36Z
 description = "Consument wil beter begrepen worden door chatbots en spraakassistenten "
 draft = true
