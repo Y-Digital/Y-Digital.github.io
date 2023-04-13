@@ -44,7 +44,7 @@ numbered_features:
     from employees in order to model this into AI technology and make it into useful
     solutions. The Ally-platform consists of different AI-technologies, that can be
     tailored and applied to your specific customer request.
-  image: "/img/upload/sm_498233134-1.jpg"
+  image: "/img/upload/thisisengineering-raeng-64yrpkiguae-unsplash.jpg"
   image_link: "/solutions/"
 - title: Business Transformation
   text: AI is an hot-topic on every boardroom agenda. Yet, it is important to keep
@@ -65,7 +65,7 @@ numbered_features:
   text: |-
     Are you looking for employees that could help you creating, developing and implementing AI solutions? Stop looking! Our workforce is also available for outsourcing in the field of AI and language understanding. Whether you need help with business transformation, the development of practical AI solutions in the area of Conversational AI, Intelligent Document Processing (IDP) or AI Search and Personalisation, we are here to help.
     Y.digital consists of experts in the field of AI, Machine Learning, Deep Learning, Natural Language Understanding and Natural Language Processing, knowledge graphs, generative AI and applying Large Language Models (LLM). We would like to challenge your request, finding out which route suits best for your organization.
-  image: "/img/upload/sm_office2.jpg"
+  image: "/img/upload/eden-constantino-oxmym9cuaey-unsplash.jpg"
   image_link: "/solutions/"
 quote_slide: []
 second_round_button:
