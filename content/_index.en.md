@@ -59,7 +59,7 @@ numbered_features:
     that are well suited for AI-solutions, checking possible risks that may occur
     when working with AI applications, executing impact assessments, and helping you
     deploy new ways of working with the required frameworks.
-  image: "/img/upload/sm_office.jpg"
+  image: "/img/upload/louise-viallesoubranne-5ehn4wbfvbc-unsplash.jpg"
   image_link: "/solutions/"
 - title: Secondment
   text: |-
