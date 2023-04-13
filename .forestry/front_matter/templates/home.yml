@@ -140,6 +140,11 @@ fields:
   config: {}
   template: numbered_features
   label: numbered_features
+- name: footer_photo
+  type: file
+  config:
+    maxSize: 64
+  label: footer_photo
 pages:
 - content/_index.en.md
 - content/_index.nl.md
