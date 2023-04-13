@@ -9,12 +9,7 @@ hero_circles:
   left_circle: Stop boredom
   right_circle: Start wisdom
 page_title: Intelligent Document Processing
-intro_text: 'Business processes have been automated for 50 years, using traditional
-  IT technology. But this has reached a limit: organizations still need employees
-  to handle questions, complex cases, exceptions, check compliance and handle documents.
-  So, the efficiency, quality and capacity of business processes still depends on
-  two key assets: employees and knowledge. Traditional IT technology can no longer
-  provide solutions. That’s where AI comes in.'
+intro_text: "Do you use RPA in your work but do you find the real impact of automation still disappointing? \n\nEvery day, all day long, organizations receive hundreds of documents to be manually processed by their employees. Our aim is to show this can be done differently and better. Are you looking for a way to automate intensive, unstructured business processes? Then reach out to Y.digital! We help you map, analyse and automate business processes based on intelligent AI technology."
 
 two_round_buttons:
   left_button: Stop reading
@@ -23,49 +18,12 @@ two_round_buttons:
   right_button_link: "/contact/"
   
 numbered_features:
-- title: Customer Identification
-  text: Customer identification is the process of verifying the identity of the person
-    calling your contact centre. By checking the authorisation via Conversational
-    AI, the assistant can prepare the call for the human agent. Or authorize the customer
-    for self-service. This will save a huge amount of time without sacrifising customer
-    satisfaction. Ally can verify a caller's identity through your CRM system using
-    their phone number and personal details such as date of birth or postal code.
-    Once the identity and intent of the caller are clear, the assistant can proceed
-    to either fulfil or route the call.
+- title: Intelligent Document Processing (IDP) 
+  text:  Intelligent Document Processing (IDP) is a smart solution for automatically processing documents with AI within your current business processes. Processing documents in an automated way is often difficult because of the sheer amount of domain-specific information required for correct treatment. The SaaS platform Ally assists you to easily categorize both structured and unstructured documents, analyze individual documents and extract text. An added Ally-platform cooperates with your existing IT-infrastructure, without any further modification needed. It enables, for instance, categorization and automatic processing of e-mails from customers, automated of the handling of insurance claims and the review of legal contracts with annotations and feedback. It implies deploying AI to support your business process, to better serve your customer and support your employee with the information necessary and applicable give the circumstances. This in turn will result in an improved customer experience, in rapid and relevant insight into the business process, and in an adequate and more consistent response to the customer. 
   image: "/img/upload/sm_498233134-1.jpg"
-- title: Call Routing
-  text: Based on the customer’s input, Ally connects the customer to the right department
-    and even best agent for their unique question. This can be based on variables
-    such as waiting times, a preference to talk to the same person they previously
-    spoke to, or specific subject matter knowledge of the agent. No matter who the
-    call is routed to, Ally is the ideal colleague and will always hand over the call
-    with all information ready to go.
+- title: A peek at our technology toolkit?
+  text: By using the latest language technologies, we enable customers to make information more accessible and obtainable and turn it into knowledge, able to interpret business rules and other ‘hidden’ business logic. Our toolkit uses a combination of different technologies, including cognitive machine learning, using optical character recognition (OCR) and computer vision. It extracts relevant information from PDF files, images, handwritten notes, signatures and plain text. Adding useful meta-data information it is able to categorize different documents, and to create a data set that can be used specifically for domain knowledge, document categorization, text interpretation and processing. All this using AI Technology as a tool towards empower employees and other users.
   image: "/img/upload/sm_office.jpg"
-- title: Call Handling
-  text: Call Handling offers clients the ability to self-service, giving them the
-    opportunity to solve problems on-demand; also outside office hours. By starting
-    the conversation with the open question ‘How can I help you?’, clients can converse
-    with Ally in a natural way. Call Handling thus reduces call volume and allows
-    agents in contact centres to stop spending time on simple, repetitive questions.
-    They can focus on more complex issues.
-  image: "/img/upload/sm_office2.jpg"
-- title: Registration
-  text: The conversation registration feature summarizes a transcript of an ongoing
-    discussion using an AI natural language model and in co-creation with the agent
-    registers all information in your CRM system. Hereby, Ally determines the issue
-    description and the resolution. Real-time summarisation solves the issue where
-    a customer needs to repeat their query and other information when transferred
-    from a voice assistant to an agent.
-  image: "/img/upload/sm_phone.jpg"
-- title: Agent Assist
-  text: 'When Ally is ‘listening in’ on the call and summarising in real time, it
-    can also suggest possible answers to the agent; even linking back to relevant
-    parts of an instruction manual or knowledge base in your backend. Customers and
-    human agents both benefit from this ''whisper'' feature. For new employees, this
-    reduces the need to learn lengthy company handbooks by heart – or frantically
-    searching for the correct information while on the call. The consumer receives
-    prompt, precise responses to their queries. '
-  image: "/img/upload/sm_assist.jpg"
 # features:
 # - text: We have developed AI solutions that capture and scale the knowledge of your
 #     organization. Technology that can be implemented in your business processes through
