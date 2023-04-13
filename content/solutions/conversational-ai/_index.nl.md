@@ -9,12 +9,7 @@ hero_circles:
   left_circle: Stop inefficiency
   right_circle: Start scaling
 page_title: Conversational AI
-intro_text: Gebruikers kunnen met een chatbot of voice assistenten communiceren in
-  verschillende talen, met behulp van spraak, typen of een combinatie van beide. De
-  keuze van het juiste conversatieplatform is essentieel om positieve klantervaringen
-  te creëren. Chatbots en voice assistenten moeten de drempel over van onbegrip. Te
-  vaak worden gebruikers niet goed begrepen of kunnen ze enkel een vraag beantwoorden
-  zonder een volgende handeling te ondersteunen.
+intro_text: "Geautomatiseerd klantcontact met inzet van chatbots en spraakassistenten vormt integraal onderdeel van klantcontact strategie, toch komen de klantverwachtingen nog niet overeen met het langverwachte succes van de inzet van dit soort technologieën. \n\nY.digital richt zich op het realiseren van next-level klantcontact, waarbij ook een geautomatiseerde spraak of chat oplossing, gemakkelijk meebeweegt met de vraag van de klant, en daarmee de klantwens gebruikt als uitgangspunt voor de dialoog. We maken daarbij gebruik van de laatste AI-technologie, op het gebied van taalverwerking en taalbegrip. \n\nOns team bestaat uit knappe koppen, experts in de neurolinguïstiek en data-science. We passen daarbij een unieke aanpak toe, het uitgangspunt daarvoor is het verloop van een normale dialoog van mens-tot-mens. De technologie moet daarbij ondersteunend zijn voor gebruikers, zowel klant als medewerker. De inzet van geavanceerde taaltechnologie leidt tot schaalbare customer contact oplossingen, meer succesvol afgehandelde klantvragen, meer. Op die manier ondersteunen we de medewerkers op de werkvloer, om echt complexe vragen persoonlijk te beantwoorden.\n\nHet Ally-platform is een SaaS oplossing, die op verschillende toepassingen geconfigureerd kan worden, o.a. ook als Conversational AI platform. Ally ondersteunt klanten en medewerkers van het Klantcontact center door het gemakkelijk routeren van vragen (telefonisch en via chat) naar de juiste afdeling, het afhandelen van klantverzoeken, denk daarbij aan het aanvragen, wijzigen, stopzetten of financiële vragen met behulp van een intelligente spraakassistent of chatbot. Er zijn meerdere manieren om medewerkers te ondersteunen in hun dagelijkse taken, denk daarbij aan het geautomatiseerd maken van een samenvatting van een telefoongesprek, het aanrijken van de juiste informatie op het juiste moment en generieker het analyseren van geautomatiseerd klantcontact, de gestelde vragen en evt. trends die buiten het zichtveld van organisaties gebeuren."
 action_text: Hoe werkt het?
 download_text: Download de whitepaper
 form_download_text: Gratis download
