@@ -34,15 +34,8 @@ two_round_buttons:
   left_button_link: "/contact/"
   right_button_link: "/contact/"
 numbered_features:
-- title: Customer Identification
-  text: Customer identification is the process of verifying the identity of the person
-    calling your contact centre. By checking the authorisation via Conversational
-    AI, the assistant can prepare the call for the human agent. Or authorize the customer
-    for self-service. This will save a huge amount of time without sacrifising customer
-    satisfaction. Ally can verify a caller's identity through your CRM system using
-    their phone number and personal details such as date of birth or postal code.
-    Once the identity and intent of the caller are clear, the assistant can proceed
-    to either fulfil or route the call.
+- title: Searching & finding
+  text: Searching and finding documents has changed immensely over last 2 decades, with the arrival of search engines on the internet searching for information has become more accessible. Yet, when searching internally within organization for information the possibility to finding what you are looking for is often less successful. The difference is that within most organizations use, specific jargon and the amount of expert knowledge that is needed to successfully find documents is elevated.
   image: "/img/upload/sm_498233134-1.jpg"
 - title: Call Routing
   text: Based on the customer’s input, Ally connects the customer to the right department
