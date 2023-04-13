@@ -73,27 +73,6 @@ fields:
     name: link
     label: link
 - type: field_group_list
-  name: features
-  label: features
-  fields:
-  - type: textarea
-    name: text
-    label: text
-    config:
-      wysiwyg: true
-      schema:
-        format: markdown
-- type: field_group
-  name: round_button
-  label: round_button
-  fields:
-  - type: text
-    name: button_text
-    label: button_text
-  - type: text
-    name: button_link
-    label: button_link
-- type: field_group_list
   name: quote_slide
   label: quote_slide
   fields:
@@ -109,6 +88,7 @@ fields:
   - type: file
     name: photo
     label: photo
+  hidden: true
 - name: media
   type: field_group
   config: {}
@@ -144,17 +124,6 @@ fields:
       required: false
     label: Third item link
   label: Media
-- type: field_group_list
-  name: feature
-  label: feature
-  fields:
-  - type: textarea
-    name: text
-    label: text
-    config:
-      wysiwyg: true
-      schema:
-        format: markdown
 - type: field_group
   name: second_round_button
   label: second_round_button
@@ -165,6 +134,7 @@ fields:
   - type: text
     name: button_link
     label: button_link
+  hidden: true
 - name: numbered_features
   type: include
   config: {}
