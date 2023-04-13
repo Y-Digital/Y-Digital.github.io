@@ -1,9 +1,9 @@
 ---
 title: Conversational IVR
 description: Conversational IVR
-layout: conversational-IVR
+layout: ai-search-recommendation
 lang: nl
-translationKey: conversational-IVR
+translationKey: ai-search-recommendation
 hero_image: "/img/hero-SCA.jpeg"
 hero_circles:
   left_circle: Stop demanding

@@ -15,37 +15,37 @@ intro_text: |-
 blue_button:
   dark_text: Neem contact op
   link: "/nl/contact/"
-features:
-- text: |-
-    ## Efficiency
+# features:
+# - text: |-
+#     ## Efficiency
 
-    De efficiency van je bedrijfsprocessen hangt af van drie belangrijke factoren: medewerkers, kennis en systemen. Wij gebruiken de menselijke intelligentie in onze geautomatiseerde oplossingen voor Intelligent Document Processing. Hiermee verhoog je de efficiency en kwaliteit aanzienlijk. Met als belangrijkste voordelen: schaalbaarheid, verbeterde nauwkeurigheid, verhoogde productiviteit en een aanzienlijke kostenreductie.
-- text: |-
-    ## Klantervaring
+#     De efficiency van je bedrijfsprocessen hangt af van drie belangrijke factoren: medewerkers, kennis en systemen. Wij gebruiken de menselijke intelligentie in onze geautomatiseerde oplossingen voor Intelligent Document Processing. Hiermee verhoog je de efficiency en kwaliteit aanzienlijk. Met als belangrijkste voordelen: schaalbaarheid, verbeterde nauwkeurigheid, verhoogde productiviteit en een aanzienlijke kostenreductie.
+# - text: |-
+#     ## Klantervaring
 
-    Wil je geweldige klantervaringen creëren? Wij ontwerpen en bouwen AI-oplossingen die een belangrijke rol spelen in de gehele customer journey. Met onze geavanceerde conversationele AI-technologie leveren wij intelligente - knowledge graph based - chatbots en voice-assistenten voor o.a. op de website en in je callcenter. De belangrijkste resultaten: intelligentere conversaties, hoger percentage 'first time right' en een hogere klanttevredenheid.
-- text: |-
-    ## Medewerker support
+#     Wil je geweldige klantervaringen creëren? Wij ontwerpen en bouwen AI-oplossingen die een belangrijke rol spelen in de gehele customer journey. Met onze geavanceerde conversationele AI-technologie leveren wij intelligente - knowledge graph based - chatbots en voice-assistenten voor o.a. op de website en in je callcenter. De belangrijkste resultaten: intelligentere conversaties, hoger percentage 'first time right' en een hogere klanttevredenheid.
+# - text: |-
+#     ## Medewerker support
 
-    Zeer gemotiveerde en betrokken werknemers stimuleren de groei van je bedrijf. Onze digitale AI-assistenten ondersteunen jouw medewerkers met relevante informatie en kennis, suggesties voor next best actions, het verwerken van documenten en automatiseren van repetitief werk. De belangrijkste resultaten: hogere medewerkerstevredenheid, betere kwaliteit, een lagere werkdruk, minder repetitief werk en meer flexibiliteit.
-quote_slide:
-- quote_text: Een veel gehoorde frustratie bij virtuele assistenten is dat ze niet
-    genoeg begrijpen of je door dialogen leiden die niet relevant zijn. We hebben
-    nu nieuwe technologie beschikbaar die niet alleen schaalbaar is, maar ook klantvriendelijk.
-  author: Ian FitzPatrick
-  from: Y.digital
-  photo: "/img/upload/ian.jpeg"
-round_button:
-  button_text: Ga naar oplossingen
-  button_link: "/nl/solutions/"
-second_round_button:
-  button_text: Lees onze blogs
-  button_link: "/nl/company/shared-knowledge/"
-feature:
-- text: |-
-    ## Klaar voor de volgende stap?
+#     Zeer gemotiveerde en betrokken werknemers stimuleren de groei van je bedrijf. Onze digitale AI-assistenten ondersteunen jouw medewerkers met relevante informatie en kennis, suggesties voor next best actions, het verwerken van documenten en automatiseren van repetitief werk. De belangrijkste resultaten: hogere medewerkerstevredenheid, betere kwaliteit, een lagere werkdruk, minder repetitief werk en meer flexibiliteit.
+# quote_slide:
+# - quote_text: Een veel gehoorde frustratie bij virtuele assistenten is dat ze niet
+#     genoeg begrijpen of je door dialogen leiden die niet relevant zijn. We hebben
+#     nu nieuwe technologie beschikbaar die niet alleen schaalbaar is, maar ook klantvriendelijk.
+#   author: Ian FitzPatrick
+#   from: Y.digital
+#   photo: "/img/upload/ian.jpeg"
+# round_button:
+#   button_text: Ga naar oplossingen
+#   button_link: "/nl/solutions/"
+# second_round_button:
+#   button_text: Lees onze blogs
+#   button_link: "/nl/company/shared-knowledge/"
+# feature:
+# - text: |-
+#     ## Klaar voor de volgende stap?
 
-    Wij zijn gespecialiseerd in AI-technologie en starten met jouw reden Y. Wil je weten welke waarde dit kan toevoegen aan jouw organisatie? [Neem dan contact met ons op.](/nl/contact/ "Neem dan contact met ons op.")
+#     Wij zijn gespecialiseerd in AI-technologie en starten met jouw reden Y. Wil je weten welke waarde dit kan toevoegen aan jouw organisatie? [Neem dan contact met ons op.](/nl/contact/ "Neem dan contact met ons op.")
 cards: []
 hero_slide:
 - slide_left_circle: 'Stop time wasting'
