@@ -1,4 +1,5 @@
 {{ define "main" }}
+
 {{ partial "hero.html" . }}
 
 <section class="wide light-gray">
@@ -6,65 +7,106 @@
 	{{ partial "hero-circles.html" . }}
 
 	<section class="intro">
-		<h1 class="sub-circles">{{ .Page.Title }}</h1>
-		<p>{{ .Params.intro_text }}</p>
-	</section>
-</section>
-
-<section class="wide second">
-
-{{ partial "features.html" . }}
-
-<h2 class="heading-orange-text">{{ .Params.page_heading_2 }}</h2>
-
-<div class="cards">
-	{{ with .Params.chatbots }}  
-	<section class="card solutions orange cb">
-		<h3 class="list-heading">{{ .box_title }}</h3>
-		<p class="card-text">{{ markdownify .box_text }}</p>
-		<p class="read-more"><a class="white-text" href="/contact/">Get in touch</a></p>
-	</section>
-	{{ end }}
-
-	{{ with .Params.smart_call_assistance }}  
-	<section class="card solutions orange sca">
-		<h3 class="list-heading">{{ .box_title }}</h3>
-		<p class="card-text">{{ markdownify .box_text }}</p>
-		<p class="read-more"><a class="white-text" href="/solutions/smartcall-assistance/">Read more</a></p>
-	</section>
-	{{ end }}
-
-	{{ with .Params.employee_assistants }}  
-	<section class="card solutions orange ea">
-		<h3 class="list-heading">{{ .box_title }}</h3>
-		<p class="card-text">{{ markdownify .box_text }}</p>
-		<p class="read-more"><a class="white-text" href="/contact/">Get in touch</a></p>
-	</section>
-	{{ end }}
-
-	{{ with .Params.voice_assistant }}  
-	<section class="card solutions orange vaga">
-		<h3 class="list-heading">{{ .box_title }}</h3>
-		<p class="card-text">{{ markdownify .box_text }}</p>
-		<p class="read-more"><a class="white-text" href="/contact/">Get in touch</a></p>
-	</section>
-	{{ end }}
-
-	{{ range .Pages.ByDate.Reverse }}
-    <a class="white-text" href="{{ .Permalink }}">
-		<section class="card rect blue">
-			<h3 class="rect-heading">{{ .Title }}</h3>
-			<p>{{ .Params.intro_text }}</p>
-			<p class="read-more">Read more</p>
+		<h1 class="sub-circles">{{ .Params.page_title }}</h1>
+		<p style="padding-bottom: 2.5em;">{{ markdownify .Params.intro_text }}</p>
 		</section>
-	</a>
-    {{ end }}
+</section>
+<section class="wide second">
+	{{ with .Params.blue_button }}
+	<button style="cursor: pointer;" id="sca-download">
+		<div class="circle download small">
+			<p>{{ .dark_text }}</p>
+			<img class="arrow-small" src="/img/arrow-white.svg">
+		</div>
+	</button>
+	{{ end }}
+	<h1 class="orange-text">{{ .Params.action_text }}</h1>
+	<div class="time-line">
+		<img src="/img/time-line.jpeg" />
+		{{ if .Params.numbered_features }}
+		{{ $counter := 1 }}
+		{{ range .Params.numbered_features }}
+		{{$title := .title}}
+		<a class="link link-0{{ $counter }}" href="#sca0{{ $counter }}">
+			{{$title = replace .title " " "<br>"}}
+			{{ $title | safeHTML}}
+		</a>
+		{{ $counter = add $counter 1 }}
+		{{ end }}
+		{{ end }}
+	</div>
+	{{/* <div class="download-container">
+		<a class="download-button" href="{{ .Params.link }}" download>{{ .Params.link }}</a>
+	</div> */}}
+	{{ if .Params.numbered_features }}
+	{{ $counter := 0 }}
+	{{ $mod := 0 }}
+	{{ range .Params.numbered_features }}
+	{{ $counter = add $counter 1 }}
+	<div id="sca0{{ $counter }}" class="sca-feature-section">
+		{{$mod = mod $counter 2}}
+		{{if eq 0 $mod }}
+		<div class="wide wide-right">
+			<h1 class="title">{{ .title }}</h1>
+			<p>{{ markdownify .text }}</p>
+		</div>
 
-</div>
+		<img class="sca-image right" src="{{ .image }}" alt="">
 
-{{ partial "two-round-buttons.html" . }}
+
+		{{else}}
+		<img class="sca-image left" src="{{ .image }}" alt="">
+		<div class="wide wide-left">
+			<h1 class="title">{{ .title }}</h1>
+			<p>{{ markdownify .text }}</p>
+		</div>
+		{{end}}
+		</div>
+		{{ end }}
+	{{ end }}
 
 </section>
+<div id="sca-download-form" class="modal">
+	<!-- Modal content -->
+	<div class="sca-modal-content">
+		<div class="modal-body">
+			<img id="sca-close" class="close sca-close" src="/img/crotch.svg" alt="">
+			<section class="section section__form">
+				<div class="row">
+					<h3 class="heading-tertiary mb-lg">
+						{{ .Params.form_download_text}} <span class="heading-tertiary--sub"></span>
+					</h3>
 
-
+					<!--Form-->
+					<form method="post" class="form" id="sca-form">
+						<div class="form__group">
+							<input type="text" class="form__input" placeholder='{{T "firstName"}}*' id="first_name" name="first_name"
+								required />
+						</div>
+						<div class="form__group">
+							<input type="text" class="form__input" placeholder='{{T "lastName"}}*' id="last_name" name="last_name" required />
+						</div>
+						<div class="form__group">
+							<input type="email" class="form__input" placeholder='{{T "email"}}*' id="email" name="email" required />
+						</div>
+						<div class="form__group">
+							<input type="text" class="form__input" placeholder='{{T "companyName"}}' id="company" name="company" />
+						</div>
+						<p class="obligated" style="color: wheat;margin-top: 1rem">{{.Params.consent_info}}</p>
+						<div>
+							<input required style="all:revert" checked type="checkbox" id="y-digital-consent" name="ydigital" />
+							<label for="ydigital">{{.Params.consent_text}}*</label>
+						</div>
+						<p class="obligated" style="color: wheat;margin-top: 1rem">{{ T "requiredField"}}</p>
+						<div class="form__group">
+							<button id="submit-button" data-url="{{ .Params.blue_button.link }}" class="btn btn--primary"
+								type="submit">{{.Params.download_text}}</button>
+						</div>
+					</form>
+					</div>
+					</section>
+						</div>
+						</div>
+						</div>
+						<script type="text/javascript" src="/js/sca.js"></script>
 {{ end }}
