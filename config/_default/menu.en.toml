@@ -31,12 +31,12 @@ weight = 20
 	pageRef = "/solutions/intelligent-document-processing"
 	weight = 24
 	[[main]]
-	identifier = "conversational-IVR"
+	identifier = "ai-search-recommendation"
 	parent = "solutions"
 	name = "ai search & recommendation"
 	title = "AI Search & Recommendation"
-	url = "/solutions/conversational-IVR/"
-	pageRef = "/solutions/conversational-IVR"
+	url = "/solutions/ai-search-recommendation/"
+	pageRef = "/solutions/ai-search-recommendation"
 	weight = 26
 [[main]]
 identifier = "services"
@@ -122,10 +122,10 @@ weight = 20
 	weight = 24
 	[[footer]]
 	parent = "solutions"
-	identifier = "conversational-IVR1"
+	identifier = "ai-search-recommendation1"
 	name = "AI Search & Recommendation"
-	url = "/solutions/conversational-IVR/"
-	pageRef = "/solutions/conversational-IVR"
+	url = "/solutions/ai-search-recommendation/"
+	pageRef = "/solutions/ai-search-recommendation"
 	weight = 26
 [[footer]]
 identifier = "services"
