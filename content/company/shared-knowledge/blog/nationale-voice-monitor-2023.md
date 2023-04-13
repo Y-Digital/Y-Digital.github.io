@@ -2,7 +2,6 @@
 author = "Carla Verwijmeren - Y.digital"
 date = 2023-04-13T07:15:36Z
 description = "Consument wil beter begrepen worden door chatbots en spraakassistenten "
-draft = true
 featured_image = "/img/upload/nvm_logo_rgb_liggend.png"
 layout = "blog"
 summary = "Hoewel consumenten openstaan voor geautomatiseerd klantcontact, voelt 90% van de Nederlandse consumenten zich hierbij niet goed begrepen."
