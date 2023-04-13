@@ -1,9 +1,9 @@
 ---
 title: Conversational IVR
 description: Conversational IVR
-layout: smart-call-assistance
+layout: conversational-IVR
 lang: en
-translationKey: smartcall-assistance
+translationKey: conversational-IVR
 hero_image: "/img/hero-SCA.jpeg"
 hero_circles:
   left_circle: Stop demanding
