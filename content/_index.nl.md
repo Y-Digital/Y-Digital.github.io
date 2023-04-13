@@ -47,7 +47,7 @@ numbered_features:
     te modelleren en om te zetten in slimme technologie. Zij maken daarbij gebruik
     van Ally-platform van Y.digital, een SaaS-oplossing met daarin verschillende AI-technologieën
     die voor jouw specifieke vraagstuk kunnen worden ingezet.
-  image: "/img/upload/thisisengineering-raeng-64yrpkiguae-unsplash.jpg"
+  image: "/img/upload/screenshot-2023-04-13-at-13-45-52.jpg"
   image_link: "/solutions/"
 - title: Business Transformation
   text: AI mag niet meer ontbreken op de agenda van de boardroom. Toch is het belangrijk
