@@ -23,7 +23,7 @@ cards: []
 hero_slide:
 - slide_left_circle: Stop time wasting
   slide_right_circle: Start scaling
-  slide_image: "/img/hero-approach.jpg"
+  slide_image: "/img/upload/448855791.jpeg"
 - slide_left_circle: Stop standardizing
   slide_right_circle: Start personalizing
   slide_image: "/img/hero-solutions.jpg"
