@@ -1,6 +1,6 @@
 ---
-title: Conversational IVR
-description: Conversational IVR
+title: AI Search & Personalisatie
+description: AI Search & Personalisatie
 layout: ai-search-recommendation
 lang: nl
 translationKey: ai-search-recommendation
@@ -8,13 +8,8 @@ hero_image: "/img/hero-SCA.jpeg"
 hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
-page_title: Conversational IVR
-intro_text: Verbeter de klantervaring en verlaag tegelijkertijd uw servicekosten met
-  Smart Call Assistance, gebaseerd op het Conversational AI-platform Ally. Ally ondersteunt
-  zowel klanten als medewerkers in het KCC. Met behulp van Smart Call Assistance kunt
-  u intakes uitvoeren, inkomende gesprekken routeren en gesprekken daadwerkelijk afhandelen
-  en administreren. Bovendien helpt een gebruiksvriendelijke 'whispering' functie
-  uw medewerkers bij hun dagelijkse werk.
+page_title: AI Search & Personalisatie
+intro_text: Het zoeken en vinden van informatie is in de laatste decennia vele malen toegankelijker geworden met de komst van zoekmachines op het internet. Toch is het zoeken en vinden van informatie binnen organisaties lang niet zo gemakkelijk en toegankelijk. Het verschil is dat de meeste organisaties eigen jargon gebruiken in combinatie met specifieke woorden die van toepassing zijn in de sector waarin ze werkzaam zijn. Eigenlijk moet je dus een expert zijn om succesvol informatie te kunnen vinden.
 action_text: Hoe werkt het?
 download_text: Download de whitepaper
 form_download_text: Gratis download
@@ -35,48 +30,17 @@ two_round_buttons:
   left_button_link: "/contact/"
   right_button_link: "/contact/"
 numbered_features:
-- title: Klant Identificatie
-  text: 'Smart Call Assistance helpt bij de identificatie van de persoon die contact
-    opneemt het het KCC. Dankzij deze identificatie kan de Ally het gesprek voorbereiden
-    voor de medewerker of de klant autoriseren voor selfservice. Dit bespaart veel
-    tijd zonder dat dit ten koste gaat van de klanttevredenheid. Ally kan de identiteit
-    van een beller verifiëren via uw CRM-systeem. Aan de hand van bijvoorbeeld het
-    telefoonnummer en persoonlijke gegevens, zoals BSN-nummer, geboortedatum of postcode. '
-  image: "/img/upload/sm_498233134-1.jpg"
-- title: Call Routing
-  text: Smart Call Assistance kan de beller op basis van de vraag doorverbinden met
-    de juiste afdeling. Of desgewenst met de meest passende medewerker voor zijn of
-    haar unieke vraag. Hiervoor gebruiken we variabelen zoals wachttijden, een voorkeur
-    om te spreken met de persoon die ze eerder hebben gesproken of specifieke vakinhoudelijke
-    kennis van de medewerker. De gegevens en vraag van de klant worden uiteraard via
-    een warme overdracht meegegeven aan de medewerker.
+- title: Y. AI?
+  text: 'AI (artificial Intelligence) technologie werkt perfect voor het doorzoeken van grote aantallen data, het analyseren en het teruggeven van het beste zoekresultaat. Y.digital helpt organisaties om belangrijke informatie te ontsluiten en om te zetten naar waardevolle kennis met behulp van technologie. Vroegere technologieën maakten voor het vindbaar maken van documenten gebruik  van key-word search, waarbij enkel wordt gezocht op het woord dat wordt ingegeven. Echter met vernieuwde AI-technologie, o.a. knowledge graphs kunnen we teksten beoordelen op een veel breder vlak, denk bijvoorbeeld aan het interpreteren van de tekst in een document, de combinatie van woorden in een specifieke context en synoniemen kunnen linken aan je zoekopdracht.'
   image: "/img/upload/sm_office.jpg"
-- title: Call Handling
-  text: 'Call Handling biedt klanten de mogelijkheid tot selfservice, zo kunnen zij
-    on-demand problemen oplossen. Ook buiten kantooruren. Door het gesprek te beginnen
-    met de open vraag "Hoe kan ik u helpen?" kunnen klanten op een natuurlijke manier
-    met Ally praten. Call Handling vermindert zo het aantal ''live'' gesprekken en
-    neemt eenvoudig, repetitief werk uit handen. Zo kunnen medewerkers zich richten
-    op mee uitdagend werk, wat een positief effect heeft op de medewerkerstevredenheid.
-
-    '
+- title: Ontmoet Ally
+  text: 'Het Ally-platform is een SaaS oplossing die verschillende AI technologieën combineert. Daarmee is ze geen vervanging voor bestaande systemen zoals document management systemen, maar een laag over je bestaande bronnen heen die je in staat stelt om documenten vindbaar te maken. Zo hoef je niet meer over heel veel bedrijfsspecifieke kennis te bezitten voor het vinden van documenten, maar ondersteunt de AI je in je zoekopdracht.'
   image: "/img/upload/sm_office2.jpg"
-- title: Registratie
-  text: Met Smart Call Assistance kunt u eenvoudig gesprekken transcriberen en samenvatten.
-    De medewerker kan zo eenvoudig de verslaglegging voor het CRM-systeem doen. Hierbij
-    definiëert Ally de vraag en de geboden oplossing. Real-time samenvatten tijdens
-    het gesprek lost bovendien het probleem op waarbij een klant zijn vraag en andere
-    informatie moet herhalen wanneer deze wordt overgedragen van een spraakassistent
-    naar een agent. Ook handig!
+- title: Ondersteunen van mensen
+  text: Elke dag worden er tientallen nieuwe documenten binnen organisaties gemaakt, of het notities is van een vergadering, offertes voor nieuwe klanten, of een besluit dat is genomen. Documenten bevatten vaak waardevolle informatie over de operatie van je organisatie, echter is het archiveren van deze documenten een taak die je liever van je to-do lijst schrapt. Met de hulp van AI technologie kunnen we praktische informatie over de creatie van het document toevoegen in de vorm van meta-data. Dat helpt je later om documenten gemakkelijker terug te vinden en we kunnen ons voorstellen dat je ook nog documenten van jaren terug hebt die je graag op deze nieuwste manier vindbaar wilt laten maken, we helpen je graag.
   image: "/img/upload/sm_phone.jpg"
-- title: Agent Assist
-  text: Wanneer Ally meeluistert met het gesprek en het real time samenvat, doen we
-    ook suggesties aan de medewerker voor mogelijke antwoorden. Deze suggesties extraheren
-    we met behulp van AI uit diverse bronnen, zoals een kennisbank of website. Zowel
-    klanten als medewerkers profiteren van deze 'whispering-functie'. Voor nieuwe
-    medewerkers vermindert dit de noodzaak om alle kennis uit het hoofd te leren -
-    of tijdens het gesprek gehaast te zoeken naar de juiste informatie. De consument
-    krijgt snel en nauwkeurig antwoord op zijn vragen.
+- title: Practice what you preach
+  text: 'Voor een organisatie die verantwoordelijk is voor de infrastructuur van het stroomnetwerk hebben we grote hoeveelheden data geanalyseerd, die terug dateerden tot 1980. Hele bruikbare informatie die op dagelijkse basis van toegevoegde waarde is, maar die niet terug te vinden is in de huidige zoekfunctionaliteit. Met de hulp van het Ally-platform van Y.digital kan de informatie nu gemakkelijk aan de medewerkers worden aangereikt, zonder dat ze daarbij moeilijke werkinstructies hoeven te volgen voor het vinden en archiveren van documenten. Y.digital ondersteunt mensen met de laatste AI-technologie.'
   image: "/img/upload/sm_assist.jpg"
 
 ---
