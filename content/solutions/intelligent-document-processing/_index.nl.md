@@ -9,62 +9,21 @@ hero_circles:
   left_circle: Stop boredom
   right_circle: Start wisdom
 page_title: Intelligent Document Processing
-intro_text: 'Bedrijfsprocessen worden met behulp van traditionele IT-technologie al
-  50 jaar geautomatiseerd. Maar dit heeft een grens bereikt: organisaties hebben nog
-  steeds werknemers nodig om vragen, complexe gevallen en uitzonderingen te behandelen,
-  de naleving van de voorschriften te controleren en documenten te behandelen. De
-  efficiëntie, kwaliteit en capaciteit van bedrijfsprocessen hangt dus nog steeds
-  af van twee belangrijke elementen: medewerkers en kennis. Traditionele IT-technologie
-  kan niet langer oplossing bieden. Dat is waar AI om de hoek komt kijken.'
+intro_text: "Werk je al met RPA maar vind je de échte impact van automatisering nog tegenvallen? \n\nDagelijks komen honderden documenten binnen bij organisaties die handmatig door medewerkers verwerkt te worden. Dat kan anders vinden wij. Kortom ben je op zoek naar een manier waarop kennis intensieve, ongestructureerde bedrijfsprocessen kunt automatiseren? Dan ben je bij Y.digital aan het juiste adres! Wij helpen je bedrijfsprocessen in kaart te brengen, te analyseren op basis van intelligente AI technologie geautomatiseerd te verwerken."
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
   left_button_link: "/contact/"
   right_button_link: "/contact/"
 numbered_features:
-- title: Klant Identificatie
-  text: 'Smart Call Assistance helpt bij de identificatie van de persoon die contact
-    opneemt het het KCC. Dankzij deze identificatie kan de Ally het gesprek voorbereiden
-    voor de medewerker of de klant autoriseren voor selfservice. Dit bespaart veel
-    tijd zonder dat dit ten koste gaat van de klanttevredenheid. Ally kan de identiteit
-    van een beller verifiëren via uw CRM-systeem. Aan de hand van bijvoorbeeld het
-    telefoonnummer en persoonlijke gegevens, zoals BSN-nummer, geboortedatum of postcode. '
+- title: Intelligent Document Processing (IDP)
+  text: 'Intelligent Document Processing (IDP) is een slimme oplossing voor het verwerken van documenten binnen je bestaande businessprocessen. 
+Het verwerken van documenten op een geautomatiseerde manier is vaak lastig omdat er veel domein specifieke informatie wordt gebruikt voor de verwerking ervan. Met het SaaS-platform Ally kun je gemakkelijk gestructureerde -en ongestructureerde documenten, categoriseren, separate documenten analyseren en tekst extraheren, zonder dat je de bestaande infrastructuur aan hoeft te passen. Denk bijvoorbeeld aan het categoriseren en automatisch verwerken van e-mailboxen, het geautomatiseerd afhandelen van verzekeringsclaims en de beoordeling van juridische contracten met annotaties en feedback. , toch gemakkelijk gebruik maken van IDP van Y.digital, om bijvoorbeeld contracten, verzekeringsclaims en e-mailboxen te inventariseren, te categoriseren, en de inhoud van losse documenten te beoordelen en met zinvolle opmerkingen -en annotaties terug te geven aan de betreffende medewerker. De inzet van AI ter ondersteuning van je bedrijfsproces, om je klant beter te helpen en je medewerker te ondersteunen met de benodigde informatie. Oftewel, een verbeterde klantervaring, waarbij je gemakkelijk achterhaald hoe het bedrijfsproces verlopen is, en er een consistenter antwoord aan de klant wordt gegeven.'
   image: "/img/upload/sm_498233134-1.jpg"
-- title: Call Routing
-  text: Smart Call Assistance kan de beller op basis van de vraag doorverbinden met
-    de juiste afdeling. Of desgewenst met de meest passende medewerker voor zijn of
-    haar unieke vraag. Hiervoor gebruiken we variabelen zoals wachttijden, een voorkeur
-    om te spreken met de persoon die ze eerder hebben gesproken of specifieke vakinhoudelijke
-    kennis van de medewerker. De gegevens en vraag van de klant worden uiteraard via
-    een warme overdracht meegegeven aan de medewerker.
+- title: Een kijkje in de technologie van onze toolkit?
+  text: Heb je ook nog ergens een berg ongestructureerde documenten, waarvan je denk dat ze mogelijk niet meer relevant zijn voor je operatie? Think again! We inventariseren graag documenten aak relevante informatie voor je dagdagelijkse operatie, maar digitaliseren van informatie is vaak een tijdrovende taak. Door middel van inzet van cognitive machine learning, waaronder optical character recogntion (OCR) en computer vision extraheren we relevante informatie uit PDF-bestanden, denk daarbij aan afbeeldingen, handgeschreven aantekeningen, handtekeningen en platte tekst. \n\nCategoriseren - vervolgens meta-dateren we informatie en maken we een data-set die specifiek voor jouw domeinkennis kan worden ingezet, om documenten te categoriseren, tekst te interpreteren en verwerken.  
+Op die manier assisteren we medewerkers met AI-technologie. 
   image: "/img/upload/sm_office.jpg"
-- title: Call Handling
-  text: 'Call Handling biedt klanten de mogelijkheid tot selfservice, zo kunnen zij
-    on-demand problemen oplossen. Ook buiten kantooruren. Door het gesprek te beginnen
-    met de open vraag "Hoe kan ik u helpen?" kunnen klanten op een natuurlijke manier
-    met Ally praten. Call Handling vermindert zo het aantal ''live'' gesprekken en
-    neemt eenvoudig, repetitief werk uit handen. Zo kunnen medewerkers zich richten
-    op mee uitdagend werk, wat een positief effect heeft op de medewerkerstevredenheid.
-
-    '
-  image: "/img/upload/sm_office2.jpg"
-- title: Registratie
-  text: Met Smart Call Assistance kunt u eenvoudig gesprekken transcriberen en samenvatten.
-    De medewerker kan zo eenvoudig de verslaglegging voor het CRM-systeem doen. Hierbij
-    definiëert Ally de vraag en de geboden oplossing. Real-time samenvatten tijdens
-    het gesprek lost bovendien het probleem op waarbij een klant zijn vraag en andere
-    informatie moet herhalen wanneer deze wordt overgedragen van een spraakassistent
-    naar een agent. Ook handig!
-  image: "/img/upload/sm_phone.jpg"
-- title: Agent Assist
-  text: Wanneer Ally meeluistert met het gesprek en het real time samenvat, doen we
-    ook suggesties aan de medewerker voor mogelijke antwoorden. Deze suggesties extraheren
-    we met behulp van AI uit diverse bronnen, zoals een kennisbank of website. Zowel
-    klanten als medewerkers profiteren van deze 'whispering-functie'. Voor nieuwe
-    medewerkers vermindert dit de noodzaak om alle kennis uit het hoofd te leren -
-    of tijdens het gesprek gehaast te zoeken naar de juiste informatie. De consument
-    krijgt snel en nauwkeurig antwoord op zijn vragen.
-  image: "/img/upload/sm_assist.jpg"
 # features:
 # - text: Wij hebben AI-oplossingen ontwikkeld die de kennis van je organisatie vastleggen
 #     en opschalen. Technologie die via verschillende oplossingen in je bedrijfsprocessen
