@@ -9,11 +9,7 @@ hero_circles:
   left_circle: Stop inefficiency
   right_circle: Start scaling
 page_title: Conversational AI
-intro_text: Users can communicate with a chatbot or voice assistant in different languages,
-  using either voice, typing or a combination of both. Choosing the right conversational
-  platform is essential to create positive customer experiences. Chatbots and voice
-  assistants have to overcome the trough of disillusion. Too often users are not properly
-  understood or can only answer a question without supporting follow-up transactions.
+intro_text: "Chatbots and voicebots form integrated part of the customer contact strategy of today, yet, customer expectations remain low in relation to the much anticipated success of technologies in the field of unassisted customer contact. \n\nY.digital offers solutions that establish next-level customer contact, using technology that is capable of letting chatbots and voicebots respond to every customer query. Thus, using the customer’s whish as a starting point for the interaction. We use the latest AI technology, in the field of language processing and language understanding. \n\nOur team consists of bright minds, experts in neurolinguistics and data-science. We apply a unique approach, for which is the course of a normal human-to-human dialogue. The technology should be supportive for users, both customer and employee. The use of advanced language technology makes customer contact more scalable, leads to more completed customer queries and more customer satisfaction. This way, we support employees in customer contact to answer really complex questions personally.\n\nThe Ally platform is a SaaS solution, which can be configured for various applications, including as a Conversational AI platform. Ally supports customers and Customer Contact Centre employees by easily routing questions (by phone and chat) to the right department, handling customer requests, such as requesting, changing, or cancelling a certain service with the help of an intelligent voice assistant or chatbot. There are several ways to support employees in their daily tasks, think of the automated creation of a summary of a telephone call, the provision of the right information at the right time (Agent-Assist) and more generically, the analysis of automated customer contact, an overview of frequently asked questions and trend-analysis."
 
 action_text: How does it work?
 download_text: Download White Paperes
