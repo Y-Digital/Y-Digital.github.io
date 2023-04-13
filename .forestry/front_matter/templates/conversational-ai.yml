@@ -33,6 +33,7 @@ fields:
   - type: text
     name: right_circle
     label: right_circle
+  hidden: true
 - type: text
   name: page_title
   label: page_title
@@ -50,11 +51,13 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+  hidden: true
 - name: page_heading_2
   type: text
   config:
     required: false
   label: Page heading 2
+  hidden: true
 - type: field_group
   name: chatbots
   label: chatbots
@@ -72,6 +75,7 @@ fields:
   - type: text
     name: link
     label: link
+  hidden: true
 - type: field_group
   name: smart_call_assistance
   label: smart_call_assistance
@@ -89,6 +93,7 @@ fields:
   - type: text
     name: link
     label: link
+  hidden: true
 - type: field_group
   name: employee_assistants
   label: employee_assistants
@@ -108,6 +113,7 @@ fields:
     config:
       required: false
     label: Link
+  hidden: true
 - type: field_group
   name: voice_assistant
   label: voice_assistant
@@ -127,6 +133,7 @@ fields:
     config:
       required: false
     label: Link
+  hidden: true
 - type: field_group
   name: two_round_buttons
   label: two_round_buttons
@@ -143,6 +150,12 @@ fields:
   - type: text
     name: right_button_link
     label: right_button_link
+  hidden: true
+- name: numbered_features
+  type: include
+  config: {}
+  template: numbered_features
+  label: numbered_features
 pages:
 - content/solutions/conversational-ai/_index.en.md
 - content/solutions/conversational-ai/_index.nl.md
