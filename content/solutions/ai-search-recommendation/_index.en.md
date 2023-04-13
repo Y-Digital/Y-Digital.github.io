@@ -1,6 +1,6 @@
 ---
-title: Conversational IVR
-description: Conversational IVR
+title: AI Search & Personalization
+description: AI Search & Personalization
 layout: ai-search-recommendation
 lang: en
 translationKey: ai-search-recommendation
@@ -8,7 +8,7 @@ hero_image: "/img/hero-SCA.jpeg"
 hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
-page_title: Conversational IVR
+page_title: AI Search & Personalization
 intro_text: 'Improve your customer experience and at the same time reduce your cost
   to serve. AI-powered voice assistants  can support your customers as well as the
   agents in your contact centre. By performing intakes, routing incoming calls and
