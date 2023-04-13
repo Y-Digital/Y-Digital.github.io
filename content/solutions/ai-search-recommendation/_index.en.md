@@ -9,11 +9,7 @@ hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
 page_title: AI Search & Personalization
-intro_text: 'Improve your customer experience and at the same time reduce your cost
-  to serve. AI-powered voice assistants  can support your customers as well as the
-  agents in your contact centre. By performing intakes, routing incoming calls and
-  actually handling and administrating calls. And an easy to use whispering function
-  that helps your agents in their daily work. '
+intro_text: 'Searching and finding documents has changed immensely over last 2 decades, with the arrival of search engines on the internet searching for information has become more accessible. Yet, when searching internally within organization for information the possibility to finding what you are looking for is often less successful. The difference is that within most organizations use, specific jargon and the amount of expert knowledge that is needed to successfully find documents is elevated.'
 action_text: How does it work?
 download_text: Download White Paperes
 form_download_text: Free download
@@ -34,9 +30,6 @@ two_round_buttons:
   left_button_link: "/contact/"
   right_button_link: "/contact/"
 numbered_features:
-- title: Searching & finding
-  text: Searching and finding documents has changed immensely over last 2 decades, with the arrival of search engines on the internet searching for information has become more accessible. Yet, when searching internally within organization for information the possibility to finding what you are looking for is often less successful. The difference is that within most organizations use, specific jargon and the amount of expert knowledge that is needed to successfully find documents is elevated.
-  image: "/img/upload/sm_498233134-1.jpg"
 - title: Y AI?
   text: AI is a technology that works perfectly for browsing through large amounts of data, analyzing it and offering the user the best search result. Y.digital helps organizations to unlock important information and turn it into useful knowledge with the help of the latest AI-technologies. Where some outdated technologies just look at key-word search, the possibilities of using the latest knowledge-graph technology is able to review the actual content of a text, and the combination of different words used in a specific context.
   image: "/img/upload/sm_office.jpg"
