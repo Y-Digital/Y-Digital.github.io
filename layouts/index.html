@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="wide light-gray">
+<section class="wide light-gray" style="position: relative;">
   <div style="padding-bottom: 4em;" class="slideshow-container">
     <div class="slideshow-inner">
   
@@ -21,13 +21,21 @@
       {{ end }}
       </div>
       </div>
-  <section class="intro">
+  <section style="margin-bottom: 2em" class="intro">
     <h1 class="sub-circles">{{ .Params.page_title }}</h1>
     {{ markdownify .Params.intro_text }}
   </section>
+  {{ with .Params.blue_button }}
+  <a href="{{ .link | relLangURL }}">
+    <div style="top: unset" class="circle download small">
+      <p>{{ .dark_text }}</p>
+      <img class="arrow-small" src="/img/arrow-white.svg">
+    </div>
+  </a>
+  {{ end }}
 </section>
 {{ with .Params.media }}
-<section style="margin-top: 4em;" class="media">
+<section style="margin-top: 5em;" class="media">
   <a href="{{ .first_item_link }}">
     <div class="media-item">
       <img src="/img/podcast.svg">
@@ -73,6 +81,7 @@
 </div>
 {{ end }}
 {{ end }}
-<div class="hero"><img src="{{ .Params.footer_photo }}" style="height: 300px;object-fit: cover;" width="1120"
+<div style="margin-top: 2em" class="hero"><img src="{{ .Params.footer_photo }}" style="height: 300px;object-fit: cover;"
+    width="1120"
     height="300"></div>
 {{ end }}
