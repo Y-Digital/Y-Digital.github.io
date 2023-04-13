@@ -40,30 +40,16 @@ numbered_features:
 - title: Y AI?
   text: AI is a technology that works perfectly for browsing through large amounts of data, analyzing it and offering the user the best search result. Y.digital helps organizations to unlock important information and turn it into useful knowledge with the help of the latest AI-technologies. Where some outdated technologies just look at key-word search, the possibilities of using the latest knowledge-graph technology is able to review the actual content of a text, and the combination of different words used in a specific context.
   image: "/img/upload/sm_office.jpg"
-- title: Call Handling
-  text: Call Handling offers clients the ability to self-service, giving them the
-    opportunity to solve problems on-demand; also outside office hours. By starting
-    the conversation with the open question ‘How can I help you?’, clients can converse
-    with Ally in a natural way. Call Handling thus reduces call volume and allows
-    agents in contact centres to stop spending time on simple, repetitive questions.
-    They can focus on more complex issues.
+- title: Meet Ally
+  text: The Ally-platform is a SaaS-solutions that uses a variety of the latest AI-technologies that do not replace the existing infrastructure of document management systems, but enables to search throughout different sources to find the best result for your search. Instead of having to know what you are looking for, the AI technology supports you to find what you were looking for.
   image: "/img/upload/sm_office2.jpg"
-- title: Registration
-  text: The conversation registration feature summarizes a transcript of an ongoing
-    discussion using an AI natural language model and in co-creation with the agent
-    registers all information in your CRM system. Hereby, Ally determines the issue
-    description and the resolution. Real-time summarisation solves the issue where
-    a customer needs to repeat their query and other information when transferred
-    from a voice assistant to an agent.
+- title: Empowering humans
+  text: Lots of new documents are created on a daily basis, whether it is a note form a meeting, actions-lists, new offers for customers or the result of a decision that is been taken. Documents contain useful information for your daily operation, but archiving documents is often a boring tasks, that you prefer to be forgotten. With the help of AI technology, useful details about the creation of a document can be put into meta-data, in order to easily find documents, but also to archive large amounts of data from now, and possible data that needs to be archived dating back to another decade.
   image: "/img/upload/sm_phone.jpg"
-- title: Agent Assist
-  text: 'When Ally is ‘listening in’ on the call and summarising in real time, it
-    can also suggest possible answers to the agent; even linking back to relevant
-    parts of an instruction manual or knowledge base in your backend. Customers and
-    human agents both benefit from this ''whisper'' feature. For new employees, this
-    reduces the need to learn lengthy company handbooks by heart – or frantically
-    searching for the correct information while on the call. The consumer receives
-    prompt, precise responses to their queries. '
+- title: Practice what you preach
+  text: For an electric infrastructure company we have analyzed large amounts of data, dating back to the 1980s. Useful and important information about infrastructure dating back to that decade, but unfindable in today’s operation because data were not configured to be found with the current technology of the operations of today. By using the Ally-platform of Y.digital, the information can now be easily accessed for employees, without having to follow complicated and knowledge-intensive work instructions for finding and archiving documents.
+  
+  Y.digital is all about empowering humans with the latest AI-technology.
   image: "/img/upload/sm_assist.jpg"
 
 ---
