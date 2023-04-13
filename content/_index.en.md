@@ -44,7 +44,7 @@ numbered_features:
     from employees in order to model this into AI technology and make it into useful
     solutions. The Ally-platform consists of different AI-technologies, that can be
     tailored and applied to your specific customer request.
-  image: "/img/upload/thisisengineering-raeng-64yrpkiguae-unsplash.jpg"
+  image: "/img/upload/screenshot-2023-04-13-at-13-45-52.png"
   image_link: "/solutions/"
 - title: Business Transformation
   text: AI is an hot-topic on every boardroom agenda. Yet, it is important to keep
