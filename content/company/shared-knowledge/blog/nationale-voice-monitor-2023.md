@@ -6,7 +6,7 @@ draft = true
 featured_image = "/img/upload/nvm_logo_rgb_liggend.png"
 layout = "blog"
 summary = "Hoewel consumenten openstaan voor geautomatiseerd klantcontact, voelt 90% van de Nederlandse consumenten zich hierbij niet goed begrepen."
-title = "Nationale Voice Monitor 2023"
+title = "Lancering Nationale Voice Monitor 2023"
 
 +++
 **Consument wil beter begrepen worden door chatbots en spraakassistenten**
