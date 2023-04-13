@@ -35,7 +35,7 @@ two_round_buttons:
   left_button_link: "/contact/"
   right_button_link: "/contact/"
 numbered_features:
-- title: Y AI?
+- title: Y AI
   text: AI is a technology that works perfectly for browsing through large amounts of data, 
   analyzing it and offering the user the best search result. Y.digital helps organizations 
   to unlock important information and turn it into useful knowledge with the help of the 
