@@ -31,12 +31,12 @@ weight = 20
 	pageRef = "/solutions/intelligent-document-processing"
 	weight = 24
 	[[main]]
-	identifier = "smartcall-assistance"
+	identifier = "conversational-IVR"
 	parent = "solutions"
-	name = "smart call assistance"
-	title = "smart call assistance"
-	url = "/nl/solutions/smartcall-assistance/"
-	pageRef = "/solutions/smartcall-assistance"
+	name = "ai search & recommendation"
+	title = "AI Search & Recommendation"
+	url = "/nl/solutions/conversational-IVR/"
+	pageRef = "/solutions/conversational-IVR"
 	weight = 26
 [[main]]
 identifier = "services"
@@ -122,11 +122,11 @@ weight = 20
 	pageRef = "/solutions/intelligent-document-processing"
 	weight = 24
 	[[footer]]
-	identifier = "smartcall-assistance"
+	identifier = "conversational-IVR"
 	parent = "solutions"
-	name = "Smart Call Assistance"
-	url = "/nl/solutions/smartcall-assistance/"
-	pageRef = "/solutions/smartcall-assistance"
+	name = "AI Search & Recommendation"
+	url = "/nl/solutions/conversational-IVR/"
+	pageRef = "/solutions/conversational-IVR"
 	weight = 26
 [[footer]]
 identifier = "services"
