@@ -61,7 +61,7 @@ numbered_features:
     daarvan. Denk aan het inventariseren van use-cases, het in kaart brengen van mogelijke
     risico’s, het uitvoeren van impact assessments, de implementatie van een nieuwe
     werkwijze en de bijbehorende frameworks die hierbij kunnen helpen.
-  image: "/img/upload/sm_office.jpg"
+  image: "/img/upload/louise-viallesoubranne-5ehn4wbfvbc-unsplash.jpg"
   image_link: "/solutions/"
 - title: Detachering
   text: Komt jouw organisatie handen tekort? Dan hebben we goed nieuws! Onze collega’s
