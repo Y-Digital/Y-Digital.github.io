@@ -165,6 +165,11 @@ fields:
   - type: text
     name: button_link
     label: button_link
+- name: numbered_features
+  type: include
+  config: {}
+  template: numbered_features
+  label: numbered_features
 pages:
 - content/_index.en.md
 - content/_index.nl.md
