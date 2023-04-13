@@ -47,9 +47,9 @@ numbered_features:
   text: Lots of new documents are created on a daily basis, whether it is a note form a meeting, actions-lists, new offers for customers or the result of a decision that is been taken. Documents contain useful information for your daily operation, but archiving documents is often a boring tasks, that you prefer to be forgotten. With the help of AI technology, useful details about the creation of a document can be put into meta-data, in order to easily find documents, but also to archive large amounts of data from now, and possible data that needs to be archived dating back to another decade.
   image: "/img/upload/sm_phone.jpg"
 - title: Practice what you preach
-  text: For an electric infrastructure company we have analyzed large amounts of data, dating back to the 1980s. Useful and important information about infrastructure dating back to that decade, but unfindable in today’s operation because data were not configured to be found with the current technology of the operations of today. By using the Ally-platform of Y.digital, the information can now be easily accessed for employees, without having to follow complicated and knowledge-intensive work instructions for finding and archiving documents.
+  text: 'For an electric infrastructure company we have analyzed large amounts of data, dating back to the 1980s. Useful and important information about infrastructure dating back to that decade, but unfindable in today’s operation because data were not configured to be found with the current technology of the operations of today. By using the Ally-platform of Y.digital, the information can now be easily accessed for employees, without having to follow complicated and knowledge-intensive work instructions for finding and archiving documents.
   
-  Y.digital is all about empowering humans with the latest AI-technology.
+  Y.digital is all about empowering humans with the latest AI-technology.'
   image: "/img/upload/sm_assist.jpg"
 
 ---
