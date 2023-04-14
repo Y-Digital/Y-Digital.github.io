@@ -185,7 +185,7 @@ vacancy:
   send_cv: |-
     ## Sounds like you?
 
-    Call Ian FitzPatrick for more information (06-50 23 10 19) or send an email with a link to your LinkedIn profile to [ian@y.digital](mailto:ian@y.digital)
+    Call Ian FitzPatrick for more information (0624 52 45 00) or send an email with a link to your LinkedIn profile to [ian@y.digital](mailto:ian@y.digital)
 - title: Lead Conversation Designer
   role: |-
     ## About Us:
