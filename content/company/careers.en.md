@@ -45,8 +45,9 @@ vacancy:
     \- Je vertegenwoordigt Y.digital, onze unieke visie, klantgedreven aanpak en AI-platform Y.Ally.
 
     Aangezien we snel uitbreiden en groeien, is er binnen deze rol méér dan voldoende ruimte om je te ontwikkelen, te groeien en je persoonlijke doelen en ambities te realiseren.
-  profile: "* Wij willen alleen de beste en gemotiveerde professionals op het gebied
-    van digitale transformatie:"
+
+    Wij willen alleen de beste en gemotiveerde professionals op het gebied van digitale transformatie
+  profile: ''
   skills_heading: Skills and Knowledge
   skills: |-
     * Positief, enthousiast en gedreven.
