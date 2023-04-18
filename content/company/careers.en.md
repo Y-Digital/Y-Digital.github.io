@@ -22,8 +22,9 @@ vacancy:
 
     Ons team is divers en internationaal. Vanuit onze vestigingen bieden we integrale dienstverlening:
 
-    * onze Business Transformation Experts helpen klanten bij het realiseren van hun AI-strategie, het signaleren van kansen, proces re-design, analyse, projectmanagement en het waarmaken van hun digitale transformatie.
-    * onze Engineers ontwerpen, realiseren, trainen en implementeren de AI-oplossingen, en ze ontwikkelen continu door aan ons AI-platform Ally.
+    \- onze Business Transformation Experts helpen klanten bij het realiseren van hun AI-strategie, het signaleren van kansen, proces re-design, analyse, projectmanagement en het waarmaken van hun digitale transformatie.
+
+    \- onze Engineers ontwerpen, realiseren, trainen en implementeren de AI-oplossingen, en ze ontwikkelen continu door aan ons AI-platform Ally.
 
     Onze ambitie is om een autoriteit te worden op het gebied van taalverwerking, in Nederland en daarbuiten. We groeien snel en hebben vacatures voor gepassioneerde Business Transformation Experts om ons team te versterken!
 
@@ -31,12 +32,17 @@ vacancy:
 
     Als Business Transformation Expert werk je rechtstreeks voor spraakmakende organisaties in verschillende sectoren.
 
-    * Je vindt het leuk om een organisatie in te duiken en mensen te inspireren met nieuwe technologische mogelijkheden via presentaties en inspiratiessessies.
-    * Je stroopt je mouwen op en werkt samen met mensen uit de organisatie om ideeën te genereren, om te zetten in prototypes en daar concrete projecten van te maken. Dat doe je volgens de design thinking aanpak.
-    * Je voert business analyses en proces redesign uit, en neemt daarna de lead als projectmanager of product owner van het team dat de AI-oplossing gaat realiseren.
-    * Je betrekt continu alle stakeholders en zorgt ervoor dat de gewenste transformatie ook echt wordt doorgevoerd in de organisatie.
-    * Het werk is gevarieerd: soms zit je in een detacheringsopdracht, vaak samen met één van onze senioren, en in andere gevallen doe je mee aan onze projecten. Je werkt in ieder geval altijd nauw samen met onze hoogopgeleide experts, een sterke peer group van ervaren transformation experts, engineers en conversation designers.
-    * Je vertegenwoordigt Y.digital, onze unieke visie, klantgedreven aanpak en AI-platform Y.Ally.
+    \- Je vindt het leuk om een organisatie in te duiken en mensen te inspireren met nieuwe technologische mogelijkheden via presentaties en inspiratiessessies.
+
+    \- Je stroopt je mouwen op en werkt samen met mensen uit de organisatie om ideeën te genereren, om te zetten in prototypes en daar concrete projecten van te maken. Dat doe je volgens de design thinking aanpak.
+
+    \- Je voert business analyses en proces redesign uit, en neemt daarna de lead als projectmanager of product owner van het team dat de AI-oplossing gaat realiseren.
+
+    \- Je betrekt continu alle stakeholders en zorgt ervoor dat de gewenste transformatie ook echt wordt doorgevoerd in de organisatie.
+
+    \- Het werk is gevarieerd: soms zit je in een detacheringsopdracht, vaak samen met één van onze senioren, en in andere gevallen doe je mee aan onze projecten. Je werkt in ieder geval altijd nauw samen met onze hoogopgeleide experts, een sterke peer group van ervaren transformation experts, engineers en conversation designers.
+
+    \- Je vertegenwoordigt Y.digital, onze unieke visie, klantgedreven aanpak en AI-platform Y.Ally.
 
     Aangezien we snel uitbreiden en groeien, is er binnen deze rol méér dan voldoende ruimte om je te ontwikkelen, te groeien en je persoonlijke doelen en ambities te realiseren.
   profile: 'Wij willen alleen de beste en gemotiveerde professionals op het gebied
