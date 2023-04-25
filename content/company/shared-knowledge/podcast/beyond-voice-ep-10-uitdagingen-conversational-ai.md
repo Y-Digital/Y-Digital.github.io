@@ -1,3 +1,7 @@
+---
+_template: podcast
+---
+
 +++
 date = 2022-10-11T22:00:00Z
 description = "Beyond Voice EP 10: Sentiment analyse"

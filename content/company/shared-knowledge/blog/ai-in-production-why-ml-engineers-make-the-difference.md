@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = "Dr. Ian FitzPatrick"
 date = 2022-05-23T10:59:37Z

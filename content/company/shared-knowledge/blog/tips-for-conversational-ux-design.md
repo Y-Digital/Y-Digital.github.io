@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = ""
 date = 2022-11-22T08:14:26Z
