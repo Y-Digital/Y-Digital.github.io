@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = "Y.digital"
 date = 2023-02-01T08:23:14Z

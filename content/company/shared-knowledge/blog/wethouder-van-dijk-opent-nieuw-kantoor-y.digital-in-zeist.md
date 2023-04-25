@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = "Y.digital"
 date = 2022-11-22T07:55:31Z
