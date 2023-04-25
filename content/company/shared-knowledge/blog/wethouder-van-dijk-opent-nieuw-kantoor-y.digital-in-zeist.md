@@ -1,17 +1,15 @@
 ---
 _template: blog
+author: "Y.digital"
+date: 2022-11-22T07:55:31Z
+description: ""
+featured_image: "/img/upload/img_0359-copy.jpg"
+layout: "blog"
+summary: "On Thursday 3 November, Y.digital opened the doors of its new office in Zeist. The festive opening ceremony was performed by counsillor Walter van Dijk and Managing Director Ian FitzPatrick. \n\n\n"
+title: "Councillor Van Dijk opens new office Y.digital in Zeist"
 ---
 
-+++
-author = "Y.digital"
-date = 2022-11-22T07:55:31Z
-description = ""
-featured_image = "/img/upload/img_0359-copy.jpg"
-layout = "blog"
-summary = "On Thursday 3 November, Y.digital opened the doors of its new office in Zeist. The festive opening ceremony was performed by counsillor Walter van Dijk and Managing Director Ian FitzPatrick. \n\n\n"
-title = "Councillor Van Dijk opens new office Y.digital in Zeist"
 
-+++
 On Thursday 3 November, Y.digital opened the doors of its new office in Zeist. The festive opening ceremony was performed by counsillor Walter van Dijk and Managing Director Ian FitzPatrick. A great milestone for the fast-growing company that specialises in artificial intelligence for automated language processing. "We think it is important to have a 'clubhouse' where our employees, customers and partners feel welcome," said Managing Director Ian FitzPatrick.
 
 Solutions to increasing labour market tightness

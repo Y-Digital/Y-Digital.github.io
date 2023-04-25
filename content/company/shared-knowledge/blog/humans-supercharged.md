@@ -1,14 +1,14 @@
-+++
-author = "y.digital"
-content = ""
-date = 2020-04-04T07:02:00Z
-featured_image = "/img/upload/humans-supercharged.jpg"
-image = ""
-layout = "blog"
-summary = "Attaining knowledge takes dedication and hours of practice. This is why human experts are hard to scale. What might be a solution to this complex issue? "
-title = "Humans Supercharged"
+---
+author: "y.digital"
+content: ""
+date: 2020-04-04T07:02:00Z
+featured_image: "/img/upload/humans-supercharged.jpg"
+image: ""
+layout: "blog"
+summary: "Attaining knowledge takes dedication and hours of practice. This is why human experts are hard to scale. What might be a solution to this complex issue? "
+title: "Humans Supercharged"
+---
 
-+++
 ### Levering knowledge work using Machine Learning (ML), RPA and Rule Based systems. How to scale unique human qualities**.**
 
 A few years ago I was working on a project to deliver a fully automated underwriting process. During this project the term RPA (Robotic Process Automation) came up as ‘a revolutionary way to scale knowledge work’. In all honesty, I had to look up the term RPA as I was a bit intimidated by what it stood for but it turned out to be rather simple 😉 In the years after I have seen much confusion around the topic of scaling knowledge and what method (ML, RPA, Rule based or human insight) is best suited to the needs of a specific business process. That’s Y we want to share our insights to help you to get ahead of the curve.

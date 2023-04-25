@@ -1,17 +1,14 @@
 ---
 _template: blog
+author: "Carla Verwijmeren - Y.digital"
+date: 2023-04-13T07:15:36Z
+description: "Consument wil beter begrepen worden door chatbots en spraakassistenten "
+featured_image: "/img/upload/nvm_logo_rgb_liggend.png"
+layout: "blog"
+summary: "Hoewel consumenten openstaan voor geautomatiseerd klantcontact, voelt 90% van de Nederlandse consumenten zich hierbij niet goed begrepen."
+title: "Lancering Nationale Voice Monitor 2023"
 ---
 
-+++
-author = "Carla Verwijmeren - Y.digital"
-date = 2023-04-13T07:15:36Z
-description = "Consument wil beter begrepen worden door chatbots en spraakassistenten "
-featured_image = "/img/upload/nvm_logo_rgb_liggend.png"
-layout = "blog"
-summary = "Hoewel consumenten openstaan voor geautomatiseerd klantcontact, voelt 90% van de Nederlandse consumenten zich hierbij niet goed begrepen."
-title = "Lancering Nationale Voice Monitor 2023"
-
-+++
 **Consument wil beter begrepen worden door chatbots en spraakassistenten**
 
 Steeds vaker komt de Nederlandse consument in aanraking met digitale assistenten, zoals een chatbot op een website of een spraakassistent in een contactcenter. Hoewel consumenten openstaan voor geautomatiseerd klantcontact, voelt 90% van de Nederlandse consumenten zich hierbij niet goed begrepen. Dat blijkt uit de Nationale Voice Monitor, een onderzoek wat DirectResearch en Y.digital in samenwerking met onder andere de Klantenservice Federatie en TNO dit jaar voor de vierde keer publiceren. “Consumenten verwachten meer dan alleen antwoord op eenvoudige vragen,” aldus Carla Verwijmeren van Y.digital.

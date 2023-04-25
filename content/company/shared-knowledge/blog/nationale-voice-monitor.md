@@ -1,17 +1,14 @@
 ---
 _template: blog
+author: ""
+date: 2022-04-04T13:03:05Z
+description: "Substantial growth in the use of voice assistants in the Netherlands - biggest increase among people over 65. "
+featured_image: "/img/upload/ydigitial_voice-monitor-2022_1920x1080_v11-01.png"
+layout: "blog"
+summary: "Substantial growth in the use of voice assistants in the Netherlands - biggest increase among people over 65. "
+title: "Nationale Voice Monitor"
 ---
 
-+++
-author = ""
-date = 2022-04-04T13:03:05Z
-description = "Substantial growth in the use of voice assistants in the Netherlands - biggest increase among people over 65. "
-featured_image = "/img/upload/ydigitial_voice-monitor-2022_1920x1080_v11-01.png"
-layout = "blog"
-summary = "Substantial growth in the use of voice assistants in the Netherlands - biggest increase among people over 65. "
-title = "Nationale Voice Monitor"
-
-+++
 The number of Dutch people using voice assistants rose last year to 37%. This is evident from the National Voice Monitor, a study that DirectResearch conducted on behalf of Achmea, DDMA, NPO, Project Silver and Y.digital. Although the use among young people (18-34 years) is the highest, the group of older adults (65 + years) shows the largest increase. This is no longer just about applications for general voice assistants such as Apple's Siri or Google Assistant. People are also increasingly encountering voice assistants through call centres and mobile apps.
 
 **Older adults (65+) show the biggest growth**

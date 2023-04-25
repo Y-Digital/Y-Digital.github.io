@@ -1,17 +1,15 @@
 ---
 _template: blog
+author: ""
+date: 2022-11-22T08:14:26Z
+description: ""
+featured_image: "/img/upload/483933081.jpeg"
+layout: "blog"
+summary: "Understanding that conversation design entails more than merely producing text in a conversational style is crucial. "
+title: "Tips for conversational UX design"
 ---
 
-+++
-author = ""
-date = 2022-11-22T08:14:26Z
-description = ""
-featured_image = "/img/upload/483933081.jpeg"
-layout = "blog"
-summary = "Understanding that conversation design entails more than merely producing text in a conversational style is crucial. "
-title = "Tips for conversational UX design"
 
-+++
 The importance of conversational user experience design (CxD) has been discussed so often in recent years as it can lead to an exceptional customer experience. However, understanding that conversation design entails more than merely producing text in a conversational style is crucial. In reality, conversation design is a synthesis of several fields, including copywriting, UX design, interface design, graphic design, motion design, and, where appropriate, voice and audio design.
 
 ![](/img/upload/blog-lea.png)

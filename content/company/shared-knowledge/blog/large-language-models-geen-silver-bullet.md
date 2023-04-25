@@ -1,17 +1,14 @@
 ---
 _template: blog
+author: "Ian Fitzpatrick"
+date: 2022-12-16T07:52:47Z
+description: "In de afgelopen jaren zijn er grote vooruitgangen geboekt in de toepassing van kunstmatige intel-ligentie (AI). Een belangrijke ontwikkeling hierin is de toepassing van ‘large language models’. Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalge-gevens te verwerken en hieruit nieuwe informa-tie te extraheren. Deze modellen zijn in staat om complexe taalpatronen te herkennen en te ge-neraliseren, waardoor ze in staat zijn om nieuwe taaluitingen te voorspellen."
+featured_image: "/img/upload/dixitcopy.jpg"
+layout: "blog"
+summary: "Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalgegevens te verwerken en hieruit nieuwe informatie te extraheren."
+title: "Large language models: geen silver bullet"
 ---
 
-+++
-author = "Ian Fitzpatrick"
-date = 2022-12-16T07:52:47Z
-description = "In de afgelopen jaren zijn er grote vooruitgangen geboekt in de toepassing van kunstmatige intel-ligentie (AI). Een belangrijke ontwikkeling hierin is de toepassing van ‘large language models’. Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalge-gevens te verwerken en hieruit nieuwe informa-tie te extraheren. Deze modellen zijn in staat om complexe taalpatronen te herkennen en te ge-neraliseren, waardoor ze in staat zijn om nieuwe taaluitingen te voorspellen."
-featured_image = "/img/upload/dixitcopy.jpg"
-layout = "blog"
-summary = "Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalgegevens te verwerken en hieruit nieuwe informatie te extraheren."
-title = "Large language models: geen silver bullet"
-
-+++
 In de afgelopen jaren zijn er grote vooruitgangen geboekt in de toepassing van kunstmatige intelligentie (AI). Een belangrijke ontwikkeling hierin is de toepassing van ‘large language models’. Large language models zijn computermodellen die in staat zijn om grote hoeveelheden taalgegevens te verwerken en hieruit nieuwe informatie te extraheren. Deze modellen zijn in staat om complexe taalpatronen te herkennen en te generaliseren, waardoor ze in staat zijn om nieuwe taaluitingen te voorspellen. 
 
 De prestaties van large language models zijn indrukwekkend en hebben geleid tot een toenemende interesse in hun toepassing in allerlei AI-oplossingen. Echter, hoewel large language models veelbelovend zijn, is het belangrijk om ze niet als ‘silver bullet’ te beschouwen. Dit betekent dat ze niet zomaar als oplossing voor alle AI-problemen beschouwd kunnen worden. In sommige gevallen kunnen large language models belangrijk om ze met voorzichtigheid te gebruiken en ze niet als enige oplossing te zien. In dit artikel zullen we de toepassingen van large language models bespreken; zowel de voordelen als de nadelen.

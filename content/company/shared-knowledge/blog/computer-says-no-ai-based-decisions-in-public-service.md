@@ -1,17 +1,16 @@
 ---
 _template: blog
+author: "Jessica Sam"
+date: 2022-08-19T09:29:35Z
+description: "'Computer says no’: AI-based decisions in public service"
+featured_image: "/img/upload/istock-1011793090.jpg"
+layout: "blog"
+summary: "The court case surrounding SyRI (System Risk Indication) recently caused a lot of media attention regarding the use of AI by the Dutch government. "
+title: "'Computer says no’: AI-based decisions in public service"
 ---
 
-+++
-author = "Jessica Sam"
-date = 2022-08-19T09:29:35Z
-description = "'Computer says no’: AI-based decisions in public service"
-featured_image = "/img/upload/istock-1011793090.jpg"
-layout = "blog"
-summary = "The court case surrounding SyRI (System Risk Indication) recently caused a lot of media attention regarding the use of AI by the Dutch government. "
-title = "'Computer says no’: AI-based decisions in public service"
 
-+++
+
 The [court case surrounding SyRI (System Risk Indication)](https://www.nrc.nl/nieuws/2020/02/05/rechtbank-overheid-%20moet-stoppen-met-fraudesysteem-a3989325) recently caused a lot of media attention regarding the use of AI by the Dutch government. SyRI was an AI system intended to detect welfare fraud, looking at combined databases of various agencies, such as municipalities, the immigration agency (IND) and the Tax Administration. The use of SyRI was banned by the court, ruling it as stigmatizing and discriminatory, as it was to be applied mainly in 'problematic neighbourhoods'. It is clear that this implementation is not successful yet, but such legal rulings can be used to learn: how _should_ we do it?
 
 This case has made many people aware of the use of AI by government, but it is far from the only AI solution used in the public domain today. Decision support systems can be found at all levels of government: from creating an optimal route for waste collection, to suggesting a 'healthcare profile' of a patient on the basis of which that person will or will not receive special subsidies. Decision support itself is not a new phenomenon; traditional IT solutions are also used for this purpose - solutions that are often just as 'black box' in their operation as AI is often accused of.

@@ -1,17 +1,14 @@
 ---
 _template: blog
+author: "Art Ligthart"
+date: 2022-04-26T08:55:44Z
+description: "Artificial Intelligence has penetrated the capillaries of our digital society, and everyone sees new opportunities and possibilities. At the same time, there is a lot of discussion about the threats and dangers that AI entails. "
+featured_image: "/img/upload/brooke-cagle-whwybmtn3_0-unsplash.jpg"
+layout: "blog"
+summary: "Artificial Intelligence has penetrated the capillaries of our digital society, and everyone sees new opportunities and possibilities. At the same time, there is a lot of discussion about the threats and dangers that AI entails. "
+title: "Human-centred AI: hype or feasible?"
 ---
 
-+++
-author = "Art Ligthart"
-date = 2022-04-26T08:55:44Z
-description = "Artificial Intelligence has penetrated the capillaries of our digital society, and everyone sees new opportunities and possibilities. At the same time, there is a lot of discussion about the threats and dangers that AI entails. "
-featured_image = "/img/upload/brooke-cagle-whwybmtn3_0-unsplash.jpg"
-layout = "blog"
-summary = "Artificial Intelligence has penetrated the capillaries of our digital society, and everyone sees new opportunities and possibilities. At the same time, there is a lot of discussion about the threats and dangers that AI entails. "
-title = "Human-centred AI: hype or feasible?"
-
-+++
 Artificial Intelligence has penetrated the capillaries of our digital society, and everyone sees new opportunities and possibilities. At the same time, there is a lot of discussion about the threats and dangers that AI entails. The European Union has therefore taken the lead worldwide and is introducing new regulations - such as the AI Act and the Digital Services Act - to ensure that the fundamental rights of people are also guaranteed in the digital world. In concrete terms, this means e.g. that public and private organisations must be open about the algorithms that are used and how they work. The 'magic black box' of AI must be replaced by a ‘glass box’ which is transparent for everyone. Increasingly, this movement is called ‘human-centred AI’.
 
 Recently, I have been asked frequently what this ‘human-centred AI’ means exactly, if it is really important or just another hype, and if it is technically possible for AI to be transparent? My answer: it is mega important, it is a hype and at Y.digital we are fully engaged in thinking it through in the design of our AI solutions. Let me elaborate a bit on this.

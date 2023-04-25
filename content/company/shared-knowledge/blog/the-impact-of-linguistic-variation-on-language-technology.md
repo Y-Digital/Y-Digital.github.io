@@ -1,17 +1,15 @@
 ---
 _template: blog
+author: "Y.digital - Alexandra Redmann"
+date: 2023-01-10T08:05:44Z
+description: "Understanding language means understanding diversity. "
+featured_image: "/img/upload/hannah-wright-zzwshbu2y80-unsplash.jpg"
+layout: "blog"
+summary: "Tools like voice assistants are only helpful if our unique way of speaking can be handled by the language models supporting these applications."
+title: "The impact of linguistic variation on language technology"
 ---
 
-+++
-author = "Y.digital - Alexandra Redmann"
-date = 2023-01-10T08:05:44Z
-description = "Understanding language means understanding diversity. "
-featured_image = "/img/upload/hannah-wright-zzwshbu2y80-unsplash.jpg"
-layout = "blog"
-summary = "Tools like voice assistants are only helpful if our unique way of speaking can be handled by the language models supporting these applications."
-title = "The impact of linguistic variation on language technology"
 
-+++
 **Understanding language means understanding diversity: The impact of linguistic variation on language technology**
 
 When we communicate by speaking or writing, we do so in a deeply unique way. Whether we talk in Dutch, Vietnamese or Tagalog, which words we choose to ask a question or describe a situation, the dialect that colors our speech, or how our voice sounds are only some of the aspects that differ from individual to individual. Today’s language technology needs to address this individual variation: Access to helpful tools that have become omnipresent in our daily lives such as voice assistants, chatbots, or translation engines is only possible if our unique way of speaking can be handled by the language models supporting these applications.
