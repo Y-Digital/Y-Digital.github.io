@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = "Art Ligthart"
 date = 2022-04-26T08:55:44Z

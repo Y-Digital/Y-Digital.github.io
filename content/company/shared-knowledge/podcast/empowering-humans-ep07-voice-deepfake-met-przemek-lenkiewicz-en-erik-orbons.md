@@ -1,3 +1,7 @@
+---
+_template: podcast
+---
+
 +++
 date = 2022-05-15T22:00:00Z
 description = "Beyond Voice EP07: Voice & Deepfake met Przemek Lenkiewicz en Erik Orbons"

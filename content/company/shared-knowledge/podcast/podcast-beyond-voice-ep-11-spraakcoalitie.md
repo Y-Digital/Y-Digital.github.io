@@ -1,3 +1,7 @@
+---
+_template: podcast
+---
+
 +++
 date = 2022-12-11T23:00:00Z
 description = "Beyond Voice EP 11: Spraakcoalitie"

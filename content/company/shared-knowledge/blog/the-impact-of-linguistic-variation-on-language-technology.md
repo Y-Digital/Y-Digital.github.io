@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = "Y.digital - Alexandra Redmann"
 date = 2023-01-10T08:05:44Z
