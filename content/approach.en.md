@@ -40,7 +40,7 @@ numbered_features:
       At this stage we convert high potential AI initiatives into solid business
       cases and concrete projects. We invite you to our Y.design lab, where we
       generate ideas and develop prototypes together. The most valuable ideas
-      are elaborated, tested with the target audience and further optimized.
+      are elaborated, tested with the target audience and further optimised.
       Ready to be built.
   - text: >-
       Our experts then build, configure and test the AI solution, using the
@@ -63,4 +63,5 @@ numbered_features:
       continuous business value and growth.
 _template: approach
 ---
+
 
