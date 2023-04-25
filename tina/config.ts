@@ -22,9 +22,9 @@ const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main"
 
 export default defineConfig({
   branch,
-  clientId: null, // Get this from tina.io
-  token: null, // Get this from tina.io
-  client: { skip: true },
+  clientId: "e5e716cc-2aba-4378-b47a-02281e7f0c9b", // Get this from tina.io
+  token: "527371c3f095309740ba8381d3d2c1b9ff6b1d1e", // Get this from tina.io
+  client: { skip: false },
   build: {
     outputFolder: "admin",
     publicFolder: "static",
@@ -367,9 +367,9 @@ export default defineConfig({
         match: {
           include: "*",
         },
-     
-            fields: [...conversational_aiFields()],
-    
+
+        fields: [...conversational_aiFields()],
+
         ui: {
           allowedActions: {
             create: false,
@@ -385,9 +385,9 @@ export default defineConfig({
         match: {
           include: "*",
         },
-     
-            fields: [...conversational_aiFields()],
-    
+
+        fields: [...conversational_aiFields()],
+
         ui: {
           allowedActions: {
             create: false,
@@ -403,9 +403,9 @@ export default defineConfig({
         match: {
           include: "*",
         },
-     
-            fields: [...intelligent_document_processingFields()],
-    
+
+        fields: [...intelligent_document_processingFields()],
+
         ui: {
           allowedActions: {
             create: false,
