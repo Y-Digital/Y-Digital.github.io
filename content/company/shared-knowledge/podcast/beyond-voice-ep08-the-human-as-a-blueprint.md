@@ -1,3 +1,7 @@
+---
+_template: podcast
+---
+
 +++
 date = 2022-06-14T22:00:00Z
 description = "Beyond Voice EP08: The human as a blueprint met Ian FitzPatrick en Erik Orbons"

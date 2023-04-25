@@ -1,3 +1,7 @@
+---
+_template: podcast
+---
+
 +++
 date = 2022-09-07T22:00:00Z
 description = "Beyond Voice EP09: Oprichting Spraakcoalitie"

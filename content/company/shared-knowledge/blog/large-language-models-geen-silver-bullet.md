@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = "Ian Fitzpatrick"
 date = 2022-12-16T07:52:47Z
