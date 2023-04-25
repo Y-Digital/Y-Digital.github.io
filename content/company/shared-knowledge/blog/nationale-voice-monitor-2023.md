@@ -1,3 +1,7 @@
+---
+_template: blog
+---
+
 +++
 author = "Carla Verwijmeren - Y.digital"
 date = 2023-04-13T07:15:36Z
