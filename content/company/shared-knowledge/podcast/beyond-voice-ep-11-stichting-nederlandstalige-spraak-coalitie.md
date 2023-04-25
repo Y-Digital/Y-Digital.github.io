@@ -1,6 +1,6 @@
 ---
 _template: podcast
-date: 2022-10-11T22:00:00Z
+date: 2023-04-25T12:00:00Z
 description: "Beyond Voice EP 11: Stichting Nederlandstalige Spraak Coalitie"
 featured_image: "/img/upload/beyond-voice-artwork-2.png"
 layout: "podcast"
