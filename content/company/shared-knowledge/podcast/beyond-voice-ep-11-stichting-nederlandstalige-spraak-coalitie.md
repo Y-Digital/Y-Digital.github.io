@@ -11,3 +11,7 @@ spotify:
   spotify_code: "2jEryDdCDL0uJSntqpWIWj"
 
 ---
+
+In deze Beyond Voice aflevering ontvangen we een speciale gast: Egon Verharen, Manager Innovatie bij de NPO. Als een van de initiatiefnemers van de Stichting Nederlandstalige Spraak Coalitie vertelt Egon wat de huidige stand van zaken van het Nederlandstalige spraaktechnologie is. Luister of bekijk deze aflevering en leer welke uitdagingen er zijn op het gebied van Nederlandstalige taalmodellen. 
+
+ [https://www.youtube.com/watch?v=fD078RkzR44](https://www.youtube.com/watch?v=fD078RkzR44 "https://www.youtube.com/watch?v=fD078RkzR44")
