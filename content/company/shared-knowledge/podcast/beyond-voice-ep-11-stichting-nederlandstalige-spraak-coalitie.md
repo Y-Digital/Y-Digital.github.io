@@ -5,13 +5,13 @@ featured_image: /img/upload/beyond-voice-artwork-2.png
 layout: podcast
 summary: >-
   In deze Beyond Voice aflevering ontvangen we een speciale gast: Egon Verharen,
-  Manager Innovatie bij de NPO als een van de initiatiefnemers van de Stichting
-  Nederlandstalige Spraak Coalitie.
+  Manager Innovatie bij de NPO.
 title: Beyond Voice EP 11 - Stichting Nederlandstalige Spraak Coalitie
 spotify:
   enable: true
   spotify_code: 2jEryDdCDL0uJSntqpWIWj
 ---
+
 
 
 
