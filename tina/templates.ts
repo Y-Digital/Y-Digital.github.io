@@ -1304,7 +1304,24 @@ export function podcastFields() {
         },
       ],
     },
-  ] as TinaField[];
+    {
+      type: "object",
+      name: "youtube",
+      label: "youtube",
+      fields: [
+        {
+          type: "boolean",
+          name: "enable",
+          label: "enable",
+        },
+        {
+          type: "string",
+          name: "youtube_code",
+          label: "youtube_code",
+        },
+      ],
+    },
+  ] as TinaField[]
 }
 export function servicesFields() {
   return [
