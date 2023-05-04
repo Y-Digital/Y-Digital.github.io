@@ -10,6 +10,9 @@ title: Beyond Voice EP 12 - De Nationale Voice Monitor
 spotify:
   enable: false
   spotify_code: 2jEryDdCDL0uJSntqpWIWj
+youtube:
+  enable: true
+  youtube_code: fD078RkzR44
 ---
 
 
