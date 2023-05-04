@@ -14,6 +14,14 @@
 		{{ "<!-- /about us -->" | safeHTML }}
 	{{ end }}
 
+	{{ if .Params.youtube.enable }}
+	{{ "<!-- about us -->" | safeHTML }}
+	
+	{{ partial "youtube.html" . }}
+	
+	{{ "<!-- /about us -->" | safeHTML }}
+	{{ end }}
+
 	{{ .Content }}
 
 	<p class="middle"><a href="../">Return to Podcast Overview</a></p>
