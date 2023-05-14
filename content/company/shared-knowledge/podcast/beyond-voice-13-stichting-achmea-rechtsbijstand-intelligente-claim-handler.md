@@ -10,10 +10,11 @@ title: >-
   handler
 summary: >-
   In deze aflevering schuiven Ian Fitzpatrick van Y.Digital en Ilja Themen van
-  Stichting Achmea Rechtsbijstand (SAR) aan.
+  Stichting Achmea Rechtsbijstand (SAR) aan. 
 spotify:
   enable: true
   spotify_code: 4lukoL761kCnX8MqBUOjen
 ---
+
 
 
