@@ -10,9 +10,9 @@ summary: >-
 author: Sep Keuchenius
 ---
 
-However strange it may seem; these words might be interpreted more often by artificially intelligent models such as GPT-3 than by human brains. These models are training to learn from this article, ironically preventing us from having to read or write.
+**However strange it may seem; these words might be interpreted more often by artificially intelligent models such as GPT-3 than by human brains. These models are training to learn from this article, ironically preventing us from having to read or write.
 
-We talk a lot about the future of AI, and the future of humankind. Often, we even conflate the two into one. Many have claimed that the next phase of human evolution will largely be determined by AI. But what if that means that all creative output, by humans and computers, comes to a halt?
+We talk a lot about the future of AI, and the future of humankind. Often, we even conflate the two into one. Many have claimed that the next phase of human evolution will largely be determined by AI. But what if that means that all creative output, by humans and computers, comes to a halt?**
 
 Looking at all the developments within companies like Alphabet (Google), Microsoft and Meta (Facebook) you can see AI is evolving like never before. There was a time the world was shocked by a computer capable of defeating a grandmaster. Today it does not surprise us when a computer “writes” a comprehensive essay or "paints" a painting.
 
