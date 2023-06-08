@@ -142,11 +142,17 @@ export function blogFields() {
       },
     },
     {
+      type: "rich-text",
+      name: "Content",
+      label: "Content",
+      isBody: true,
+    },
+    {
       type: "string",
       name: "author",
       label: "author",
     },
-  ] as TinaField[];
+  ] as TinaField[]
 }
 export function cai_case_studyFields() {
   return [
