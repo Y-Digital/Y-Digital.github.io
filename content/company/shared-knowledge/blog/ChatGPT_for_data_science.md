@@ -7,7 +7,7 @@ description: >-
 layout: blog
 date: 2023-07-04T22:00:00.000Z
 author: Boy van Dijk
-featured_image: /3b96b9d0-1c90-4e70-bb40-4a783105f10c.jpg
+featured_image: ''
 summary: >-
   ChatGPT and other Large Language Models (LLM) have the potential to enhance
   creativity and provide assistance to developers, AI engineers, data
