@@ -8,6 +8,11 @@ layout: blog
 date: 2023-07-04T22:00:00.000Z
 author: Boy van Dijk
 featured_image: /3b96b9d0-1c90-4e70-bb40-4a783105f10c.jpg
+summary: >-
+  ChatGPT and other Large Language Models (LLM) have the potential to enhance
+  creativity and provide assistance to developers, AI engineers, data
+  scientists, and hobby programmers. Here is a list of 9 topics where ChatGPT
+  can make their lives easier.
 ---
 
 ## ChatGPT for Data Science: 9 Tips 
