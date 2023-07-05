@@ -55,7 +55,10 @@ robustness by identifying – and ultimately fixing – issues and defects in yo
 integration, penetration and manual testing.
 
 * With function
-  ![](/Afbeelding9.png)
+
+![](/Afbeelding9.png)
+
+
 * Without function
 
 ![](/Afbeelding10.png)
