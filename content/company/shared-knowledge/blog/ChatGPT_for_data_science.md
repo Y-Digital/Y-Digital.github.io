@@ -44,25 +44,14 @@ Let’s face it, a good programmer is often a lazy programmer. The main goal is 
 
 ### 2. Debugging
 
-Debugging your code can be a complex and nerve
-wrecking task from time to time. More often than not your code will not run the
-first time you try to execute it. You might stumble upon situations, in which
-there is no colleague at hand to help you and your integrated development
-environment (IDE) – such as VS Code – isn't helping either. ChatGPT can point
-you in the right direction, by prompting the error message, your piece of code
-or a combination of both. In addition, new programmers might learn a thing or
-two by encouraging ChatGPT to ask questions in return to gather information
-from you.
+Debugging your code can be a complex and nerve wrecking task from time to time. More often than not your code will not run the first time you try to execute it. You might stumble upon situations, in which there is no colleague at hand to help you and your integrated development environment (IDE) – such as VS Code – isn't helping either. ChatGPT can point you in the right direction, by prompting the error message, your piece of code or a combination of both. In addition, new programmers might learn a thing or two by encouraging ChatGPT to ask questions in return to gather information from you.
 
 ![](/Afbeelding8.png)
 
 ### 3. Automated testing
 
-Writing (unit) tests can be a tedious
-time-consuming task for most developers, but at the same time it facilitates
-robustness by identifying – and ultimately fixing – issues and defects in your
-code. ChatGPT can be your personal test-assistant by generating test cases,
-while you save time to focus on more complex testing issues such as
+Writing (unit) tests can be a tedious time-consuming task for most developers, but at the same time it facilitates
+robustness by identifying – and ultimately fixing – issues and defects in your code. ChatGPT can be your personal test-assistant by generating test cases, while you save time to focus on more complex testing issues such as
 integration, penetration and manual testing.
 
 * With function
@@ -73,13 +62,7 @@ integration, penetration and manual testing.
 
 ### 4. Explanation
 
-Some models or concepts are just very hard
-to grasp, let alone explain to a non-technical audience. ChatGPT can help you describe
-even the most complex stuff into plain English or any other language. You can
-even mention the specific audience or add an example to the mix. Aside from using
-these techniques in your presentations or reporting, we could use the same
-technique for clear code documentation for us developers. It is often an overlooked
-aspect of coding, but extremely important in handing over both work and knowledge
+Some models or concepts are just very hard to grasp, let alone explain to a non-technical audience. ChatGPT can help you describe even the most complex stuff into plain English or any other language. You can even mention the specific audience or add an example to the mix. Aside from using these techniques in your presentations or reporting, we could use the same technique for clear code documentation for us developers. It is often an overlooked aspect of coding, but extremely important in handing over both work and knowledge
 to others.
 
 ![](/Afbeelding11.png)
