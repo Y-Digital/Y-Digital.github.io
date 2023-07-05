@@ -24,7 +24,10 @@ summary: >-
 Let’s face it, a good programmer is often a lazy programmer. The main goal is not reinventing the wheel all the time but going through the mindboggling dull tasks as quickly as possible. In this way, we save time and effort to focus on problem solving, look for patterns and be creative. Websites such as stackoverflow and github have been around for years to help you with your daily struggles. ChatGPT quickly became the popular new kid on the block and from an extra tool in our daily toolkit. 
 
 * Writing code 
-  ![](/Afbeelding6.png "Writing code")
+
+![](/Afbeelding1.png)
+
+
 * Code explanation
 * ![](/Afbeelding7.png "Code explanation")
 * Model training
