@@ -25,23 +25,29 @@ Let’s face it, a good programmer is often a lazy programmer. The main goal is 
 
 * Writing code 
 
-![](/a111.png)
+![](/Screenshot_1.png)
 
 * Code explanation
-*
+
+![](/Screenshot_2.png)
+
 * Model training
 
-<!---->
+![](/Screenshot_3.png)
 
 * Write regular expressions
 
-<!---->
+![](/Screenshot_4.png)
 
 * Code optimization
+
+![](/Screenshot_5.png)
 
 ### 2. Debugging
 
 Debugging your code can be a complex and nerve wrecking task from time to time. More often than not your code will not run the first time you try to execute it. You might stumble upon situations, in which there is no colleague at hand to help you and your integrated development environment (IDE) – such as VS Code – isn't helping either. ChatGPT can point you in the right direction, by prompting the error message, your piece of code or a combination of both. In addition, new programmers might learn a thing or two by encouraging ChatGPT to ask questions in return to gather information from you.
+
+![](/Screenshot_6.png)
 
 ### 3. Automated testing
 
@@ -51,14 +57,18 @@ integration, penetration and manual testing.
 
 * With function
 
-<!---->
+![](/Screenshot_7.png)
 
 * Without function
+
+![](/Screenshot_8.png)
 
 ### 4. Explanation
 
 Some models or concepts are just very hard to grasp, let alone explain to a non-technical audience. ChatGPT can help you describe even the most complex stuff into plain English or any other language. You can even mention the specific audience or add an example to the mix. Aside from using these techniques in your presentations or reporting, we could use the same technique for clear code documentation for us developers. It is often an overlooked aspect of coding, but extremely important in handing over both work and knowledge
 to others.
+
+![](/Screenshot_9.png)
 
 ### 5. Language translation
 
@@ -67,9 +77,13 @@ Say that you have been tasked with maintaining an R model, but you haven’t use
 Skilled programmers can use this functionality to bring already learned skills back to the surface or kickstart
 a whole new skillset of languages. Soaking in the thorough explanation provided by ChatGPT is a key aspect here; simply copy-pasting pieces of code isn’t boosting any of your skills.
 
+![](/Screenshot_10.png)
+
 ### 6. Query generation
 
 Sometimes you stumble across a problem where you know what to retrieve from a database with natural language, but you do not know how to translate that into an, for example, SQL-flavored query. ChatGPT has been trained to transform natural language sentences into multiple query languages such as SQL, MongoDB, ElasticSearch and Neo4j to name a few.
+
+![](/Screenshot_11.png)
 
 ### 7. Data generation
 
@@ -78,9 +92,11 @@ data, one can detect potential issues for improvement. Furthermore, AI engineers
 
 * Fill a dataframe
 
-<!---->
+![](/Screenshot_12.png)
 
 * Chatbot intent training utterances
+
+![](/Screenshot_13.png)
 
 ### 8. Data visualization
 
@@ -88,15 +104,19 @@ Data storytelling is one of the key aspects that facilitates understanding both 
 
 * Coding visuals
 
-<!---->
+![](/af2.png)
 
 * Dashboarding visuals
+
+![](/Screenshot_15.png)
 
 ### 9. Summarization
 
 Summarizing large chunks of data is crucial in extracting meaningful information. As data scientists and
 developers, we need to transfer complex analyses to businesses and organizations. As such, summarization helps facilitating decision making and interpretation. You could use this technique to amplify and strengthen your
 report, presentation or data storytelling based on the numerical data you found.
+
+![](/Screenshot_16.png)
 
 ### Conclusion
 
