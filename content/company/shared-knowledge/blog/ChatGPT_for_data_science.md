@@ -104,7 +104,7 @@ Data storytelling is one of the key aspects that facilitates understanding both 
 
 * Coding visuals
 
-![](/af2.png)
+![](/Screenshot_14.png)![]()
 
 * Dashboarding visuals
 
