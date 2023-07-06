@@ -41,7 +41,7 @@ Let’s face it, a good programmer is often a lazy programmer. The main goal is 
 
 * Code optimization
 
-![](/Screenshot_5.png)
+![](/a8.png)
 
 ### 2. Debugging
 
