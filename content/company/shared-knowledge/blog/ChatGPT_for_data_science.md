@@ -2,22 +2,20 @@
 title: 'ChatGPT for Data Science: 9 Tips'
 description: >-
   Below you’ll find a list of 9 topics in which ChatGPT help in making our lives
-  much easier for developers, AI engineers, data scientists, and hobby
-  programmers.
+  much easier for developers.
 layout: blog
 date: 2023-07-04T22:00:00.000Z
 author: Boy van Dijk
 featured_image: /ab381ffc-d937-4aad-95d5-96ab50270ee9.jpg
 summary: >-
   ChatGPT and other Large Language Models (LLM) have the potential to enhance
-  creativity and provide assistance to developers, AI engineers, data
-  scientists, and hobby programmers. Here is a list of 9 topics where ChatGPT
-  can make their lives easier.
+  creativity and provide assistance to developers. Here is a list of 9 topics
+  where ChatGPT can make their lives easier.
 ---
 
 ## ChatGPT for Data Science: 9 Tips 
 
-**By now, we assume that most people have heard about ChatGPT in some way or form. According to [Statista](https://www.statista.com/chart/29174/time-to-one-million-users/), ChatGPT reached one million users in just 5 days. In comparison, it took Facebook 10 months to reach this number of users when it launched in 2004. ChatGPT – and other Large Language Models (LLM) – can boost your creativity in so many ways besides writing love letters or doing homework. More specifically, it can do a lot for us developers, AI engineers, data scientists and even hobby programmers. Below you’ll find a list of 9 topics in which ChatGPT help in making our lives much easier. **
+\*\*By now, we assume that most people have heard about ChatGPT in some way or form. According to [Statista](https://www.statista.com/chart/29174/time-to-one-million-users/), ChatGPT reached one million users in just 5 days. In comparison, it took Facebook 10 months to reach this number of users when it launched in 2004. ChatGPT – and other Large Language Models (LLM) – can boost your creativity in so many ways besides writing love letters or doing homework. More specifically, it can do a lot for us developers, AI engineers, data scientists and even hobby programmers. Below you’ll find a list of 9 topics in which ChatGPT help in making our lives much easier. \*\*
 
 ### 1. Code generation 
 
