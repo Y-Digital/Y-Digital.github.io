@@ -15,7 +15,7 @@ summary: >-
 
 ## ChatGPT for Data Science: 9 tips 
 
-By now, we assume that most people have heard about ChatGPT in some way or form. According to [Statista](https://www.statista.com/chart/29174/time-to-one-million-users/), ChatGPT reached one million users in just 5 days. In comparison, it took Facebook 10 months to reach this number of users when it launched in 2004. ChatGPT – and other Large Language Models (LLM) – can boost your creativity in so many ways besides writing love letters or doing homework. More specifically, it can do a lot for us developers, AI engineers, data scientists and even hobby programmers. Below you’ll find a list of 9 topics in which ChatGPT help in making our lives much easier. 
+**By now, we assume that most people have heard about ChatGPT in some way or form. According to [Statista](https://www.statista.com/chart/29174/time-to-one-million-users/), ChatGPT reached one million users in just 5 days. In comparison, it took Facebook 10 months to reach this number of users when it launched in 2004. ChatGPT – and other Large Language Models (LLM) – can boost your creativity in so many ways besides writing love letters or doing homework. More specifically, it can do a lot for us developers, AI engineers, data scientists and even hobby programmers. Below you’ll find a list of 9 topics in which ChatGPT help in making our lives much easier. **
 
 ### 1. Code generation 
 
