@@ -121,3 +121,6 @@ report, presentation or data storytelling based on the numerical data you found.
 As a tool, ChatGPT can be quite helpful in the daily struggles of all types of developers. From generating code and
 explaining complex topics to code translations. Although ChatGPT – and large language models in general – are here to stay, we should keep emphasizing they are just that: tools. These tools should guide users, help them with
 problem-solving, not [replacing](https://y.digital/company/shared-knowledge/blog/not_written_by_chat_gpt/) skills. More specifically, it should boost or empower our creativity in the same way that internet, GPS and cell phones have changed our lives.
+
+ChatGPT might not be able to solve all of your problems, but our team of professionals is here to assist you! 
+
