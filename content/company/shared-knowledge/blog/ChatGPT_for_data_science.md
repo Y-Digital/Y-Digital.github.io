@@ -19,7 +19,7 @@ By now, we assume that most people have heard about ChatGPT in some way or form.
 
 ### 1. Code generation 
 
-Let’s face it, a good programmer is often a lazy programmer. The main goal is not reinventing the wheel all the time but going through the mindboggling dull tasks as quickly as possible. In this way, we save time and effort to focus on problem solving, look for patterns and be creative. Websites such as stackoverflow and github have been around for years to help you with your daily struggles. ChatGPT quickly became the popular new kid on the block and from an extra tool in our daily toolkit. 
+Let’s face it, a good programmer is often a lazy programmer. The main goal is not reinventing the wheel all the time but going through the mindboggling dull tasks as quickly as possible. In this way, we save time and effort to focus on problem solving, look for patterns and be creative. Websites such as stackoverflow and github have been around for years to help you with your daily struggles. ChatGPT quickly became the popular new kid on the block and form an extra tool in our daily toolkit. 
 
 * Writing code 
 
@@ -102,7 +102,7 @@ Data storytelling is one of the key aspects that facilitates understanding both 
 
 * Coding visuals
 
-![](/Screenshot_14.png)![](/Screenshot_14.png)
+![](/Screenshot_14.png)
 
 * Dashboarding visuals
 
@@ -122,5 +122,4 @@ As a tool, ChatGPT can be quite helpful in the daily struggles of all types of d
 explaining complex topics to code translations. Although ChatGPT – and large language models in general – are here to stay, we should keep emphasizing they are just that: tools. These tools should guide users, help them with
 problem-solving, not [replacing](https://y.digital/company/shared-knowledge/blog/not_written_by_chat_gpt/) skills. More specifically, it should boost or empower our creativity in the same way that internet, GPS and cell phones have changed our lives.
 
-ChatGPT might not be able to solve all of your problems, but our team of professionals is here to assist you! 
-
+ChatGPT might not be able to solve all of your problems, but our team of professionals is here to assist you!
