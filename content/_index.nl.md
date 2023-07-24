@@ -98,10 +98,11 @@ numbered_features:
     image_link: /solutions/
 quote_slide: []
 second_round_button:
-  button_text: ''
-  button_link: ''
+  button_text: 'dit is een test om te zien wat er gebeurd '
+  button_link: test.test
 _template: home
 ---
+
 
 
 
