@@ -34,15 +34,15 @@ blue_button:
   link: /nl/contact/
 cards: []
 hero_slide:
-  - slide_left_circle: Stop time wasting
+  - slide_image: /img/upload/design-ohne-titelfe.png
+    slide_left_circle: Stop time wasting
     slide_right_circle: Start scaling
-    slide_image: /img/upload/design-ohne-titelfe.png
-  - slide_left_circle: Stop standardizing
+  - slide_image: /img/hero-solutions.jpg
+    slide_left_circle: Stop standardizing
     slide_right_circle: Start personalizing
-    slide_image: /img/hero-solutions.jpg
-  - slide_left_circle: Stop robotizing
+  - slide_image: /img/hero-home.jpg
+    slide_left_circle: Stop robotizing
     slide_right_circle: Start humanizing
-    slide_image: /img/hero-home.jpg
 media:
   first_item: podcast beluisteren
   first_item_link: /company/shared-knowledge/podcast/
@@ -98,8 +98,9 @@ numbered_features:
     image_link: /solutions/
 quote_slide: []
 second_round_button:
-  button_text: ''
-  button_link: ''
+  button_text: 'dit is een test om te zien wat er gebeurd '
+  button_link: linklinktest.test
 _template: home
 ---
+
 
