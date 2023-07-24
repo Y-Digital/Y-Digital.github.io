@@ -52,10 +52,6 @@ media:
   third_item_link: '#footer-newsletter-form'
 footer_photo: /img/upload/ally.JPG
 numbered_features:
-  - title: dit is een test
-    text: test
-    image: /4.png
-    image_link: '_picturetesttesttest '
   - title: Development
     text: >-
       Het kloppende hart van Y.digital zijn onze data-scientists en
@@ -106,6 +102,7 @@ second_round_button:
   button_link: test.test
 _template: home
 ---
+
 
 
 
