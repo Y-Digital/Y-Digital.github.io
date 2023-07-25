@@ -79,12 +79,6 @@ q_and_a:
       Through a voice app, an organization gives the user the ability to
       communicate with the organization through the platforms of Google or
       Amazon.
-  - question: What is a Google Action?
-    answer: >-
-      A Google Action is an application on the Google Assistant. With Google
-      Action, organizations can integrate their products, services, news, or
-      entertainment with the Google Assistant. Think of Google Actions from
-      Bol.com, the Hypotheker, or Racoon.
   - question: Can you also use a voice assistant in a call center?
     answer: >-
       You can also use a voice assistant in your call center. We call this Smart
@@ -113,14 +107,8 @@ q_and_a:
       by making information, products, services, and entertainment accessible to
       the voice channel. As an example, you can optimize your website for Voice
       Search and develop Google Actions.
-  - question: How does my business get on the Google Assistant?
-    answer: >-
-      In order to make your business more discoverable on Google Assistant, you
-      can do three things: First, create a Google My Business page. Then, make
-      your website more findable by Voice Search and develop a Google Action.
-      Lastly, you can, for instance, promote your company's products or services
-      in an Action.
 hero_image: ''
 _template: faq
 ---
+
 
