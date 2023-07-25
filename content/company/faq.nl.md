@@ -82,13 +82,6 @@ q_and_a:
       skill. Via een voice app geeft een organisatie de gebruiker de
       mogelijkheid om via de spraakassistenten van Google of Amazon met jouw
       organisatie te communiceren.
-  - question: Wat is een Google Action?
-    answer: >-
-      Een Google Action is een applicatie op de Google Assistent. Met een Google
-      Action kunnen organisaties hun producten, diensten, nieuws of
-      entertainment integreren in de Google Assistent. Denk hierbij aan Google
-      Actions van Bol.com, de Hypotheker of Racoon. Je activeert ze door
-      bijvoorbeeld te zeggen "Oké Google, praat met de Hypotheker."
   - question: Kun je een voice-assistent ook in het callcenter inzetten?
     answer: >-
       Een voice-assistent kun je ook in je callcenter inzetten. Dit noemen we
@@ -121,13 +114,8 @@ q_and_a:
       producten, diensten en entertainment voor het voice kanaal. Denk hierbij
       aan het optimaliseren van je website voor voice search en het ontwikkelen
       van Google Actions.
-  - question: Hoe komt mijn bedrijf op de Google Assistent?
-    answer: >-
-      Om je bedrijf op de Google Assistent beter vindbaar te maken, kun je 3
-      dingen doen. Een Google Mijn Bedrijf pagina aanmaken. Je website beter
-      vindbaar maken voor voice search en een Google Action ontwikkelen. In een
-      Action kun je bijvoorbeeld producten of diensten van je bedrijf promoten.
 hero_image: ''
 _template: faq
 ---
+
 
