@@ -17,12 +17,12 @@ Recently Chief Innovation and Technology Officer [Bart Leurs](https://www.linked
 
 They basically rang the alarm bells claiming that it is high time to establish ethical and legal frameworks, before it is too late. The AI dilemma makers mainly target the tech giants and draw parallels with how social media developed into harmful applications leading to addictions and destabilising democracies, where initially the technological advancement and social enrichment were celebrated. It seems that corporations now follow suit with a break, buying time, investigating which interventions are required to mitigate risks.
 
-## GLLMs offer interesting benefits to organisations
+## **GLLMs offer interesting benefits to organisations**
 
 It is clear that these GLLMs - and especially the multi-modal models (generating text, images, video and sound) - have multiple benefits to societies and organisations. Tedious tasks can be supported or performed by AI; e.g. coding an application, writing a letter, summarizing a document, creating an image and combinations thereof. Voice can be transcribed, understood, summarised or re-written and re-generated. These benefits, if used
 by criminals, can easily lead to scams as well; e.g. ‘stealing’ people’s voice providing false authenticating and writing convincing good spam emails asking for credentials or requesting payments. It becomes very hard to distinct true from false and soon we may need decoding tools to do so. 2023 will mark the year where organisations can no longer rely on authentication as they knew it. Financial institutions and governments should be extra alert.
 
-## Organisations should be aware of the risks
+## **Organisations should be aware of the risks**
 
 In organisations there are a number of factors weighing in for a pause or to re-think AI usage. However fancy an
 application like Chat-GPT may seem, there are risks involved re.:
@@ -40,7 +40,7 @@ information might be stored on someone else’s servers and become part of the m
 
 - Environmental impact: using a GLLM in a production environment requires the use of many ‘graphic processing units’ or GPUs, which will incur high computational and environmental costs.
 
-## How to achieve a sustainable approach?
+## **How to achieve a sustainable approach?**
 
 Most organisations are looking for a framework that leverages AI’s possibilities, while mitigating risks. Such a
 framework ensures AI applications to be:
@@ -56,6 +56,6 @@ framework ensures AI applications to be:
 Over the past 4 years Y.digital has developed a cognitive AI platform, putting the above principles in place. This
 cloud-native, enterprise secure, GDPR compliant SAAS platform offers the building blocks to deploy language-based AI applications with a short time-to-market, at lower cost. We mitigate the earlier mentioned GLLM risks by integrating a semantic model that collaborates with several AI techniques and provides the much needed guardrails for a GLLM.
 
-## More information
+## **More information**
 
 Please reach out to us ([result@y.digital](mailto:result@y.digital)) to discuss how your organisation can deploy language related AI applications in the most reliable, fair, sustainable and transparent way.
