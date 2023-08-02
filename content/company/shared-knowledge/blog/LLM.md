@@ -13,8 +13,6 @@ summary: >-
 author: Marc Oosterhoudt
 ---
 
-# Why do some organisations hit the brakes when it comes to applying AI?
-
 Recently Chief Innovation and Technology Officer [Bart Leurs](https://www.linkedin.com/in/bart-leurs-096a605) from Dutch major bank Rabobank voiced that the bank is calling for a temporary stop on the use of AI, primarily addressing Generative Large Language Models (GLLMs). In March this year a group of tech leaders including Steve Wozniak (Apple’s co-founder) and Elon Musk, as well as prominent AI researchers, signed an open letter that called for an immediate pause of the work of AI labs beyond GTP-4, (where GPT stands for ‘Generative Pre-Trained model), trained on data-sets from a part of the internet. Late May this year Tristan Harris and Aza Raskin, founders of Centre for Humane Technology and contributors to the Netflix movie the Social Dilemma, presented the AI-dilemma.
 
 They basically rang the alarm bells claiming that it is high time to establish ethical and legal frameworks, before it is too late. The AI dilemma makers mainly target the tech giants and draw parallels with how social media developed into harmful applications leading to addictions and destabilising democracies, where initially the technological advancement and social enrichment were celebrated. It seems that corporations now follow suit with a break, buying time, investigating which interventions are required to mitigate risks.
