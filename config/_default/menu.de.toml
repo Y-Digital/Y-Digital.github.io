@@ -1,0 +1,169 @@
+########## Main menu ##########
+
+[[main]]
+identifier = "approach"
+name = "aanpak"
+title = "aanpak"
+url = "/de/approach/"
+pageRef = "/approach"
+weight = 10
+[[main]]
+identifier = "solutions"
+name = "oplossingen"
+title = "oplossingen"
+url = "/de/solutions/"
+pageRef = "/solutions"
+weight = 20
+	[[main]]
+	identifier = "conversational-ai"
+	parent = "solutions"
+	name = "conversational ai"
+	title = "conversational ai"
+	url = "/de/solutions/conversational-ai/"
+	pageRef = "/solutions/conversational-ai"
+	weight = 22
+	[[main]]
+	identifier = "intelligent-document-processing"
+	parent = "solutions"
+	name = "intelligent document processing"
+	title = "intelligent document processing"
+	url = "/de/solutions/intelligent-document-processing/"
+	pageRef = "/solutions/intelligent-document-processing"
+	weight = 24
+	[[main]]
+	identifier = "ai-search-recommendation"
+	parent = "solutions"
+	name = "ai search & recommendation"
+	title = "AI Search & Recommendation"
+	url = "/de/solutions/ai-search-recommendation/"
+	pageRef = "/solutions/ai-search-recommendation"
+	weight = 26
+[[main]]
+identifier = "services"
+name = "diensten"
+title = "diensten"
+url = "/de/services/"
+pageRef = "/services"
+weight = 30
+[[main]]
+identifier = "company"
+name = "bedrijf"
+title = "bedrijf"
+url = "/de/company/"
+pageRef = "/company"
+weight = 40
+	[[main]]
+	identifier = "careers"
+	parent = "company"
+	name = "carrière"
+	title = "carrière"
+	url = "/de/company/careers/"
+	pageRef = "/company/careers"
+	weight = 42
+	[[main]]
+	identifier = "shared-knowledge"
+	parent = "company"
+	name = "kennisbank"
+	title = "kennisbank"
+	url = "/de/company/shared-knowledge/"
+	pageRef = "/company/shared-knowledge"
+	weight = 44
+	[[main]]
+	identifier = "faq"
+	parent = "company"
+	name = "veelgestelde vragen"
+	title = "veelgestelde vragen"
+	url = "/de/company/faq/"
+	pageRef = "/company/faq"
+	weight = 46
+[[main]]
+identifier = "contact"
+name = "contact"
+title = "contact"
+url = "/de/contact/"
+pageRef = "/contact"
+weight = 50
+
+
+
+########## Footer menu ##########
+
+[[footer]]
+identifier = "home"
+name = "Home"
+url = "/de/"
+pageRef = "/"
+weight = 1
+
+[[footer]]
+identifier = "approach"
+name = "Aanpak"
+url = "/de/approach/"
+pageRef = "/approach"
+weight = 10
+[[footer]]
+identifier = "solutions"
+name = "Oplossingen"
+url = "/de/solutions/"
+pageRef = "/solutions"
+weight = 20
+	[[footer]]
+	identifier = "conversational-ai"
+	parent = "solutions"
+	name = "Conversational AI"
+	url = "/de/solutions/conversational-ai/"
+	pageRef = "/solutions/conversational-ai"
+	weight = 22
+	[[footer]]
+	identifier = "intelligent-document-processing"
+	parent = "solutions"
+	name = "Intelligent Document Processing"
+	url = "/de/solutions/intelligent-document-processing/"
+	pageRef = "/solutions/intelligent-document-processing"
+	weight = 24
+	[[footer]]
+	identifier = "ai-search-recommendation"
+	parent = "solutions"
+	name = "AI Search & Recommendation"
+	url = "/de/solutions/ai-search-recommendation/"
+	pageRef = "/solutions/ai-search-recommendation"
+	weight = 26
+[[footer]]
+identifier = "services"
+name = "Diensten"
+url = "/de/services/"
+pageRef = "/services"
+weight = 30
+[[footer]]
+identifier = "company"
+name = "Bedrijf"
+url = "/de/company/"
+pageRef = "/company"
+weight = 40
+	[[footer]]
+	identifier = "careers"
+	parent = "company"
+	name = "Carrière"
+	url = "/de/company/careers/"
+	pageRef = "/company/careers"
+	weight = 42
+	[[footer]]
+	identifier = "shared-knowledge"
+	parent = "company"
+	name = "Kennisbank"
+	url = "/de/company/shared-knowledge/"
+	pageRef = "/company/shared-knowledge"
+	weight = 44
+	[[footer]]
+	identifier = "faq"
+	parent = "company"
+	name = "Veelgestelde vragen"
+	url = "/de/company/faq/"
+	pageRef = "/company/faq"
+	weight = 46
+[[footer]]
+identifier = "contact"
+name = "Contact"
+url = "/de/contact/"
+pageRef = "/contact"
+weight = 50
