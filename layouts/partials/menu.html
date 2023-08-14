@@ -90,7 +90,20 @@
 
 
         {{ if .IsTranslated }}
-        {{ range .Translations }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          <ul class="submenu dropdown" aria-label="submenu">
+          {{ range .Translations }}
+          {{/* <a href="{{ .URL }}">
+            <li class="{{ if $currentPage.IsMenuCurrent " main" . }}active{{ else }}inactive{{ end }}">
+              {{ .Name }}
+            </li>
+          </a> */}}
+          <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+          {{ end }}
+          </ul>
+          </li>
+          {{/* {{ range .Translations }}
         {{ if eq .Site.Language.Lang "en" }}
         <li><a title="English" href="{{ .RelPermalink }}"><img src="/img/gb.svg" alt="EN"> EN</a></li>
         {{ else }}
@@ -102,7 +115,7 @@
         <li><a title="English" href="{{ .RelPermalink }}"><img src="/img/gb.svg" alt="EN"> EN</a></li>
         {{ else }}
         <li><a title="Dutch" href="{{ .RelPermalink }}"><img src="/img/nl.svg" alt="NL"> NL</a></li>
-        {{ end }}
+        {{ end }} */}}
         {{ end }}
 
       </ul>
