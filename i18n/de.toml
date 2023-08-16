@@ -1,86 +1,94 @@
 [firstName]
-other = "Voornaam"
+other = "Vorname"
 
 [lastName]
-other = "Achternaam"
+other = "Nachname"
 
 [phoneNumber]
-other = "Telefoon"
+other = "Telefonnummer"
 
 [phone]
-other = "telefoon"
+other = "Telefon"
 
 [email]
-other = "email"
+other = "E-Mail"
 
 [address]
-other = "adres"
+other = "Adresse"
 
 [netherlands]
-other = "Nederland"
+other = "Niederlande"
 
 [asia]
-other = "Azië"
+other = "Asien"
 
 [companyName]
-other = "Naam bedrijf"
+other = "Firmenname"
 
 [requiredField]
-other = "* Verplicht veld"
+other = "* gibt ein Pflichtfeld an"
 
 [innovationInbox]
-other = "Innovatie in jouw inbox"
+other = "Innovation im Posteingang"
 
 [receiveMonthly]
-other = "Ontvang maandelijks nieuwsbrieven over conversational AI & Intelligent Document Processing"
+other = "Monatliche Newsletter über konversationelle KI & intelligente Dokumentenverarbeitung erhalten"
 
 [more]
-other = "Meer"
+other = "Mehr"
 
 [allTitle]
 other = "Alle {{.Title }}"
 
 [recentTitle]
-other = "Recente {{.Title }}"
+other = "Neueste {{.Title }}"
 
 [readMore]
-other = "meer lezen"
+other = "weiterlesen"
 
 [whatsInThis]
-other = "Inhoud van deze {{ .Type }}"
+other = "Was steckt in diesem {{ .Type }}"
 
 [related]
-other = "Gerelateerd"
+other = "Verwandte Themen"
 
 [yourName]
-other = "Uw naam"
+other = "Ihr Name"
 
 [emailAddress]
-other = "Email adres"
+other = "E-Mail-Adresse"
 
 [yourEmail]
-other = "Voer je e-mail in"
+other = "Ihre E-Mail"
 
 [message]
-other = "Bericht"
+other = "Nachricht"
 
 [newsletter]
-other = "Sign up for newsletter"
+other = "Newsletter abonnieren"
 
 [emailRequiredNote]
-other = "Een e-mailadres is vereist."
+other = "Eine E-Mail-Adresse ist erforderlich."
 
 [send]
-other = "Verstuur"
+other = "Senden"
 
 [subscribe]
-other = "Verstuur"
+other = "Abonnieren"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Unten finden Sie Seiten, die den Taxonomiebegriff {{ .Title }} verwenden"
+
+[readingTime]
+one = "Eine Minute Lesezeit"
+other = "{{ .Count }} Minuten Lesezeit"
+
+[wordCount]
+one = "Ein Wort"
+other = "{{ .Count }} Wörter"
 
 [pageTitle]
-other = "{{ .Name }} pagina"
+other = "{{ .Name }} Seite"
 
 [voorwaardenLink]
-other = "/img/upload/nldigital-voorwaarden-nl.pdf"
+other = "/img/upload/nldigital-terms-en.pdf"

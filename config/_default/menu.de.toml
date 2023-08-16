@@ -1,169 +1,169 @@
-########## Main menu ##########
+########## Hauptmenü ##########
 
 [[main]]
 identifier = "approach"
-name = "aanpak"
-title = "aanpak"
+name = "Ansatz"
+title = "Ansatz"
 url = "/de/approach/"
 pageRef = "/approach"
 weight = 10
 [[main]]
 identifier = "solutions"
-name = "oplossingen"
-title = "oplossingen"
+name = "Lösungen"
+title = "Lösungen"
 url = "/de/solutions/"
 pageRef = "/solutions"
 weight = 20
 	[[main]]
 	identifier = "conversational-ai"
 	parent = "solutions"
-	name = "conversational ai"
-	title = "conversational ai"
+	name = "Konversationelle KI"
+	title = "Konversationelle KI"
 	url = "/de/solutions/conversational-ai/"
 	pageRef = "/solutions/conversational-ai"
 	weight = 22
 	[[main]]
 	identifier = "intelligent-document-processing"
 	parent = "solutions"
-	name = "intelligent document processing"
-	title = "intelligent document processing"
+	name = "Intelligente Dokumentenverarbeitung"
+	title = "Intelligente Dokumentenverarbeitung"
 	url = "/de/solutions/intelligent-document-processing/"
 	pageRef = "/solutions/intelligent-document-processing"
 	weight = 24
 	[[main]]
 	identifier = "ai-search-recommendation"
 	parent = "solutions"
-	name = "ai search & recommendation"
-	title = "AI Search & Recommendation"
+	name = "KI-Suche & Empfehlung"
+	title = "KI-Suche & Empfehlung"
 	url = "/de/solutions/ai-search-recommendation/"
 	pageRef = "/solutions/ai-search-recommendation"
 	weight = 26
 [[main]]
 identifier = "services"
-name = "diensten"
-title = "diensten"
+name = "Dienstleistungen"
+title = "Dienstleistungen"
 url = "/de/services/"
 pageRef = "/services"
 weight = 30
 [[main]]
 identifier = "company"
-name = "bedrijf"
-title = "bedrijf"
+name = "Unternehmen"
+title = "Unternehmen"
 url = "/de/company/"
 pageRef = "/company"
 weight = 40
 	[[main]]
 	identifier = "careers"
 	parent = "company"
-	name = "carrière"
-	title = "carrière"
+	name = "Karriere"
+	title = "Karriere"
 	url = "/de/company/careers/"
 	pageRef = "/company/careers"
 	weight = 42
 	[[main]]
 	identifier = "shared-knowledge"
 	parent = "company"
-	name = "kennisbank"
-	title = "kennisbank"
+	name = "Wissensdatenbank"
+	title = "Wissensdatenbank"
 	url = "/de/company/shared-knowledge/"
 	pageRef = "/company/shared-knowledge"
 	weight = 44
 	[[main]]
 	identifier = "faq"
 	parent = "company"
-	name = "veelgestelde vragen"
-	title = "veelgestelde vragen"
+	name = "Häufig gestellte Fragen"
+	title = "Häufig gestellte Fragen"
 	url = "/de/company/faq/"
 	pageRef = "/company/faq"
 	weight = 46
 [[main]]
 identifier = "contact"
-name = "contact"
-title = "contact"
+name = "Kontakt"
+title = "Kontakt"
 url = "/de/contact/"
 pageRef = "/contact"
 weight = 50
 
 
 
-########## Footer menu ##########
+########## Fußzeilenmenü ##########
 
 [[footer]]
 identifier = "home"
-name = "Home"
+name = "Startseite"
 url = "/de/"
 pageRef = "/"
 weight = 1
 
 [[footer]]
 identifier = "approach"
-name = "Aanpak"
+name = "Ansatz"
 url = "/de/approach/"
 pageRef = "/approach"
 weight = 10
 [[footer]]
 identifier = "solutions"
-name = "Oplossingen"
+name = "Lösungen"
 url = "/de/solutions/"
 pageRef = "/solutions"
 weight = 20
 	[[footer]]
 	identifier = "conversational-ai"
 	parent = "solutions"
-	name = "Conversational AI"
+	name = "Konversationelle KI"
 	url = "/de/solutions/conversational-ai/"
 	pageRef = "/solutions/conversational-ai"
 	weight = 22
 	[[footer]]
 	identifier = "intelligent-document-processing"
 	parent = "solutions"
-	name = "Intelligent Document Processing"
+	name = "Intelligente Dokumentenverarbeitung"
 	url = "/de/solutions/intelligent-document-processing/"
 	pageRef = "/solutions/intelligent-document-processing"
 	weight = 24
 	[[footer]]
 	identifier = "ai-search-recommendation"
 	parent = "solutions"
-	name = "AI Search & Recommendation"
+	name = "KI-Suche & Empfehlung"
 	url = "/de/solutions/ai-search-recommendation/"
 	pageRef = "/solutions/ai-search-recommendation"
 	weight = 26
 [[footer]]
 identifier = "services"
-name = "Diensten"
-url = "/de/services/"
-pageRef = "/services"
+name = "Dienstleistungen"
+url = "/de/dienstleistungen/"
+pageRef = "/dienstleistungen"
 weight = 30
 [[footer]]
 identifier = "company"
-name = "Bedrijf"
-url = "/de/company/"
-pageRef = "/company"
+name = "Unternehmen"
+url = "/de/services/"
+pageRef = "/services"
 weight = 40
 	[[footer]]
 	identifier = "careers"
 	parent = "company"
-	name = "Carrière"
+	name = "Karriere"
 	url = "/de/company/careers/"
 	pageRef = "/company/careers"
 	weight = 42
 	[[footer]]
 	identifier = "shared-knowledge"
 	parent = "company"
-	name = "Kennisbank"
+	name = "Wissensdatenbank"
 	url = "/de/company/shared-knowledge/"
 	pageRef = "/company/shared-knowledge"
 	weight = 44
 	[[footer]]
 	identifier = "faq"
 	parent = "company"
-	name = "Veelgestelde vragen"
+	name = "Häufig gestellte Fragen"
 	url = "/de/company/faq/"
 	pageRef = "/company/faq"
 	weight = 46
 [[footer]]
 identifier = "contact"
-name = "Contact"
+name = "Kontakt"
 url = "/de/contact/"
 pageRef = "/contact"
 weight = 50
