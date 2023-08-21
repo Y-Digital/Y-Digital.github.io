@@ -5,7 +5,7 @@ other = "Vorname"
 other = "Nachname"
 
 [phoneNumber]
-other = "Telefonnummer"
+other = "Telefon"
 
 [phone]
 other = "Telefon"
@@ -26,7 +26,7 @@ other = "Asien"
 other = "Firmenname"
 
 [requiredField]
-other = "* gibt ein Pflichtfeld an"
+other = "* Pflichtfeld"
 
 [innovationInbox]
 other = "Innovation im Posteingang"
@@ -74,7 +74,7 @@ other = "Eine E-Mail-Adresse ist erforderlich."
 other = "Senden"
 
 [subscribe]
-other = "Abonnieren"
+other = "Absenden"
 
 [taxonomyPageList]
 other = "Unten finden Sie Seiten, die den Taxonomiebegriff {{ .Title }} verwenden"

@@ -1,5 +1,5 @@
 ---
-title: AI Search & Recommendation
+title: AI Suche & Empfehlungen
 description: AI Search & Recommendation
 layout: ai-search-recommendation
 lang: de
@@ -8,9 +8,9 @@ hero_image: /img/hero-SCA.jpeg
 hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
-page_title: AI Search & Recommendation
+page_title: AI Suche & Empfehlungen
 intro_text: >-
-  Die Suche und das Finden von Dokumenten haben sich in den letzten zwei Jahrzehnten immens verändert. Mit dem Aufkommen von Suchmaschinen im Internet ist die Suche nach Informationen zugänglicher geworden. Doch wenn es darum geht, intern innerhalb einer Organisation nach Informationen zu suchen, ist die Möglichkeit, das Gesuchte zu finden, oft weniger erfolgreich. Der Unterschied besteht darin, dass in den meisten Organisationen eine spezifische Fachsprache verwendet wird und der erforderliche Expertenwissen, um Dokumente erfolgreich zu finden, erhöht ist.
+  Die Suche nach Informationen hat sich in den letzten Jahrzehnten durch die Einführung von Suchmaschinen im Internet enorm verbessert. Dennoch gestaltet sich die Suche nach internen Informationen in Organisationen oft schwierig und umständlich. Der Unterschied liegt darin, dass Organisationen oft eine spezifische Fachsprache verwenden und es Expertenwissen erfordert, um erfolgreich Informationen zu finden.
 action_text: Wie funktioniert es?
 download_text: White Paper herunterladen
 form_download_text: Kostenloser Download
@@ -26,23 +26,21 @@ two_round_buttons:
   left_button_link: /de/contact/
   right_button_link: /de/contact/
 numbered_features:
-  - title: Warum KI?
+  - title: Y. AI?
     text: >-
-      KI ist eine Technologie, die perfekt dafür geeignet ist, große Datenmengen zu durchsuchen, zu analysieren und dem Benutzer das beste Suchergebnis anzubieten. Y.digital hilft Organisationen, wichtige Informationen freizuschalten und mithilfe der neuesten KI-Technologien in nützliches Wissen umzuwandeln. Während einige veraltete Technologien sich nur auf die Schlüsselwort-Suche konzentrieren, bietet die Möglichkeit der Verwendung der neuesten Wissensgraphen-Technologie die Möglichkeit, den tatsächlichen Inhalt eines Textes zu analysieren und die Kombination verschiedener Wörter im Kontext zu betrachten.
+      Künstliche Intelligenz (AI) ist eine Technologie, die perfekt geeignet ist, große Datenmengen zu durchsuchen, zu analysieren und dem Benutzer oder der Benutzerin das beste Suchergebnis anzubieten. Y.digital unterstützt Organisationen dabei, wichtige Informationen mit Hilfe modernster AI-Technologien zu erschließen und in nützliches Wissen umzuwandeln. Während veraltete Technologien sich auf die Suche nach Schlüsselwörtern beschränken, ermöglichen uns die Möglichkeiten der neuesten Knowledge-Graph-Technologie, den tatsächlichen Inhalt eines Textes zu überprüfen und die Kombination verschiedener Wörter in einem bestimmten Kontext zu berücksichtigen.
     image: /img/upload/sm_office.jpg
   - title: Lernen Sie Ally kennen
     text: >-
-      Die Ally-Plattform ist eine SaaS-Lösung, die eine Vielzahl der neuesten KI-Technologien verwendet. Sie ersetzt nicht die vorhandene Infrastruktur von Dokumentenverwaltungssystemen, sondern ermöglicht die Suche in verschiedenen Quellen, um das beste Ergebnis für Ihre Suche zu finden. Anstatt zu wissen, wonach Sie suchen, unterstützt Sie die KI-Technologie dabei, das zu finden, wonach Sie gesucht haben.
+      Die Ally-Plattform ist eine SaaS-Lösung, die eine Vielzahl der neuesten AI-Technologien nutzt. Sie ersetzt nicht die bestehende Infrastruktur von Dokumentenverwaltungssystemen, sondern ermöglicht die Suche in verschiedenen Quellen, um das beste Suchergebnis zu erzielen. Anstatt zu wissen, wonach Sie suchen, unterstützt Sie die AI-Technologie dabei, das zu finden, wonach Sie gesucht haben.
     image: /img/upload/sm_office2.jpg
-  - title: Befähigung von Menschen
+  - title: Menschen stärken
     text: >-
-      Täglich werden viele neue Dokumente erstellt, sei es eine Notiz aus einem Meeting, Aktionslisten, neue Angebote für Kunden oder das Ergebnis einer getroffenen Entscheidung. Dokumente enthalten nützliche Informationen für Ihren täglichen Betrieb, aber das Archivieren von Dokumenten ist oft eine langweilige Aufgabe, die Sie lieber vergessen möchten. Mit Hilfe der KI-Technologie können nützliche Details zur Erstellung eines Dokuments in Metadaten eingefügt werden, um Dokumente leicht zu finden, aber auch um große Datenmengen von jetzt an zu archivieren, und möglicherweise Daten, die bis zu einem anderen Jahrzehnt zurückreichen, zu archivieren.
+      Täglich werden in Organisationen viele neue Dokumente erstellt, sei es ein Protokoll einer Besprechung, eine Aufgabenliste, neue Angebote für Kunden und Kundinnen oder das Ergebnis einer getroffenen Entscheidung. Dokumente enthalten nützliche Informationen für den täglichen Betrieb, aber das Archivieren von Dokumenten ist oft eine langweilige Aufgabe, die man am liebsten vergessen möchte. Mit Hilfe von AI-Technologie können nützliche Informationen über die Erstellung eines Dokuments in Metadaten eingetragen werden, um Dokumente leichter zu finden und große Datenmengen zu archivieren, sowohl aktuelle als auch Daten aus vergangenen Jahrzehnten.
     image: /img/upload/sm_phone.jpg
-  - title: Praktizieren, was man predigt
+  - title: Worten Taten folgen lassen
     text: >-
-      Für ein Unternehmen der Elektroinfrastruktur haben wir große Datenmengen analysiert, die bis in die 1980er Jahre zurückreichen. Nützliche und wichtige Informationen zur Infrastruktur aus diesem Jahrzehnt, die jedoch in den heutigen Betriebsabläufen unfindbar sind, da die Daten nicht für die aktuelle Technologie der heutigen Operationen konfiguriert wurden. Durch die Verwendung der Ally-Plattform von Y.digital kann auf die Informationen jetzt einfach zugegriffen werden, ohne komplizierte und wissensintensive Arbeitsanweisungen für das Auffinden und Archivieren von Dokumenten befolgen zu müssen.
-
-      Y.digital dreht sich alles darum, Menschen mit der neuesten KI-Technologie zu befähigen.
+      Für ein Unternehmen im Bereich der elektrischen Infrastruktur haben wir große Datenmengen aus den 1980er Jahren analysiert. Wichtige Informationen zur Infrastruktur aus diesem Jahrzehnt waren in der heutigen Betriebsführung nicht auffindbar, da die Daten nicht mit den aktuellen Technologien übereinstimmten. Durch die Nutzung der Ally-Plattform von Y.digital können diese Informationen nun leicht von Mitarbeitenden abgerufen werden, ohne dass sie komplizierte und wissensintensive Anweisungen zur Suche und Archivierung von Dokumenten befolgen müssen. Y.digital setzt auf die Stärkung von Menschen mit modernster AI-Technologie.
     image: /img/upload/sm_assist.jpg
 
 ---

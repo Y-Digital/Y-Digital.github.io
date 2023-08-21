@@ -1,5 +1,5 @@
 ---
-title: Solutions
+title: Lösungen
 description: solutions
 layout: solutions
 lang: de
@@ -9,16 +9,16 @@ hero_circles:
   left_circle: Stop wasting time
   right_circle: Start empowering
 intro_text: >-
-  Sie möchten die Effizienz steigern, die Kundenerfahrung verbessern oder Ihre Mitarbeiter in ihrer täglichen Arbeit unterstützen. Unabhängig vom KI-Ziel ermöglichen digitale Plattformen eine schnellere Innovation, höhere Qualität, erhöhte Zuverlässigkeit und Kostensenkung. Mit diesem Ziel vor Augen haben wir die modulare KI-Plattform Y.platform entwickelt. Unter Verwendung von offenen Standards und einer Open-Source-First-Strategie erstellen wir Module für alle erforderlichen Funktionen der KI-Plattform. Schlüsselkomponenten: maschinelles Lernen, natürliche Sprachverarbeitung, Bilderkennung, Sprache und Wissensgraphen.
+  Sie möchten die Effizienz steigern, Kundenerfahrungen verbessern oder Ihren Mitarbeitenden Support in ihrer täglichen Arbeit bieten. Egal, welches Ziel die KI verfolgt, eine KI-Plattform ermöglicht schnelle Innovation, hohe Qualität und niedrigere Kosten. Mit diesem Gedanken haben wir die modulare KI-Plattform Y.Ally entwickelt. Unter Verwendung offener Standards und einer Open-Source-First-Strategie entwickeln wir Module für alle erforderlichen KI-Funktionen. Kernelemente: Maschinelles Lernen, natürliche Sprachverarbeitung in Text und Sprache, Bilderkennung und Knowledge Graphs.
 
 features:
   - text: >-
-      ## KI-Lösungen mit der Plattform Y.Ally
+      ## KI-Lösungen mit der KI-Plattform Y.Ally
 
 
-      Ally bietet Zugang zur modernsten KI-Technologie - mit Standardlösungen und erweiterten Enterprise-Lösungen für Conversational AI und Intelligent Document Processing.
-
-      Benötigt Ihre Organisation eine maßgeschneiderte KI-Lösung? Unsere Experten helfen Ihnen gerne bei der Entwicklung einer soliden Anwendung, die schnell konfiguriert, erstellt und geschult werden kann.
+      Ally bietet Zugang zu modernster KI-Technologie. Mit Standardlösungen und erweiterten Unternehmenslösungen für Conversational AI und Intelligent Document Processing. 
+      
+      Benötigen Sie eine maßgeschneiderte KI-Lösung, die speziell auf Ihre Organisation zugeschnitten ist? Auch dabei unterstützen unsere Experten Sie bei der Entwicklung einer soliden Anwendung, die schnell konfiguriert, aufgebaut und trainiert werden kann.
 
 two_round_buttons:
   left_button: Stop reading
@@ -29,18 +29,19 @@ two_round_buttons:
 conversational_ai:
   box_title: Conversational AI
   box_text: >-
-    Wir möchten die Interaktion zwischen Mensch und Computer mit Chatbots und Sprachassistenten zu einer großartigen Erfahrung machen. Um bestehende Probleme in der Sprachverarbeitung, Skalierbarkeit und Intent-Modellierung zu lösen, haben wir eine Conversational AI-Lösung der nächsten Generation entwickelt. Eine Lösung, die auf einem tiefen Verständnis der menschlichen Interaktion basiert.
+    Wir schaffen eine völlig neue Erfahrung in der Interaktion zwischen Menschen und Systemen über Chatbots und Sprachassistenten. Um bestehende Probleme im Bereich der Sprachverarbeitung, Skalierbarkeit und Intent-Modellierung zu lösen, haben wir eine Conversational AI-Lösung der nächsten Generation entwickelt. Eine Lösung, die auf Knowledge-Graph-Technologie basiert und ein tiefgreifendes Verständnis der Neurolinguistik und der Funktionsweise des menschlichen Gehirns bietet.
+
   link: /de/solutions/conversational-ai/
 
 intelligent_document_processing:
   box_title: Intelligent Document Processing
   box_text: >-
-    Wir helfen Ihnen dabei, dauerhaften KI-Wert im großen Maßstab zu erfassen. Dies erfordert ein tiefes Verinnerlichen der langfristigen Wettbewerbsvorteile der Ergänzung menschlicher Entscheidungsfindung und Datenverarbeitung aus vielen Quellen. In einem riesigen Maßstab und mit blitzschneller Geschwindigkeit. Es wird Ihnen helfen, Effizienz, Qualität und Mitarbeiterzufriedenheit zu steigern und die Kosten erheblich zu senken.
+    KI ist für Organisationen sinnvoll, die große Mengen an Daten aus verschiedenen Datenquellen verarbeiten, wie Dokumente, Bildmaterial, Video und Audio. Innovative neue Techniken helfen dabei, diese effizient zu verarbeiten. Dazu gehören Natural Language Processing, Spracherkennung, maschinelles Lernen, Computer Vision und Mustererkennung. Technologien, die dazu beitragen, Dokumente schneller, genauer und mit weniger menschlichem Aufwand zu verarbeiten.
   link: /de/solutions/intelligent-document-processing/
 
 h2heading: Starten Sie die Humanisierung
 h3heading: Fertige Lösungen
-ally_platform: Unsere KI-Plattform im offenen Standard
+ally_platform: Unsere offene Standard-KI-Plattform
 _template: solutions
 ---
 

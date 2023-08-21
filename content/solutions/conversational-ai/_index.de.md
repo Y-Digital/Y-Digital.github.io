@@ -10,41 +10,16 @@ hero_circles:
   right_circle: Start scaling
 page_title: Conversational AI
 intro_text: >-
-  Chatbots und Sprachbots sind ein integrierter Bestandteil der heutigen
-  Kundenkontaktstrategie. Dennoch bleiben die Kundenerwartungen im Verhältnis
-  zum lang erwarteten Erfolg von Technologien im Bereich des ununterstützten
-  Kundenkontakts gering.
+  Die automatisierte Kundeninteraktion mit Hilfe von Chatbots und Sprachassistenten ist ein integraler Bestandteil der Kundenkontaktstrategie. Dennoch entsprechen die Kundenerwartungen bisher nicht dem lang erwarteten Erfolg des Einsatzes solcher Technologien.
 
-  Y.digital bietet Lösungen, die einen Kundenkontakt der nächsten Generation
-  etablieren, indem sie Technologien einsetzen, die es Chatbots und Sprachbots
-  ermöglichen, auf jede Kundenanfrage zu antworten. Dabei wird der Wunsch des
-  Kunden als Ausgangspunkt für die Interaktion genutzt. Wir verwenden die
-  neueste KI-Technologie im Bereich der Sprachverarbeitung und
-  Sprachverständnis.
+  Y.digital konzentriert sich darauf, den Kundendialog auf ein neues Level zu heben, bei dem auch eine automatisierte Sprach- oder Chatlösung problemlos auf die Kundenanforderungen reagiert und die Kundenwünsche als Ausgangspunkt für den Dialog verwendet. Dabei nutzen wir die neueste KI-Technologie im Bereich der Sprachverarbeitung und des Sprachverständnisses.
 
-  Unser Team besteht aus klugen Köpfen, Experten für Neurolinguistik und
-  Datenwissenschaft. Wir verwenden einen einzigartigen Ansatz, der dem Verlauf
-  eines normalen Dialogs zwischen Menschen entspricht. Die Technologie soll den
-  Benutzern, sowohl Kunden als auch Mitarbeitern, unterstützend zur Seite
-  stehen. Der Einsatz fortschrittlicher Sprachtechnologie macht den Kundenkontakt
-  skalierbarer, führt zu mehr abgeschlossenen Kundenanfragen und erhöht die
-  Kundenzufriedenheit. Auf diese Weise unterstützen wir Mitarbeiter im
-  Kundenservice dabei, wirklich komplexe Fragen persönlich zu beantworten.
+  Unser Team besteht aus klugen Köpfen, Experten und Expertinnen in Neurolinguistik und Data Science. Wir verwenden dabei einen einzigartigen Ansatz, der sich an einem normalen Dialog zwischen Menschen orientiert. Die Technologie soll dabei die Benutzer, sowohl Kunden und Kundinnen als auch Mitarbeitende, unterstützen. Der Einsatz fortschrittlicher Sprachtechnologie führt zu skalierbaren Lösungen im Kundenkontakt, einer erfolgreichen Bearbeitung von Kundenanfragen und vielem mehr. Auf diese Weise unterstützen wir Mitarbeitende vor Ort dabei, auch komplexe Fragen persönlich zu beantworten.
 
-  Die Ally-Plattform ist eine SaaS-Lösung, die für verschiedene Anwendungen
-  konfiguriert werden kann, einschließlich als Conversational AI-Plattform. Ally
-  unterstützt Kunden und Mitarbeiter im Kundenkontaktzentrum, indem sie Fragen
-  (per Telefon und Chat) leicht an die richtige Abteilung weiterleitet,
-  Kundenanfragen bearbeitet, wie beispielsweise das Anfordern, Ändern oder
-  Stornieren eines bestimmten Dienstes, mit Hilfe eines intelligenten
-  Sprachassistenten oder Chatbots. Es gibt verschiedene Möglichkeiten, Mitarbeiter
-  bei ihren täglichen Aufgaben zu unterstützen, z. B. die automatische Erstellung
-  einer Zusammenfassung eines Telefongesprächs, die Bereitstellung der richtigen
-  Informationen zur richtigen Zeit (Agent-Assist) und generell die Analyse des
-  automatisierten Kundenkontakts, eine Übersicht über häufig gestellte Fragen und
-  Trendanalyse.
+  Die Ally-Plattform ist eine SaaS-Lösung, die für verschiedene Anwendungen konfiguriert werden kann, einschließlich Conversational AI. Ally unterstützt Kundinnen und Kunden sowie Mitarbeitende des Kundenkontaktzentrums bei der einfachen Weiterleitung von Fragen (telefonisch und per Chat) an die richtige Abteilung und bei der Bearbeitung von Kundenanfragen, z. B. Anfragen zur Anmeldung, Änderung, Kündigung oder finanzielle Fragen, mithilfe eines intelligenten Sprachassistenten oder Chatbots. Es gibt verschiedene Möglichkeiten, Mitarbeitende bei ihren täglichen Aufgaben zu unterstützen, wie z. B. die automatisierte Zusammenfassung eines Telefongesprächs, die Bereitstellung relevanter Informationen zum richtigen Zeitpunkt und die Analyse des automatisierten Kundenkontakts, der gestellten Fragen und möglicherweise auftretender Trends, die für Unternehmen nicht sichtbar sind.
+
 action_text: Wie funktioniert es?
-download_text: White Paper herunterladen
+download_text: Whitepaper herunterladen
 form_download_text: Kostenloser Download
 consent_info: >-
   Y.digital respektiert Ihre Privatsphäre. Wir werden Sie in die Y.digital-Datenbank
@@ -60,13 +35,13 @@ blue_button:
   dark_text: White Paper herunterladen
   link: /img/upload/y-digital_whitepaper-de.pdf
 numbered_features:
-  - title: Kundenidentifikation
+  - title: Kundenidentifizierung
     text: >-
-      Die Kundenidentifikation ist der Prozess zur Überprüfung der Identität der Person, die Ihr Kontaktzentrum anruft. Durch die Überprüfung der Autorisierung über Conversational AI kann der Assistent den Anruf für den menschlichen Agenten vorbereiten oder den Kunden zur Selbstbedienung autorisieren. Dies spart eine enorme Menge Zeit, ohne die Kundenzufriedenheit zu beeinträchtigen. Ally kann die Identität eines Anrufers über Ihr CRM-System anhand seiner Telefonnummer und persönlicher Daten wie Geburtsdatum oder Postleitzahl verifizieren. Sobald die Identität und Absicht des Anrufers klar sind, kann der Assistent entweder den Anruf erfüllen oder weiterleiten.
+      Smart Call Assistance hilft bei der Identifizierung der Person, die das Kundenkontaktzentrum kontaktiert. Dank dieser Identifizierung kann Ally das Gespräch für den Mitarbeiter oder die Mitarbeiterin vorbereiten oder den Kunden bzw. die Kundin für Self-Service autorisieren. Dies spart viel Zeit, ohne die Kundenzufriedenheit zu beeinträchtigen. Ally kann die Identität einer anrufenden Person über Ihr CRM-System verifizieren. Anhand von Telefonnummer und persönlichen Daten wie Sozialversicherungsnummer, Geburtsdatum oder Postleitzahl.
     image: /img/upload/sm_498233134-1.jpg
   - title: Anrufweiterleitung
     text: >-
-      Basierend auf den Eingaben des Kunden verbindet Ally den Kunden mit der richtigen Abteilung und sogar dem besten Agenten für seine spezielle Frage. Dies kann auf Variablen wie Wartezeiten, der Präferenz, mit derselben Person zu sprechen, mit der sie zuvor gesprochen haben, oder spezifischem Fachwissen des Agenten basieren. Egal an wen der Anruf weitergeleitet wird, Ally ist der ideale Kollege und übergibt den Anruf immer mit allen erforderlichen Informationen.
+      Smart Call Assistance kann den Anrufer oder die Anruferin basierend auf der Frage an die richtige Abteilung weiterleiten. Oder auf Wunsch an die am besten geeignete Fachkraft für seine oder ihre spezifische Fragestellung. Hierbei nutzen wir Variablen wie Wartezeiten, die Präferenz, mit der Person zu sprechen, mit der zuvor gesprochen wurde, oder das spezifische Fachwissen des Mitarbeiters oder der Mitarbeiterin. Die Daten und Fragen des Kunden bzw. der Kundin werden selbstverständlich bei einer warmen Übergabe an den Mitarbeiter oder die Mitarbeiterin weitergegeben.
     image: /img/upload/sm_office.jpg
   - title: Anrufbearbeitung
     text: >-
@@ -74,11 +49,11 @@ numbered_features:
     image: /img/upload/sm_office2.jpg
   - title: Registrierung
     text: >-
-      Die Funktion zur Gesprächsregistrierung fasst einen Transkript einer laufenden Diskussion mithilfe eines KI-Naturalsprachemodells zusammen und registriert in Zusammenarbeit mit dem Agenten alle Informationen in Ihrem CRM-System. Dabei bestimmt Ally die Beschreibung des Problems und die Lösung. Die Echtzeit-Zusammenfassung löst das Problem, bei dem ein Kunde seine Anfrage und andere Informationen wiederholen muss, wenn er von einem Sprachassistenten an einen Agenten übertragen wird.
+      Mit Smart Call Assistance können Gespräche einfach transkribiert und zusammengefasst werden. Der Mitarbeiter oder die Mitarbeiterin kann so die Berichterstattung für das CRM-System einfach durchführen. Dabei definiert Ally die Fragestellung und die angebotene Lösung. Die Echtzeit-Zusammenfassung während des Gesprächs löst auch das Problem, dass ein Kunde oder eine Kundin seine bzw. ihre Frage und andere Informationen wiederholen muss, wenn diese von einem Sprachassistenten an einen Agenten oder eine Agentin übergeben werden. Auch praktisch!
     image: /img/upload/sm_phone.jpg
   - title: Agentenunterstützung
     text: >-
-      Wenn Ally das Gespräch "mithört" und in Echtzeit zusammenfasst, kann es auch mögliche Antworten für den Agenten vorschlagen. Es kann sogar relevante Teile einer Anleitung oder Wissensbasis in Ihrem Backend verknüpfen. Sowohl Kunden als auch menschliche Agenten profitieren von dieser "Flüster"-Funktion. Für neue Mitarbeiter reduziert dies die Notwendigkeit, lange Unternehmenshandbücher auswendig zu lernen oder während des Anrufs hektisch nach den richtigen Informationen zu suchen. Der Verbraucher erhält prompte, präzise Antworten auf seine Fragen.
+      Wenn Ally das Gespräch mithört und in Echtzeit zusammenfasst, machen wir auch Vorschläge für mögliche Antworten an den Mitarbeiter oder die Mitarbeiterin. Diese Vorschläge werden mithilfe von KI aus verschiedenen Quellen extrahiert, wie einer Wissensdatenbank oder einer Website. Sowohl Kunden und Kundinnen als auch Mitarbeitende profitieren von dieser "Flüsterfunktion". Für neue Mitarbeitende verringert dies die Notwendigkeit, das gesamte Wissen auswendig zu lernen oder während des Gesprächs hastig nach den richtigen Informationen zu suchen. Der Kunde bzw. die Kundin erhält schnelle und präzise Antworten auf seine Fragen.
     image: /img/upload/sm_assist.jpg
 
 _template: conversational_ai

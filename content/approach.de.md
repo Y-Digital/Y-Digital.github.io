@@ -9,12 +9,12 @@ hero_circles:
   left_circle: Stop doubting
   right_circle: Start maximizing
 intro_text: >-
-  Gemeinsam mit Ihnen arbeiten wir an AI-Lösungen mit hoher Wirkung und verwenden unseren bewährten Y. Ansatz. Wir bieten Ihnen Anleitung, um Werte zu schaffen, die direkt zu Ihrer Mission, Vision und Strategie - Ihrem Warum - beitragen. Wir sind offen, transparent und realistisch.
+  Gemeinsam mit Ihnen arbeiten wir an hochwirksamen KI-Lösungen. Dabei setzen wir auf unseren bewährten Y-Ansatz, der auf Kreativität, Transparenz und Realismus basiert. Auf diese Weise helfen wir Ihnen, Werte zu schaffen, die direkt zu Ihrer Mission, Vision und Strategie – Ihrem "Warum" - beitragen.
 
 
-  Wir arbeiten agil und in hoher Geschwindigkeit mit unseren Expertenteams, um die Produktivität zu maximieren und gleichzeitig mit Stakeholdern und Kontext in Verbindung zu bleiben.
+  Gemeinsam mit unseren Kundinnen und Kunden arbeiten wir nach agilen Prinzipien in Sprints auf konkrete Ergebnisse hin. Dadurch maximieren wir die Leistung, während Sie als Kunde oder Kundin genau wissen, was wir tun. Letztendlich bestimmen Sie die Prioritäten
   
-page_title: Y.ansatz
+page_title: Y-Ansatz
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
@@ -22,17 +22,17 @@ two_round_buttons:
   right_button_link: /de/contact/
 numbered_features:
   - text: >-
-      Während des ersten Treffens lernen wir uns kennen und hören gerne von Ihnen, mit welcher Herausforderung Sie konfrontiert sind. Wir betrachten dies als Schlüssel zum Erfolg für eine langfristige Beziehung, die auf gegenseitigem Vertrauen basiert. Gemeinsam werden wir unsere AI-Lösungen erkunden, Referenzen präsentieren und AI-Chancen definieren, die einen Mehrwert für Ihr Unternehmen bieten.
+      Im ersten Gespräch lernen wir uns kennen und hören gerne von Ihnen, vor welchen Herausforderungen Sie stehen. Wir betrachten dies als Schlüssel zum langfristigen Erfolg einer Beziehung, die auf gegenseitigem Vertrauen basiert. Gemeinsam erkunden wir unsere KI-Lösungen, besprechen Showcase-Referenzen und definieren KI-Möglichkeiten, die Ihrem Geschäft Mehrwert bieten.
   - text: >-
-      Wir beginnen mit dem Warum. Unsere Experten für digitale Transformation werden ein tiefes Verständnis für Ihre Ambitionen, Ihr Geschäft, Ihre Kunden und Ihre Arbeitsweise entwickeln. Sie werden Sie dabei unterstützen, das Potenzial von KI für Ihre mittel- und langfristige Strategie zu nutzen und einen strategischen Fahrplan mit ambitionierten, vielversprechenden KI-Initiativen zu entwickeln.
+      Wir beginnen mit dem "Warum". Unsere Experten und Expertinnen für digitale Transformation erlangen ein tiefgreifendes Verständnis für Ihre Ambitionen, Ihr Unternehmen, Ihre Kundschaft und Ihre Arbeitsweise. Sie unterstützen Sie dabei, das Potenzial der KI in Ihre mittel- und langfristige Strategie zu integrieren und entwickeln eine strategische Roadmap mit ambitionierten KI-Initiativen von hohem Potenzial.
   - text: >-
-      In diesem Stadium setzen wir vielversprechende KI-Initiativen in solide Geschäftsfälle und konkrete Projekte um. Wir laden Sie in unser Y.design Labor ein, wo wir Ideen generieren und Prototypen gemeinsam entwickeln. Die wertvollsten Ideen werden ausgearbeitet, mit der Zielgruppe getestet und weiter optimiert. Bereit zur Umsetzung.
+      In dieser Phase setzen wir KI-Initiativen mit hohem Potenzial in solide Geschäftsfälle und konkrete Projekte um. Wir laden Sie in unser Y.Design-Labor ein, wo wir Ideen generieren und gemeinsam Prototypen entwickeln. Die wertvollsten Ideen werden ausgearbeitet, mit der Zielgruppe getestet und weiter optimiert. Bereit zur Umsetzung.
   - text: >-
-      Unsere Experten entwickeln, konfigurieren und testen dann die KI-Lösung unter Verwendung der Module unserer eigenen Y.ally Plattform. Kerntechnologien, die wir verwenden, sind maschinelles Lernen, natürliche Sprachverarbeitung und Wissensgraphen. Ihre KI-Lösung wird in der vereinbarten Anzahl von Sprints entwickelt. Der Fortschritt wird mit Ihnen während der zweiwöchentlichen Demos geteilt.
+      Unsere Expertinnen und Experten bauen die KI-Lösung, konfigurieren sie und testen sie mit Hilfe der Module unserer eigenen KI-Plattform Y.Ally. Zu den Kerntechnologien, die wir verwenden, gehören Machine Learning, natürliche Sprachverarbeitung und Wissensgraphen. Ihre KI-Lösung wird gemäß der vereinbarten Anzahl von Sprints entwickelt. Der Fortschritt wird in zweiwöchentlichen Demos mit Ihnen geteilt.
   - text: >-
-      Wir werden die KI-Lösung in Ihre Geschäftsprozesse implementieren und Ihre Mitarbeiter schulen und unterstützen. Da unsere KI-Lösungen containerbasiert sind, können sie in Ihrer eigenen lokalen Rechenzentrums- oder Cloud-Umgebung implementiert werden, oder wir können die Lösung in unserem eigenen Rechenzentrum hosten. Wir übertragen Wissen an Ihr KI-Team, nutzen die Y. Academy und bieten Schulungen am Arbeitsplatz an.
+      Wir implementieren die KI-Lösung in Ihre Geschäftsprozesse und sorgen für Schulung und Betreuung Ihrer Mitarbeitenden. Da unsere KI-Lösungen containerbasiert sind, können sie in Ihrem eigenen Rechenzentrum vor Ort oder in der Cloud implementiert werden. Alternativ können wir die Lösung in unserem eigenen Rechenzentrum hosten. Wir stellen sicher, dass Ihr KI-Team durch die Y.Academy und "Training on the Job" das erforderliche Wissen erhält.
   - text: >-
-      Basierend auf Benutzererfahrungen und Ideengenerierung von Ihnen und uns arbeiten wir an neuen Funktionen auf der Grundlage eines priorisierten Backlogs, um ein noch besseres Ergebnis zu erzielen. Die KI-Lösung wird sich weiterentwickeln und benötigt Mechanismen für überwachtes Lernen. Wir priorisieren den Backlog gemeinsam mit Ihnen und stellen so kontinuierlichen Geschäftswert und Wachstum sicher.
+      Basierend auf Benutzererfahrungen und der gemeinsamen Generierung von Ideen arbeiten wir an neuen Funktionen auf der Grundlage eines priorisierten Backlogs, um noch bessere Ergebnisse zu erzielen. Die KI-Lösungen entwickeln wir weiter, wobei menschliche Aufsicht eine wichtige Rolle spielt. Wir priorisieren das Backlog gemeinsam mit Ihnen, um kontinuierlichen Geschäftswert und Wachstum zu gewährleisten.
 
 _template: approach
 ---

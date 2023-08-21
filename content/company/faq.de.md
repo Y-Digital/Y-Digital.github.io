@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Häufig gestellte Fragen
 description: FAQ
 heroimage: hero-home.jpg
 layout: faq
@@ -7,47 +7,50 @@ lang: de
 translationKey: faq
 page_title: FAQ
 intro_text: >-
-  Die Technologiebranche entwickelt sich ständig weiter, und neue Innovationen tauchen regelmäßig auf. Sich an Veränderungen anzupassen bedeutet, alle notwendigen Informationen über künstliche Intelligenz (KI) zu gewinnen. Als Experten auf diesem Gebiet möchten wir dazu beitragen, das Wissen über KI zu verbreiten, indem wir eine Reihe häufig gestellter Fragen beantworten.
+  Für uns bei Y.digital gehören Themen rundum Künstliche Intelligenz zu unserem täglichen Geschäft, aber das gilt natürlich nicht für jeden. Daher helfen wir Ihnen gerne mit einer Reihe von häufig gestellten Fragen und Antworten im Bereich Künstliche Intelligenz.
 q_and_a:
   - question: Was ist Künstliche Intelligenz (KI)?
     answer: >-
-      Künstliche Intelligenz sind Konzepte und Technologien, die darauf abzielen, Computern die Durchführung von menschenähnlicher Kognition zu ermöglichen. Bei Y.digital umfassen Kern-KI-Technologien Natural Language Processing (NLP), Computer Vision und Knowledge Graphs.
+      Konzepte und Technologien, die darauf abzielen, Computern die Fähigkeit zur Erbringung menschlicher kognitiver Leistungen zu ermöglichen. Für Y.digital sind die Kerntechnologien der KI Natural Language Processing (NLP), Computer Vision und Knowledge Graphs.
   - question: Was ist Natural Language Processing (NLP)?
     answer: >-
-      Das Ziel von Natural Language Processing (NLP) besteht darin, Computern die Interpretation von Text und gesprochener Sprache in derselben Weise zu ermöglichen wie Menschen. Beispielanwendungen umfassen Dokumentklassifikation, maschinelle Übersetzung, Sprachverarbeitung und Themenextraktion.
+      Das Ziel des Natural Language Processing (NLP) besteht darin, Computern die Interpretation von Texten und gesprochener Sprache in ähnlicher Weise wie Menschen zu ermöglichen. Beispiele für Anwendungen sind Dokumentenklassifizierung, automatische Übersetzung, Sprachverarbeitung und Themenextraktion.
   - question: Was ist Computer Vision?
     answer: >-
-      Computer Vision ist eine Sammlung von Technologien, die es Computern ermöglichen, Bilder und Videos zu verarbeiten. Beispielanwendungen umfassen Objekterkennung, Signaturerkennung und -erkennung sowie Tabellenerkennung.
+      Computer Vision ist eine Sammlung von Technologien, die darauf abzielen, Computern die Verarbeitung von Bildern und Videos zu ermöglichen. Beispiele für Anwendungen sind Objekterkennung, Unterschriftenerkennung und -erkennung sowie Tabellenerkennung.
   - question: Was sind Knowledge Graphs?
     answer: >-
-      Knowledge Graphs sind eine natürliche, maschineninterpretierbare Möglichkeit, Wissen über die Welt auszudrücken. Dieses Wissen wird als ein miteinander verbundenes Netzwerk von Attributen, Beziehungen und Werten dargestellt. Wissen kann automatisch aus Datensammlungen wie Texten (z.B. Gesetze und Vorschriften, Regeln, Arbeitsanweisungen, Fachartikel, Disziplinarrecht, Texte in Urkunden und Erklärungen usw.) oder strukturierten Datensourcen abgeleitet werden.
-  - question: Was ist Semantische Suche?
+      Graphen sind eine natürliche, maschineninterpretierbare Art und Weise, Wissen über die Welt auszudrücken. Dieses Wissen wird als ein miteinander verbundenes Netzwerk von Attributen, Beziehungen und Werten dargestellt. Wissen kann automatisch aus Datensammlungen wie Texten (z. B. Gesetzen und Vorschriften, Regeln, Anweisungen, Fachartikeln, Berufsordnungen, Texten in Urkunden und Erklärungen usw.) oder strukturierten Datenquellen extrahiert werden.
+  - question: Was ist semantische Suche?
     answer: >-
-      Die semantische Suche hilft Benutzern, relevante Informationen in der stetig wachsenden Menge an online verfügbaren Daten oder in den internen Repositories eines Unternehmens (z.B. SharePoint, OneDrive, FileShares, Dokumentenverwaltungssysteme, E-Mail) zu finden. Die semantische Suche stützt sich auf Natural Language Processing und Knowledge Graphs, um über wörtliche Übereinstimmungen und suchalgorithmenbasierte Schlüsselwortsuchen hinauszugehen und Informationen aufzudecken, die sonst übersehen würden, während gleichzeitig Unordnung und irrelevante Suchergebnisse vermieden werden.
+      Die semantische Suche hilft Benutzern und Benutzerinnen dabei, relevante Informationen in der stetig wachsenden Menge an verfügbaren Daten online oder in den internen Speicherorten eines Unternehmens zu finden. Dazu gehören SharePoint, OneDrive, Fileshares, Dokumentenmanagement-Systeme und E-Mails. Die semantische Suche verwendet Natural Language Processing und Knowledge Graphs, um über wörtlich übereinstimmende, auf Stichwörtern basierende Suchalgorithmen hinauszugehen. So werden Informationen gefunden, die sonst übersehen würden, während unübersichtliche und irrelevante Suchergebnisse vermieden werden.
   - question: Was ist Intelligent Document Processing (IDP)?
     answer: >-
-      IDP unterstützt Unternehmen dabei, die operationale Effizienz und Produktivität zu steigern, indem es ihre wissensintensiven Prozesse (z.B. Schreibtisch- und Dossierarbeiten) optimiert. IDP kann die Belastung von Wissensarbeitern erheblich reduzieren, indem es ihnen bei der Entscheidungsfindung in großen Mengen von Dossiers oder Dokumenten unterstützt. Darüber hinaus trägt IDP dazu bei, die Einhaltung, Konsistenz und Datensicherheit zu verbessern, indem es menschliche Mitarbeiter von zeitaufwändigen manuellen Aufgaben entlastet und damit die Mitarbeiterbindung erhöht.
-  - question: Welche Technologien sind in IDP-Lösungen enthalten?
+      IDP hilft Unternehmen, ihre operative Effizienz und Produktivität zu steigern, indem es ihre wissensintensiven Prozesse (z. B. Büro- und Aktenarbeit) optimiert. IDP kann die Arbeitsbelastung von Wissensarbeitern und -arbeiterinnen erheblich reduzieren, indem es ihnen Entscheidungsunterstützung bei großen Mengen von Akten oder Dokumenten bietet. Darüber hinaus hilft IDP dabei, Compliance, Konsistenz und Datensicherheit zu verbessern, indem es Mitarbeitende von zeitaufwändigen manuellen Aufgaben entlastet und die Mitarbeiterbeteiligung erhöht.
+  - question: Welche Arten von Technologien werden in IDP-Lösungen verwendet?
     answer: >-
-      Optische Zeichenerkennung (OCR), Maschinelles Lernen (ML), Natural Language Processing (NLP) und Computer Vision sind alle Teil einer anspruchsvollen IDP-Plattform. Es verwendet auch KI-Komponenten, die in der Lage sind, sowohl strukturierte als auch unstrukturierte Daten zu analysieren und kontinuierlich zu lernen und die Genauigkeit zu erhöhen.
+      Optical Character Recognition (OCR), Machine Learning (ML), Natural Language Processing (NLP) und Computer Vision sind alle Bestandteile einer fortgeschrittenen IDP-Plattform. Sie nutzt auch KI-Komponenten, mit denen sowohl strukturierte als auch unstrukturierte Daten analysiert werden können, während kontinuierlich gelernt wird, um die Genauigkeit zu erhöhen.
   - question: Ist IDP skalierbar?
     answer: >-
-      IDP ist skalierbar, da es beliebig viele Dokumente verarbeiten kann, ohne überlastet zu werden. Jeden Tag können Sie Millionen, wenn nicht Milliarden von Datenpunkten verarbeiten. IDP ist die Lösung, wenn Ihr Unternehmen Phasen mit einem höheren Bedarf an Dokumentenverarbeitung hat. Es wächst im Einklang mit Ihrem Unternehmen.
-  - question: Was ist eine Voice App?
+      IDP ist skalierbar, da es beliebig viele Dokumente verarbeiten kann, ohne überlastet zu werden. Jeden Tag können Millionen, wenn nicht Milliarden von Datapunkten verarbeitet werden. IDP ist die Lösung, wenn Ihr Unternehmen Segmente mit einem höheren Bedarf an Dokumentenverarbeitung hat. Es wächst mit Ihrem Unternehmen mit.
+  - question: Was ist eine Sprach-App?
     answer: >-
-      Eine Voice App ist eine sprachaktivierte Software, die es einer Organisation ermöglicht, über Plattformen wie den Google Assistant oder Amazon Alexa zugänglich zu sein. Der offizielle Begriff bei Google lautet "Google Action", bei Amazon wird es als "Skill" bezeichnet. Über eine Voice App erhält eine Organisation die Möglichkeit, über die Plattformen von Google oder Amazon mit dem Benutzer zu kommunizieren.
-  - question: Kann man auch einen Sprachassistenten in einem Call Center verwenden?
+      Eine Sprach-App ist eine sprachgesteuerte Software, mit der eine Organisation über Sprachassistenten wie den Google Assistant oder Amazon Alexa zugänglich wird. Der offizielle Begriff bei Google lautet Google Action, bei Amazon spricht man von einer Skill. Über eine Sprach-App bietet eine Organisation dem Benutzer oder der Benutzerin die Möglichkeit, über die Sprachassistenten von Google oder Amazon mit ihrem Unternehmen zu kommunizieren.
+  - question: Kann man einen Sprachassistenten auch im Callcenter einsetzen?
     answer: >-
-      Man kann auch einen Sprachassistenten in einem Call Center verwenden. Wir nennen dies "Smart Call Assistance". Der Kunde kann in seiner eigenen (natürlichen) Sprache sagen, worum es bei seinem Anruf geht, woraufhin der Sprachassistent ihn an die richtige Abteilung weiterleitet. Oder er kann die richtige Antwort selbst geben und so die Wartezeiten verkürzen. Dies hat auch eine positive Auswirkung, da Wartezeiten verkürzt und die Arbeitsbelastung im Call Center verringert werden.
-  - question: Was ist Sprachsuche?
+      Einen Sprachassistenten kann auch im Callcenter eingesetzt werden. Dies wird als Smart Call Assistance bezeichnet. Der Kunde oder die Kundin kann in seiner bzw. ihrer eigenen (natürlichen) Sprache sprechen und darüber informieren, worum es in seinem bzw. ihrem Anruf geht. Anschließend wird er vom Sprachassistenten zur richtigen Abteilung weitergeleitet oder der Sprachassistent selbst gibt die richtige Antwort. Smart Call Assistance hat auch dahingehend einen positiven Effekt, dass es die Arbeitsbelastung im Callcenter verringert und bei Spitzenauslastungen hilft.
+  - question: Was ist Voice Search?
     answer: >-
-      Bei der Sprachsuche handelt es sich um die Suche nach Informationen mithilfe von Sprachbefehlen. Über den Sprachkanal können Benutzer Suchanfragen mithilfe ihrer Stimme stellen. Um Informationen über die Sprachsuche zu erhalten, ist ein Sprachassistent und ein Gerät erforderlich. Dazu gehören der Google Assistant, Apples Siri oder Amazons Alexa.
-  - question: Wie funktioniert Sprachsuche?
+      Voice Search ist die Suche nach Informationen über Sprachbefehle. Zum Beispiel über den Google Assistant, Siri von Apple oder Alexa von Amazon. Heutzutage sind auch viele Suchleisten mit einem Mikrofon ausgestattet. Da Menschen beim Sprechen andere Wörter verwenden als beim Eintippen einer Suchanfrage, ist es wichtig, als Unternehmen auch auf die Positionierung in
+  - question: Was ist eine Google Action?
     answer: >-
-      Immer mehr Benutzer bevorzugen das Sprechen gegenüber dem Tippen, wenn sie eine Suchanfrage eingeben. Dies wird als Sprachsuche bezeichnet. Googles Algorithmen suchen dann nach der besten und schnellsten verfügbaren Antwort. Die Spitzenposition ist hier viel wert, insbesondere da ein Sprachassistent nur eine Antwort basierend auf dem Suchalgorithmus gibt - dies ist besonders wichtig für Geräte ohne Bildschirm, wie den Google Home oder AirPods.
-  - question: Was ist Voice Marketing?
-    answer: >-
-      Beim Voice Marketing geht es darum, Benutzern oder Kunden über den Sprachkanal Informationen, Produkte, Dienstleistungen und Unterhaltung zugänglich zu machen. Als Beispiel können Sie Ihre Website für die Sprachsuche optimieren und Google Actions entwickeln.
+      Eine Google Action ist eine Anwendung im Google Assistant. Mit einer Google Action können Unternehmen ihre Produkte, Dienstleistungen, Neuigkeiten oder Unterhaltungsinhalte in den Google Assistant integrieren. Beispiele dafür sind Google Actions von Bol.com, der Hypotheker oder Racoon. Sie werden aktiviert, indem man zum Beispiel sagt "Okay Google, sprich mit der Hypotheker."
+  # - question: Wie funktioniert Sprachsuche?
+  #   answer: >-
+  #     Immer mehr Benutzer bevorzugen das Sprechen gegenüber dem Tippen, wenn sie eine Suchanfrage eingeben. Dies wird als Sprachsuche bezeichnet. Googles Algorithmen suchen dann nach der besten und schnellsten verfügbaren Antwort. Die Spitzenposition ist hier viel wert, insbesondere da ein Sprachassistent nur eine Antwort basierend auf dem Suchalgorithmus gibt - dies ist besonders wichtig für Geräte ohne Bildschirm, wie den Google Home oder AirPods.
+  # - question: Was ist Voice Marketing?
+  #   answer: >-
+  #     Beim Voice Marketing geht es darum, Benutzern oder Kunden über den Sprachkanal Informationen, Produkte, Dienstleistungen und Unterhaltung zugänglich zu machen. Als Beispiel können Sie Ihre Website für die Sprachsuche optimieren und Google Actions entwickeln.
 hero_image: ''
 _template: faq
 ---
