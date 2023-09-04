@@ -10,7 +10,7 @@ author: 'Carla Verwijmeren '
 
 In de steeds evoluerende wereld van kunstmatige intelligentie, is AI Search een van de meest veelbelovende ontwikkelingen. We nemen je mee door vijf concrete kansen die AI Search biedt. 
 
-1. Hyperpersonalisatie van zoekresultaten 
+1\. Hyperpersonalisatie van zoekresultaten 
 
 Traditionele zoekmachines gebruiken trefwoorden, maar AI Search begrijpt de intentie achter de zoekopdracht. Dit stelt je in staat om resultaten te leveren op basis van iemands voorkeuren en gedrag, waardoor de gebruikerservaring sterk verbetert. 
 
