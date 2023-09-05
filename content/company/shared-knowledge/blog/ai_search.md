@@ -20,7 +20,7 @@ Met AI Search fungeert de zoekbalk niet alleen als een statische tool, maar als 
 
 3\. Diepgaand inzicht uit onstructuurde data 
 
-Veel waardevolle informatie zit verborgen in ongestructureerde gegevensbronnen zoals documenten, afbeeldingen en video's. Met onze AI Search oplossing kan deze gegevens begrijpen, verbanden leggen en waardevolle inzichten bieden die anders misschien over het hoofd zouden worden gezien. 
+Veel waardevolle informatie zit verborgen in ongestructureerde gegevensbronnen zoals documenten, afbeeldingen en video's. Onze AI Search oplossing kan deze gegevens begrijpen, verbanden leggen en waardevolle inzichten bieden die anders misschien over het hoofd zouden worden gezien. 
 
 4\. Snellere besluitvorming 
 
