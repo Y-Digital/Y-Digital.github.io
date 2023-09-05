@@ -18,7 +18,7 @@ Traditionele zoekmachines gebruiken trefwoorden, maar AI Search begrijpt de inte
 
 Met AI Search fungeert de zoekbalk niet alleen als een statische tool, maar als een slimme assistent die vragen begrijpt en beantwoordt. Gebruikers kunnen complexe vragen stellen en direct relevante antwoorden krijgen, wat de efficiëntie en het gemak vergroot. 
 
-3\. Diepgaand inzicht uit onstructuurde data 
+3\. Diepgaand inzicht uit ongestructureerde data 
 
 Veel waardevolle informatie zit verborgen in ongestructureerde gegevensbronnen zoals documenten, afbeeldingen en video's. Onze AI Search oplossing kan deze gegevens begrijpen, verbanden leggen en waardevolle inzichten bieden die anders misschien over het hoofd zouden worden gezien. 
 
