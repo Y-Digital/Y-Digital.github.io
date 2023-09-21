@@ -3,6 +3,7 @@ title: Understanding Without Meaning
 layout: blog
 summary: ''
 author: Luuk Suurmeijer
+date: 2023-09-20T22:00:00.000Z
 ---
 
 Picture this: A new type of model has been released. It’s been trained to produce canine verbalizations, that is: to bark, like a dog. To this end the new LBMs (Large Barking Models) have been exposed to millions and millions of different barks from different dogs all over the world, from sharp chihuahua squeals to deep muffled barks of a greyhound. The results are good, so good in fact, that the proponents of LBMs claim these models now bark better than dogs themselves. Clearly a strange statement, but the thought experiment raises an interesting question: what does it even mean for a computer to bark better than a dog?
