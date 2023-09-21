@@ -2,13 +2,9 @@
 title: Understanding Without Meaning
 layout: blog
 summary: >-
-  Imagine this: a new kind of model has been developed, trained to mimic complex
-  sounds. This raises a unique question - what does it mean for a computer to do
-  something better than humans? This scenario parallels the debate surrounding
-  Large Language Models (LLMs) and their supposed language understanding
-  abilities. While LLMs excel in mimicking language, they may not truly grasp
-  its essence like humans. We explore this discrepancy, the limitations of LLMs,
-  and potential solutions in our blog.
+  What does it mean for a computer to do something better than humans? We
+  explore this discrepancy, the limitations of LLMs, and potential solutions in
+  our blog.
 author: Luuk Suurmeijer
 date: 2023-09-20T22:00:00.000Z
 featured_image: /brett-jordan-U32jeOdkgfA-unsplash.jpg
