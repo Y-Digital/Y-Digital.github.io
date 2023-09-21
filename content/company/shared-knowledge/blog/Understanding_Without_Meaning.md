@@ -25,42 +25,12 @@ So, in a way, understanding language for humans really means to understand the w
 person understand addition, then it does not matter whether you have to compute 2 + 2 or 4567 + 29137. You will know how to do it and probably arrive at the correct answer eventually, give or take some errors if you, like me, are
 terrible at arithmetic. LLMs are can do arithmetic to an extent, but break down especially as the numbers become increasingly large, no matter how you instruct them. This shows they do not really understand addition in the sense that a human does. And it doesn’t just go for arithmetic: it is common knowledge that LLMs can relatively easily be made to trip up in all sorts of tasks involving language in ways that are trivial for humans.
 
-I paint a
-rather grim picture for those who are excited about the human abilities of
-LLMs, but there are possible avenues for solutions. There is an increasing
-effort to train LLMs in conjunction with some world model. The main idea
-of a world model is that it is some representation that contains knowledge
-about how the world works, that is not represented in language. Collections of
-images are a popular operationalization of world models for example, that aim
-to help LLMs with tasks such as spatial reasoning. While they surely can
-provide value for correcting their hallucinatory nature, I doubt images are
-going to help LLMs do math or reason about language. Another option is a more
-abstract, structured collection of facts about the world, for example a
-knowledge graph. A knowledge graph is a structure that represents facts and the
-relationship between them. You can use it to discover new relationships about
-existing facts in the graph and relate new facts to things already stored in
-the graph. This type of structured data is the counterpart to the unstructured
-raw text that an LLM has access to. Training in conjunction with something like
-a knowledge graph can help reduce hallucinations and errors in LLM language
-generation, and moreover it would be a good effort in order to build a model
-that is more plausibly akin to us humans.
+I paint a rather grim picture for those who are excited about the human abilities of LLMs, but there are possible avenues for solutions. There is an increasing effort to train LLMs in conjunction with some world model. The main idea of a world model is that it is some representation that contains knowledge about how the world works, that is not represented in language. Collections of images are a popular operationalization of world models for example, that aim to help LLMs with tasks such as spatial reasoning. While they surely can provide value for correcting their hallucinatory nature, I doubt images are going to help LLMs do math or reason about language. Another option is a more abstract, structured collection of facts about the world, for example a knowledge graph. A knowledge graph is a structure that represents facts and the relationship between them. You can use it to discover new relationships about existing facts in the graph and relate new facts to things already stored in the graph. This type of structured data is the counterpart to the unstructured raw text that an LLM has access to. Training in conjunction with something like a knowledge graph can help reduce hallucinations and errors in LLM language generation, and moreover it would be a good effort in order to build a model that is more plausibly akin to us humans.
 
-Is it
-really the case, then, that LLMs have nothing to do with human language
-learning and understanding? Well, not exactly. It is true that the human mind
-can learn statistically. What exactly the extent is to which statistical
-learning is used by humans to learn language is disputed, but LLMs show that several
-parts of language can be learned based on statistics, like grammar. The point
-is that language and thought seem to be separate in humans. A system that can imitate
-language well might fool you into believing it is able to understand and think,
-and this may certainly be useful for some things, but there is little reason to
-believe it can actually do this. At the very least not like humans can,
-certainly not enough to warrant the term AGI. [This is why LLMs are sometimes referred to as
+Is it really the case, then, that LLMs have nothing to do with human language learning and understanding? Well, not exactly. It is true that the human mind can learn statistically. What exactly the extent is to which statistical learning is used by humans to learn language is disputed, but LLMs show that several parts of language can be learned based on statistics, like grammar. The point is that language and thought seem to be separate in humans. A system that can imitate language well might fool you into believing it is able to understand and think, and this may certainly be useful for some things, but there is little reason to believe it can actually do this. At the very least not like humans can, certainly not enough to warrant the term AGI. [This is why LLMs are sometimes referred to as
 Stochastic Parrots](https://en.wikipedia.org/wiki/Stochastic_parrot): It does not matter how well they bark, that doesn’t make them a dog.
 
-Do you want
-to learn more about the deployment of LLMs within your organization? Please get
-in touch.
+Do you want to learn more about the deployment of LLMs within your organization? Please get in touch.
 
 ***
 
