@@ -35,7 +35,10 @@ I paint a rather grim picture for those who are excited about the human abilitie
 Is it really the case, then, that LLMs have nothing to do with human language learning and understanding? Well, not exactly. It is true that the human mind can learn statistically. What exactly the extent is to which statistical learning is used by humans to learn language is disputed, but LLMs show that several parts of language can be learned based on statistics, like grammar. The point is that language and thought seem to be separate in humans. A system that can imitate language well might fool you into believing it is able to understand and think, and this may certainly be useful for some things, but there is little reason to believe it can actually do this. At the very least not like humans can, certainly not enough to warrant the term AGI. [This is why LLMs are sometimes referred to as
 Stochastic Parrots](https://en.wikipedia.org/wiki/Stochastic_parrot): It does not matter how well they bark, that doesn’t make them a dog.
 
-Do you want to learn more about the deployment of LLMs within your organization? Get in touch!
+
+If you want to know exactly whether LLMs and knowledge graphs are suitable for your organization, then Y.digital is the right place to go!
+
+
 
 ***
 
