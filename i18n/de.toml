@@ -32,7 +32,7 @@ other = "* Pflichtfeld"
 other = "Innovation im Posteingang"
 
 [receiveMonthly]
-other = "Monatliche Newsletter über konversationelle KI & intelligente Dokumentenverarbeitung erhalten"
+other = "Monatliche Newsletter über Conversational AI & intelligente Dokumentenverarbeitung erhalten"
 
 [more]
 other = "Mehr"
@@ -59,7 +59,7 @@ other = "Ihr Name"
 other = "E-Mail-Adresse"
 
 [yourEmail]
-other = "Ihre E-Mail"
+other = "Ihre E-Mail-Adresse"
 
 [message]
 other = "Nachricht"

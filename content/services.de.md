@@ -6,13 +6,13 @@ lang: de
 translationKey: services
 hero_image: /img/hero-services.jpg
 intro_text: >-
-  Die Integration von KI in die Strategie Ihrer Organisation bedeutet, dass Sie sich auf neue Arbeitsweisen vorbereiten. Unser internationales Team erfahrener und hochqualifizierter Experten und Expertinnen unterstützt Sie dabei. Mit unserer Expertise begleiten wir Sie in allen Phasen der digitalen Transformation, angefangen von strategischer Beratung und Inspirationsworkshops über das Training spezifischer KI-Fähigkeiten bis hin zur Durchführung kompletter KI-Projekte. Wir stehen Ihnen zur Verfügung!
+  Die Integration von KI in Ihre Unternehmensstrategie erfordert die Vorbereitung auf neue Arbeitsmethoden. Unser internationales Team aus erfahrenen und hochqualifizierten Experten und Expertinnen steht Ihnen dabei zur Seite. Mit unserer Expertise begleiten wir Sie in allen Phasen der digitalen Transformation, angefangen von strategischer Beratung und Inspirationsworkshops über das Training spezifischer KI-Fähigkeiten bis hin zur Durchführung kompletter KI-Projekte. Wir stehen Ihnen zur Verfügung!
 
 features:
   - text: |-
       ## Unsere Expertinnen und Experten
 
-      Benötigen Sie einen Experten oder eine Expertin zu einem dieser Themen? Rufen Sie uns einfach an!(/de/kontakt/)!
+      Benötigen Sie Expertise zu einem dieser Themen? Kontaktieren Sie uns einfach!(/de/kontakt/)!
 
 two_round_buttons:
   left_button: Stop reading
@@ -23,7 +23,7 @@ two_round_buttons:
 page_title: Professionelle Dienstleistungen
 
 cards:
-  - card_heading: Was wir bieten
+  - card_heading: Was wir Ihnen bieten
     list_heading: Unsere Dienstleistungen
     list: |-
       *	KI-Inspirationsworkshops
@@ -36,7 +36,7 @@ cards:
       *	Run & Grow-Services
       *	Y.Academy
 
-  - card_heading: Für wen wir arbeiten
+  - card_heading: Wen wir Ihnen bieten
     list_heading: Unsere Expertinnen und Experten
     list: |-
       *	Strategieberater/-innen
@@ -51,7 +51,7 @@ cards:
 
 
 round_button:
-  button_text: Treten Sie mit uns in Kontakt
+  button_text: Kontakt aufnehmen
   button_link: /de/contact/
 _template: services
 ---

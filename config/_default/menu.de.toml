@@ -17,8 +17,8 @@ weight = 20
 	[[main]]
 	identifier = "conversational-ai"
 	parent = "solutions"
-	name = "Konversationelle KI"
-	title = "Konversationelle KI"
+	name = "Conversational AI"
+	title = "Conversational AI"
 	url = "/de/solutions/conversational-ai/"
 	pageRef = "/solutions/conversational-ai"
 	weight = 22
@@ -33,8 +33,8 @@ weight = 20
 	[[main]]
 	identifier = "ai-search-recommendation"
 	parent = "solutions"
-	name = "KI-Suche & Empfehlung"
-	title = "KI-Suche & Empfehlung"
+	name = "AI Search & Recommendation"
+	title = "AI Search & Recommendation"
 	url = "/de/solutions/ai-search-recommendation/"
 	pageRef = "/solutions/ai-search-recommendation"
 	weight = 26
@@ -110,7 +110,7 @@ weight = 20
 	[[footer]]
 	identifier = "conversational-ai"
 	parent = "solutions"
-	name = "Konversationelle KI"
+	name = "Conversational AI"
 	url = "/de/solutions/conversational-ai/"
 	pageRef = "/solutions/conversational-ai"
 	weight = 22
@@ -124,7 +124,7 @@ weight = 20
 	[[footer]]
 	identifier = "ai-search-recommendation"
 	parent = "solutions"
-	name = "KI-Suche & Empfehlung"
+	name = "AI Search & Recommendation"
 	url = "/de/solutions/ai-search-recommendation/"
 	pageRef = "/solutions/ai-search-recommendation"
 	weight = 26
