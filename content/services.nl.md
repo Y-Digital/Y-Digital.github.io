@@ -19,7 +19,9 @@ features:
 
 
       Heb je een expert nodig bij een van deze onderwerpen, [bel ons dan
-      even](/nl/contact/)!
+      even](/nl/contact/)! En als je interesse hebt om jouw eigen kennis over AI
+      te verdiepen, kijk dan eens naar de Masterclasses die we geven vanuit
+      Y.academy!
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
@@ -58,4 +60,5 @@ round_button:
   button_link: /nl/contact/
 _template: services
 ---
+
 
