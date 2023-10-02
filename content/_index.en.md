@@ -51,22 +51,6 @@ media:
   third_item_link: '#footer-newsletter-form'
 footer_photo: /img/upload/ally.JPG
 numbered_features:
-  - title: Y.academy
-    text: >-
-      Do you want to deepen your knowledge about AI? Then register for one of
-      our Y.academy courses! The experts at Y.digital have fundamental,
-      practical and current knowledge in the field of Artificial Intelligence.
-      And we are happy to share that knowledge! There are Masterclasses on AI
-      and ChatGPT/LLM, but it is also possible to go on Expedition AI with your
-      organization together with your colleagues. In the training we discuss all
-      developments and important requirements from legislation and security. We
-      also deepen your knowledge on AI-techniques such as ChatGPT, Knowledge
-      Graphs, Voice, Machine Learning and setting up cloud platforms. And we
-      share the best approach to introduce AI into an organization. Therefore,
-      register for one of our courses at the Y.academy. This way you stay
-      completely up to date and you can get started yourself! 
-    image: /Y.academy.jpg
-    image_link: 'https://pages.y.digital/nl-nl/y.academy'
   - title: Development
     text: >-
       The heartbeat of Y.digital are our data-scientists and neurolinguists.
@@ -112,11 +96,28 @@ numbered_features:
       best for your organization.
     image: /img/upload/eden-constantino-oxmym9cuaey-unsplash.jpg
     image_link: /solutions/
+  - title: Y.academy
+    text: >-
+      Do you want to deepen your knowledge about AI? Then register for one of
+      our Y.academy courses! The experts at Y.digital have fundamental,
+      practical and current knowledge in the field of Artificial Intelligence.
+      And we are happy to share that knowledge! There are Masterclasses on AI
+      and ChatGPT/LLM, but it is also possible to go on Expedition AI with your
+      organization together with your colleagues. In the training we discuss all
+      developments and important requirements from legislation and security. We
+      also deepen your knowledge on AI-techniques such as ChatGPT, Knowledge
+      Graphs, Voice, Machine Learning and setting up cloud platforms. And we
+      share the best approach to introduce AI into an organization. Therefore,
+      register for one of our courses at the Y.academy. This way you stay
+      completely up to date and you can get started yourself! 
+    image: /Y.academy.jpg
+    image_link: 'https://pages.y.digital/nl-nl/y.academy'
 quote_slide: []
 second_round_button:
   button_text: ''
   button_link: ''
 _template: home
 ---
+
 
 
