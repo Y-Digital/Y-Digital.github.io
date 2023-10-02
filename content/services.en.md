@@ -11,7 +11,9 @@ intro_text: >-
   have built an international team of experienced, motivated, highly-skilled
   experts (PhD, MSc, BSc). Their expertise is at your service during all phases
   of your digital transformation. For advice, inspiration, specific AI skills,
-  building AI solutions or executing complete projects: just give us a call.
+  building AI solutions or executing complete projects: just give us a call. And
+  if you are interested in a training to deepen your own knowledge, have a look
+  at the Masterclasses of our Y.academy!
 features:
   - text: |-
       ## Our expertise
@@ -53,4 +55,5 @@ round_button:
   button_link: /contact/
 _template: services
 ---
+
 
