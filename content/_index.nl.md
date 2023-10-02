@@ -96,12 +96,30 @@ numbered_features:
       aansluit op jouw vraagstuk!
     image: /img/upload/eden-constantino-oxmym9cuaey-unsplash.jpg
     image_link: /solutions/
+  - title: Y.academy
+    text: >-
+      Wil jij jouw kennis over AI verdiepen? Schrijf je dan in voor één van onze
+      opleidingen van Y.academy! De experts van Y.digital beschikken over
+      fundamentele, praktische en actuele kennis op het gebied van Artificial
+      Intelligence. En die kennis delen we graag! Er zijn o.a. Masterclasses
+      over AI en ChatGPT/LLM, maar het is ook mogelijk om met jouw organisatie
+      op Expeditie AI te gaan samen met jouw collega’s. In de opleidingen gaan
+      we in op alle ontwikkelingen en we behandelen belangrijke eisen vanuit
+      wetgeving en security. Maar ook de technische kant komt langs, zoals
+      ChatGPT, Knowledge Graphs, Voice, Machine Learning en het inrichten van
+      cloud platformen. En we staan stil bij de beste aanpak om AI in een
+      organisatie te introduceren. Schrijf je daarom in voor één van onze
+      opleidingen bij de Y.academy. Zo blijf je helemaal up-to-date en kun je
+      zelf praktisch aan de slag!
+    image: /Y.academy.jpg
+    image_link: 'https://pages.y.digital/nl-nl/y.academy'
 quote_slide: []
 second_round_button:
   button_text: 'dit is een test om te zien wat er gebeurd '
   button_link: test.test
 _template: home
 ---
+
 
 
 
