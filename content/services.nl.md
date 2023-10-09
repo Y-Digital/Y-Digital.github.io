@@ -21,7 +21,7 @@ features:
       Heb je een expert nodig bij een van deze onderwerpen, [bel ons dan
       even](/nl/contact/)! En als je interesse hebt om jouw eigen kennis over AI
       te verdiepen, kijk dan eens naar de Masterclasses die we geven vanuit
-      Y.academy!
+      <a class="y-link" href="https://pages.y.digital/nl-nl/y.academy" target="_blank" rel="noopener">Y.academy</a>
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
@@ -40,7 +40,7 @@ cards:
       * User testing
       * Development sprints
       * Run & grow services
-      * Y.academy
+      * <a class="y-link" href="https://pages.y.digital/nl-nl/y.academy" target="_blank" rel="noopener">Y.academy</a>
   - card_heading: Wie we leveren
     list_heading: Onze experts
     list: |-

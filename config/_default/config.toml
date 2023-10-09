@@ -4,3 +4,6 @@ languageCode = "en-us"
 # theme = "ydigital"
 title = "Y.digital"
 metaDataFormat = "yaml"
+
+[markup.goldmark.renderer]
+unsafe= true

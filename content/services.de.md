@@ -12,7 +12,7 @@ features:
   - text: |-
       ## Unsere Expertinnen und Experten
 
-      Benötigen Sie Expertise zu einem dieser Themen? Kontaktieren Sie uns einfach!(/de/kontakt/)!
+      Benötigen Sie Expertise zu einem dieser Themen? [Kontaktieren Sie uns einfach](/de/kontakt/)!
 
 two_round_buttons:
   left_button: Stop reading
@@ -34,7 +34,7 @@ cards:
       *	Benutzertests
       *	Entwicklungssprints
       *	Run & Grow-Services
-      *	Y.Academy
+      *	<a class="y-link" href="https://pages.y.digital/nl-nl/y.academy" target="_blank" rel="noopener">Y.academy</a>
 
   - card_heading: Wen wir Ihnen bieten
     list_heading: Unsere Expertinnen und Experten

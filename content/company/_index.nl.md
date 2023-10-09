@@ -94,7 +94,7 @@ experience: >-
   health en de (semi) publieke sector.
 academy: >-
   Wil jij jouw kennis over AI verdiepen? Schrijf je dan in voor één van onze
-  opleidingen van Y.academy! De experts van Y.digital beschikken over
+  opleidingen van <a class="y-link" href="https://pages.y.digital/nl-nl/y.academy" target="_blank" rel="noopener">Y.academy</a>! De experts van Y.digital beschikken over
   fundamentele, praktische en actuele kennis op het gebied van Artificial
   Intelligence. En die kennis delen we graag! Er zijn o.a. Masterclasses over AI
   en ChatGPT/LLM, maar het is ook mogelijk om met jouw organisatie op Expeditie
