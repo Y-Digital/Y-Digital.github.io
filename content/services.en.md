@@ -11,12 +11,15 @@ intro_text: >-
   have built an international team of experienced, motivated, highly-skilled
   experts (PhD, MSc, BSc). Their expertise is at your service during all phases
   of your digital transformation. For advice, inspiration, specific AI skills,
-  building AI solutions or executing complete projects: just give us a call.
+  building AI solutions or executing complete projects: just give us a call. 
 features:
-  - text: |-
+  - text: >-
       ## Our expertise
 
-      Need help with one of these topics, [just give us a call](/contact/)!
+
+      Need help with one of these topics, [just give us a call](/contact/)! And
+      if you are interested in a training to deepen your own knowledge, have a
+      look at the Masterclasses of our Y.academy!
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
@@ -53,4 +56,6 @@ round_button:
   button_link: /contact/
 _template: services
 ---
+
+
 

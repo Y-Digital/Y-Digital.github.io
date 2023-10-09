@@ -93,14 +93,18 @@ experience: >-
   AI-oplossingen in verschillende sectoren zoals financial services, telecom,
   health en de (semi) publieke sector.
 academy: >-
-  De ontwikkelingen op het gebied van AI gaan razendsnel. Daarom hebben we onze
-  eigen Y.academy opgericht. Zo houden we ons team en onze klanten op de hoogte
-  van nieuwe AI-concepten, -technologieën en -innovaties. De Y.academy wordt ook
-  gebruikt om onze nieuwe talenten op te leiden in AI en consultancy skills;
-  tijdens de eerste twee jaar van hun carrière zullen ze theorie met praktijk
-  combineren, onder toezicht van onze senior teamleden. Daarnaast staat de
-  Y.academy open voor onze klanten, omdat we kennis willen overdragen. We
-  verzorgen zowel inspiratiesessies als masterclasses op CXO-niveau.
+  Wil jij jouw kennis over AI verdiepen? Schrijf je dan in voor één van onze
+  opleidingen van Y.academy! De experts van Y.digital beschikken over
+  fundamentele, praktische en actuele kennis op het gebied van Artificial
+  Intelligence. En die kennis delen we graag! Er zijn o.a. Masterclasses over AI
+  en ChatGPT/LLM, maar het is ook mogelijk om met jouw organisatie op Expeditie
+  AI te gaan samen met jouw collega’s. In de opleidingen gaan we in op alle
+  ontwikkelingen en we behandelen belangrijke eisen vanuit wetgeving en
+  security. Maar ook de technische kant komt langs, zoals ChatGPT, Knowledge
+  Graphs, Voice, Machine Learning en het inrichten van cloud platformen. En we
+  staan stil bij de beste aanpak om AI in een organisatie te introduceren.
+  Schrijf je daarom in voor één van onze opleidingen bij de Y.academy. Zo blijf
+  je helemaal up-to-date en kun je zelf praktisch aan de slag!
 we_are_hiring: >-
   ## Heb jij de Y.factor?
 
@@ -115,4 +119,5 @@ round_button:
 ally_platform: ''
 _template: company
 ---
+
 

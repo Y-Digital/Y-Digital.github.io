@@ -88,14 +88,18 @@ experience: >-
   in strategy, designing, building and growing AI solutions in various sectors:
   Financial Services, Industry, Health and (semi) Public.
 academy: >-
-  Developments in the field of AI are moving at an incredible speed. So, we
-  established our own Y.academy to keep our team and customers up to date with
-  new AI concepts, technologies and innovations. The Y.academy is also used to
-  train our new talents on AI and business skills; during the first two years of
-  their career they will mix theory with practice, under supervision of our
-  senior team members. Furthermore, the Y. academy is open to our customers, as
-  we want to transfer knowledge on their AI-solution. We provide Inspirations
-  sessions as well as Masterclasses at CXO level.
+  Do you want to deepen your knowledge about AI? Then register for one of our
+  Y.academy courses! The experts at Y.digital have fundamental, practical and
+  current knowledge in the field of Artificial Intelligence. And we are happy to
+  share that knowledge! There are Masterclasses on AI and ChatGPT/LLM, but it is
+  also possible to go on Expedition AI with your organization together with your
+  colleagues. In the training we discuss all developments and important
+  requirements from legislation and security. We also deepen your knowledge on
+  AI-techniques such as ChatGPT, Knowledge Graphs, Voice, Machine Learning and
+  setting up cloud platforms. And we share the best approach to introduce AI
+  into an organization. Therefore, register for one of our courses at the
+  Y.academy. This way you stay completely up to date and you can get started
+  yourself!
 we_are_hiring: >-
   ## We are hiring: got the Y. factor?
 
@@ -110,4 +114,5 @@ round_button:
 ally_platform: ''
 _template: company
 ---
+
 

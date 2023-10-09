@@ -33,15 +33,15 @@ blue_button:
   link: /contact/
 cards: []
 hero_slide:
-  - slide_left_circle: Stop time wasting
+  - slide_image: /img/hero-approach.jpg
+    slide_left_circle: Stop time wasting
     slide_right_circle: Start scaling
-    slide_image: /img/hero-approach.jpg
-  - slide_left_circle: Stop standardizing
+  - slide_image: /img/hero-solutions.jpg
+    slide_left_circle: Stop standardizing
     slide_right_circle: Start personalizing
-    slide_image: /img/hero-solutions.jpg
-  - slide_left_circle: Stop robotizing
+  - slide_image: /img/hero-home.jpg
+    slide_left_circle: Stop robotizing
     slide_right_circle: Start humanizing
-    slide_image: /img/hero-home.jpg
 media:
   first_item: listen to podcast
   first_item_link: /company/shared-knowledge/podcast/
@@ -96,10 +96,28 @@ numbered_features:
       best for your organization.
     image: /img/upload/eden-constantino-oxmym9cuaey-unsplash.jpg
     image_link: /solutions/
+  - title: Y.academy
+    text: >-
+      Do you want to deepen your knowledge about AI? Then register for one of
+      our Y.academy courses! The experts at Y.digital have fundamental,
+      practical and current knowledge in the field of Artificial Intelligence.
+      And we are happy to share that knowledge! There are Masterclasses on AI
+      and ChatGPT/LLM, but it is also possible to go on Expedition AI with your
+      organization together with your colleagues. In the training we discuss all
+      developments and important requirements from legislation and security. We
+      also deepen your knowledge on AI-techniques such as ChatGPT, Knowledge
+      Graphs, Voice, Machine Learning and setting up cloud platforms. And we
+      share the best approach to introduce AI into an organization. Therefore,
+      register for one of our courses at the Y.academy. This way you stay
+      completely up to date and you can get started yourself! 
+    image: /Y.academy.jpg
+    image_link: 'https://pages.y.digital/nl-nl/y.academy'
 quote_slide: []
 second_round_button:
   button_text: ''
   button_link: ''
 _template: home
 ---
+
+
 
