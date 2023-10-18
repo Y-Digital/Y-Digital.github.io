@@ -1,6 +1,7 @@
 ---
 title: "Inhuur van AI-Experts: doen of niet?\_"
 description: "In dit blog gaan we in op de uitdagingen die bij LLM komen kijken en de vraag of het wijsheid is om je team hierbij tijdelijk te versterken met hooggekwalificeerde AI-experts op development -en business transformation vlak.\_"
+featured_image: /pexels-fauxels-3183186.jpg
 date: 2023-10-17T22:00:00.000Z
 summary: "In dit blog gaan we in op de uitdagingen die bij LLM komen kijken en de vraag of het wijsheid is om je team hierbij tijdelijk te versterken met hooggekwalificeerde AI-experts op development -en business transformation vlak.\_"
 author: 'Carla Verwijmeren '
@@ -37,6 +38,3 @@ Zaken om rekening mee te houden bij externe inhuur  
 Snel en verantwoord waarde creëren met AI 
 
 Iedere organisatie heeft unieke uitdagingen en doelen. AI is een veelgehoord paraplu-begrip, maar vereist duiding per bruikbaar component. Onze AI-experts wat taalgerelateerde AI hierin kan betekenen is vaak nog niet duidelijk. Onze AI-experts begeleiden, leggen uit en brengen de potentie van taalgerelateerde AI voor jouw organisatie in kaart. Ze helpen je desgewenst ook om deze initiatieven snel te realiseren. Oplossingen waaraan we werken zijn altijd gerelateerd aan natuurlijke taalverwerking (spraak en/of tekst). Vaak mede gebaseerd op ChatGPT, Large Language Models (veelal via Microsoft Azure OpenAI Service) en onze eigen ‘intelligence infusion engine’ Ally. Zo speel je makkelijker in op klant -en medewerkersvragen. Wil je hier meer over weten? Plan hier je kopje koffie:  
-
-
-
