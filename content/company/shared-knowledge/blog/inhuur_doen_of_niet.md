@@ -28,7 +28,7 @@ Experts op het gebied van taal- en spraaktechnologie zijn erg schaars in de mark
 
  
 
-\*\*Zaken om rekening mee te houden bij externe inhuur  \*\*
+**Zaken om rekening mee te houden bij externe inhuur  **
 
 1\. Cultuurverschillen: Detachering van externe medewerkers in het eigen team kan leiden tot culturele en communicatieve uitdagingen tussen externe AI-experts en het interne team. Dit vereist een goede on-boarding en goede onderlinge communicatie.  
 
