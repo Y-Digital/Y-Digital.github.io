@@ -6,6 +6,7 @@ description: >-
   Award from Het Financiële Dagblad.
 layout: blog
 featured_image: /1200x675_linkedin_facebook.jpg
+date: 2023-10-22T22:00:00.000Z
 summary: >-
   Y.digital has received the FD Gazellen Award 2023 in the category of 'Fastest
   Growing Companies'. On Thursday, November 23, we will receive the FD Gazelle
