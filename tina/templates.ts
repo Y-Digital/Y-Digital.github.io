@@ -122,6 +122,7 @@ export function blogFields() {
       type: "string",
       name: "layout",
       label: "layout",
+      required: true,
     },
     {
       type: "image",
@@ -132,14 +133,12 @@ export function blogFields() {
       type: "datetime",
       name: "date",
       label: "date",
+      required: true,
     },
     {
-      type: "string",
+      type: "rich-text",
       name: "summary",
       label: "summary",
-      ui: {
-        component: "textarea",
-      },
     },
     {
       type: "rich-text",
