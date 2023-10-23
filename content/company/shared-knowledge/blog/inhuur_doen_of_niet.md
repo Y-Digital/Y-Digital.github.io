@@ -10,11 +10,11 @@ author: 'Carla Verwijmeren '
 
 Dat GPT (Generative Pre-Trained) modellen en LLMs (Large Language Models) een gamechanger zijn voor de hele markt is duidelijk. Het gaat er nu om wie de kracht van deze modellen weet te verzilveren binnen de eigen organisatie. Want hoewel oplossingen op het eerste oog vaak veelbelovend zijn, is de output niet altijd even betrouwbaar, laat staan organisatie-specifiek. In dit blog gaan we in op de uitdagingen die hierbij komen kijken en de vraag of het wijsheid is om je team hierbij tijdelijk te versterken met hooggekwalificeerde AI-experts op development -en business transformation vlak. 
 
-**\*\* Company GPT: hoe zorg je voor kwalitatief hoogwaardige output?  \*\***
+**Company GPT: hoe zorg je voor kwalitatief hoogwaardige output?  **
 
 Large Language Models staan bekend om hun vermogen om zelf tekst te generen, kortom prachtige tekst te produceren, echter komen zogenaamde ‘hallucinaties’ oftewel tekst die geheel of gedeeltelijk onjuist kan zijn, veelvuldig voor. Bovendien spelen er veel vragen rondom IP, privacy en de ecologische footprint. Het verantwoord inzetten van de laatste AI-technologie voor klanten en medewerkers is daarmee voor veel organisaties een uitdaging. Het brengt vragen teweeg die zich afspelen op business-vlak, o.a. wat betekent de inzet van AI voor de uitvoer van business processen, veranderende rollen en verantwoordelijkheden en controle. En ook op technologisch vlak dienen zich nieuwe vragen aan, bijvoorbeeld hoe benut ik de potentie van LLMs, maar voer ik controle over de output door middel van goede guardrails in met behulp van ontologie, knowledge graphs en een working memory? 
 
-\*\*Versnellen met de tijdelijke inzet van gespecialiseerde AI-experts \*\*
+**Versnellen met de tijdelijke inzet van gespecialiseerde AI-experts **
 
 Experts op het gebied van taal- en spraaktechnologie zijn erg schaars in de markt. Juist omdat AI-technologie een grote versneller kan zijn in je organisatie, huurt een toenemend aantal organisaties tijdelijk externe AI-experts in. De inzet van AI-experts in de eigen organisatie brengt een aantal voordelen met zich mee: 
 
