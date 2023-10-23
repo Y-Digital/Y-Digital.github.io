@@ -1,6 +1,7 @@
 ---
 title: "Inhuur van AI-Experts: doen of niet?\_"
 description: "In dit blog gaan we in op de uitdagingen die bij LLM komen kijken, en de vraag of het wijsheid is om je team hierbij tijdelijk te versterken met  AI-experts op development -en business transformation vlak.\_"
+layout: blog
 featured_image: /pexels-fauxels-3183186.jpg
 date: 2023-10-18T22:00:00.000Z
 summary: "In dit blog gaan we in op de uitdagingen die bij LLM komen kijken en de vraag of het wijsheid is om je team hierbij tijdelijk te versterken met hooggekwalificeerde AI-experts op development -en business transformation vlak.\_"
