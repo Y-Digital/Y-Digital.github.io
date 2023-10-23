@@ -25,7 +25,7 @@
     	<div class="card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
     	<p class="date">{{ .Date.Format "02 January, 2006" }}</p>
     	<h1>{{ .Title }}</h1>
-    	<p class="card-content">{{ .Params.summary }}</p>
+    	<p class="card-content">{{markdownify .Params.summary }}</p>
     	<p class="card-read-more">read more</p>
     </section>
     </a>
