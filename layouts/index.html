@@ -1,10 +1,10 @@
 {{ define "main" }}
 <section class="wide light-gray" style="position: relative;">
-  <div style="padding-bottom: 4em;" class="slideshow-container">
+  <div style="padding-bottom: 4em; height: 300px" class="slideshow-container">
     <div class="slideshow-inner">
   
       {{ range .Params.hero_slide }}
-      <div class="mySlides">
+      <div class="slick-slide">
         <div class="hero"><img style="height: 300px;object-fit: cover;" width="1120" src="{{ .slide_image }}" width="1120px"
             height="300px"></div>
 
@@ -13,14 +13,13 @@
       
       </div>
 
-
-    <div class="slide-text top">
-      {{ range .Params.hero_slide }}
-      <div class="circles">
+      <div class="slide-text top">
+        {{ range .Params.hero_slide }}
+        <div class="circles">
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
-      </div>
-      </div>
+        </div>
   <section style="margin-bottom: 2em" class="intro">
     <h1 class="sub-circles">{{ .Params.page_title }}</h1>
     {{ markdownify .Params.intro_text }}

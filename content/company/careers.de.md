@@ -7,400 +7,410 @@ translationKey: careers
 hero_image: /img/hero-careers.jpg
 page_title: Y.Karriere
 vacancy:
-  - title: Business Transformation Experten (medior)
+  - title: Lead Conversation Designer
     role: >-
-      ## Über uns:
+      ## About Us:
 
 
-      Künstliche Intelligenz, die natürliche Sprache verarbeitet, hat die Zukunft!
-      Möchten Sie an der Gestaltung dieser Zukunft teilhaben? Möchten Sie
-      Organisationen inspirieren, wie KI am besten in ihre Geschäftsstrategie passt?
-      Möchten Sie analysieren, welche konkreten KI-Anwendungen sofortigen Wert für sie
-      haben können? Möchten Sie dann die Realisierung und Implementierung dieser
-      KI-Anwendungen begleiten? Dann kommen Sie schnell zu uns! Wir suchen nämlich
-      neue Kollegen. Durch unsere eigene Y.academy sorgen wir zunächst dafür, dass
-      Sie alles über KI erfahren. Danach helfen Sie unseren Kunden, die digitale
-      Transformation ihrer Organisation zu leiten.
+      Y.digital is an experienced and specialised A.I. company with offices in
+      Zeist, The Netherlands, and Da Nang, Vietnam. We design, build, and
+      deliver intelligent AI solutions that empower humans. We use our own
+      unique approach and cutting-edge AI platform Ally to create conversational
+      AI solutions that help customers to engage with companies in a more
+      pleasant and intelligent way. And design and deliver intelligent document
+      processing solutions to support employees in making knowledge-intensive
+      processes more consistent, scalable, and efficient.
 
 
-      Y.digital ist der AI-Experte auf dem Gebiet der Sprache. Wir sind in Zeist
-      ansässig, haben ein Büro in Vietnam und starten dieses Jahr auch in
-      Deutschland. Wir realisieren innovative KI-Lösungen von unserer eigenen Plattform
-      Ally aus. Unsere Mission ist die Ermächtigung von Menschen: Wir setzen KI vor
-      allem ein, um Menschen optimal zu unterstützen. Unsere Kunden kommen aus
-      verschiedenen Branchen wie Regierung, Finanzsektor, Energie- und Versorgungssektor,
-      Gesundheitswesen. Wir haben die Y.academy und das Y.research lab, um Wissen zu
-      speichern und zu teilen.
+      Our diverse and international team has considerable expertise in the
+      design and execution of AI powered customer journeys, using natural
+      language processing, computer vision, and graph technology. Our ambition
+      is to establish ourselves as the leading firm in this area in the
+      Netherlands and beyond. We’re growing fast and have a vacancy for a
+      passionate **medior level Lead Conversation Designer** to join our team.
 
 
-      ## Ihre neuen Kollegen:
+      ## The Role
 
 
-      Unser Team ist vielfältig und international. Von unseren Standorten aus bieten wir
-      umfassende Dienstleistungen an:
+      As a conversation designer you will work directly for high-profile
+      organisations across different sectors (government, financial, utilities,
+      health). Sometimes you will be seconded to work with teams of our clients.
+      But you will also work on projects with the internal team of Y.
 
 
-      \- Unsere Business Transformation Experts helfen Kunden bei der Umsetzung ihrer
-      KI-Strategie, erkennen Chancen, Prozessneugestaltung, Analyse, Projektmanagement
-      und Umsetzung ihrer digitalen Transformation.
+      · You represent Y.digital, our unique vision, customer driven approach and
+      AI-platform Y.Ally.
 
 
-      \- Unsere Ingenieure entwerfen, realisieren, schulen und implementieren die
-      KI-Lösungen und entwickeln kontinuierlich an unserer KI-Plattform Ally weiter.
+      · You make sure we work customer centric by facilitating design labs,
+      design customer journeys, persona’s, conversation flows and user tests in
+      close cooperation with customers and our internal team.
 
 
-      Unsere Ambition ist es, eine Autorität im Bereich der Sprachverarbeitung in den
-      Niederlanden und darüber hinaus zu werden. Wir wachsen schnell und haben
-      Stellenangebote für leidenschaftliche Business Transformation Experts, um unser
-      Team zu verstärken!
+      · You analyse user data and optimize the AI-solution working in
+      multi-disciplinary teams.
 
 
-      ## Die Rolle:
+      · You further develop our Y.academy for conversation designers and provide
+      training for colleagues and customers.
 
 
-      Als Business Transformation Experte arbeiten Sie direkt für namhafte Organisationen
-      in verschiedenen Branchen.
+      · You will work closely with our highly-skilled AI experts: a strong and
+      international peer group of experienced machine learning engineers and
+      data scientists.
 
 
-      \- Sie tauchen gerne in eine Organisation ein und inspirieren Menschen mit neuen
-      technologischen Möglichkeiten durch Präsentationen und Inspirationsworkshops.
-
-
-      \- Sie krempeln die Ärmel hoch und arbeiten mit Menschen aus der Organisation zusammen,
-      um Ideen zu generieren, in Prototypen umzusetzen und daraus konkrete Projekte zu
-      machen. Dies tun Sie nach dem Design-Thinking-Ansatz.
-
-
-      \- Sie führen Businessanalysen und Prozessneugestaltungen durch und übernehmen dann die
-      Leitung als Projektmanager oder Product Owner des Teams, das die KI-Lösung
-      umsetzt.
-
-
-      \- Sie beziehen kontinuierlich alle Stakeholder ein und sorgen dafür, dass die
-      gewünschte Transformation tatsächlich in der Organisation umgesetzt wird.
-
-
-      \- Die Arbeit ist vielfältig: Manchmal sind Sie in einem Detachierungsauftrag tätig,
-      oft gemeinsam mit einem unserer Senioren, und in anderen Fällen nehmen Sie an
-      unseren Projekten teil. Sie arbeiten auf jeden Fall eng mit unseren hochqualifizierten
-      Experten zusammen, einer starken Peer-Gruppe von erfahrenen Transformationsexperten,
-      Ingenieuren und Conversation Designern.
-
-
-      \- Sie vertreten Y.digital, unsere einzigartige Vision, kundenzentrierten Ansatz und
-      KI-Plattform Y.Ally.
-
-
-      Da wir uns schnell erweitern und wachsen, gibt es in dieser Rolle mehr als genug Raum,
-      um sich zu entwickeln, zu wachsen und Ihre persönlichen Ziele und Ambitionen zu
-      verwirklichen.
-
-
-      Wir suchen nur die besten und motiviertesten Fachleute im Bereich der digitalen
-      Transformation.
-    profile: ''
-    skills_heading: Fähigkeiten und Kenntnisse
-    skills: >-
-      * Positiv, enthusiastisch und motiviert.
-
-      * Leidenschaft für Menschen und die Verbesserung von Organisationen.
-
-      * Gute Verbindung von Menschen und Disziplinen: Brücken bauen zwischen
-      Geschäft und IT.
-
-      * Neugierig auf die neuen Möglichkeiten innovativer Technologien, aber auch
-      bewusst über negativen Seiten und Risiken.
-
-      * Mindestens 3 Jahre Erfahrung (medior) in der Rolle eines Analysten oder
-      Beraters.
-
-      * Erfahrung in der Geschäftsanalyse: Anforderungen, Geschäftsfälle, Prozessneugestaltung,
-      Informations- und Wissensmodellierung, Datenschutz-Folgenabschätzung (DPIA).
-
-      * Erfahrung in der Beratung: Strategie, Design Thinking, Leitung von Sitzungen,
-      Beratung, Change Management.
-
-      * Erfahrung mit agiler Arbeit, Product Owner / Projektmanager, SAFe, SCRUM.
-
-      * Niederländischsprachig, gutes Englisch.
-
-      * Starke Beratungsfähigkeiten und Kommunikationsfähigkeiten, strukturiert,
-      flexibel, ergebnisorientiert, extrovertiert, ehrgeizig und möchten gerne
-      einen Beitrag leisten.
-
-      * Grundkenntnisse in KI sind von Vorteil, insbesondere Natural Language Processing
-      und Knowledge Graphs, aber über unsere Y.academy stellen wir sicher, dass
-      alle relevanten Kenntnisse vermittelt werden.
-
-      * Ein abgeschlossenes Bachelor- oder Masterstudium in einer relevanten
-      Disziplin.
-
-      * Verfügbarkeit für mindestens 32 Stunden pro Woche.
-    what_we_offer_heading: 'Was wir bieten:'
-    what_we_offer: >-
-      * Das Y.clubhaus: unser nagelneues Büro in Zeist, in der Nähe des Bahnhofs
-      Driebergen-Zeist.
-
-      * Eine freundliche, offene, nicht-hierarchische und kollaborative
-      Arbeitsumgebung.
-
-      * Innovative Projekte bei namhaften Organisationen in verschiedenen Branchen.
-
-      * Hybrides Arbeiten, im Büro, beim Kunden oder von zu Hause aus.
-
-      * Mobilitätspaket.
-
-      * Ein inspirierendes, vielfältiges und internationales Team von Kollegen.
-
-      * Ein maßgeschneidertes Lernprogramm nach Ihren Wünschen und Ambitionen.
-
-      * Eine umfassende Rentenregelung und Bonusregelung.
-    send_cv: >-
-      Erkennen Sie sich in diesem Profil wieder und haben Sie Lust auf diese
-      Herausforderung?
-
-
-      Rufen Sie Art Ligthart für weitere Informationen an (06-50 23 10 19) oder
-      senden Sie eine E-Mail mit einem Link zu Ihrem LinkedIn-Profil an
-      [art@y.digital](mailto:art@y.digital).
-  - title: UX/UI Frontend Entwickler
-    role: >-
-      ## Über uns:
-
-
-      Y.digital ist ein schnell wachsendes, erfahrenes KI-Unternehmen, das auf
-      Sprachtechnologie spezialisiert ist. Wir entwerfen, bauen und liefern intelligente
-      Lösungen, die Informationen und Wissen auf eine einfache Weise für Benutzer
-      zugänglich machen. Dies umfasst Chatbots und Sprachassistenten mit einem sehr
-      hohen Sprachverständnis, aber auch den Einsatz von KI zur Verarbeitung von
-      beispielsweise eingehenden E-Mails oder zum schnellen Durchsuchen und
-      Zusammenfassen großer Informationsmengen. Dies tun wir von unserer zentralen
-      Ambition aus: Menschen mit KI befähigen.
-
-
-      Unsere Standorte finden Sie in den Niederlanden (Zeist), Vietnam (Da Nang) und
-      Deutschland (im Aufbau). Um sicherzustellen, dass unsere digitalen Lösungen und
-      Plattformen eine optimale Kundenerfahrung bieten, suchen wir einen erfahrenen
-      Frontend-Entwickler mit fundierten Kenntnissen in UX/UI.
-
-
-      ## Die Rolle:
-
-
-      Als UX/UI Frontend Entwickler sind Sie Teil unseres Entwicklungsteams und
-      beschäftigen sich aktiv mit der Benutzererfahrung. Sie erfassen Customer Journeys,
-      erstellen (neue) Prototypen und Designs und validieren diese mit der Zielgruppe.
-      Anschließend sorgen Sie für die Umsetzung. Ihre wichtigsten Aufgaben sind:
-
-
-      \- Innovation und Verbesserung der Benutzererfahrung - auf unserer Website und
-      unserer KI-Plattform Ally sowie in den Lösungen für unsere Kunden, bei denen
-      Frontend Development eine wichtige Rolle spielt.
-
-
-      \- Entwicklung von Customer Journeys auf der Grundlage von Benutzerforschung,
-      Gestaltung neuer Prototypen und Designs.
-
-
-      \- Technische Umsetzung dieser Konzepte - in Zusammenarbeit mit unserem
-      internationalen Team.
-
-
-      \- Botschafter für Design Thinking, Lean Startup und Agile Arbeit bei Y.
-
-
-      \- Eine zukunftsorientierte Vision im Bereich UX/UI und Frontend-Entwicklung -
-      Verfolgung aktueller Entwicklungen und Integration in unsere digitalen Plattformen.
+      Within this role, as we are expanding and growing rapidly, there is ample
+      room to develop, grow and achieve your personal goals and ambitions.
     profile: >-
-      ## Ihr Profil
+      ## Your Profile
 
 
-      In dieser Rolle sind Sie als Experte für die UX/UI unserer Plattformen verantwortlich,
-      was wir als entscheidende Aufgabe für den Erfolg von Y.digital betrachten. Sie arbeiten
-      mit einem Team von Digital Business Consultants und AI-Entwicklern zusammen.
-    skills_heading: 'Für diese Rolle sind die folgenden Fähigkeiten und Kenntnisse erforderlich:'
+      We want to offer the best professionals in the field of (conversational)
+      AI in the market. For this role the next skills and knowledge is
+      necessary:
+    skills_heading: Skills and Knowledge
     skills: >-
-      * Umfangreiche Erfahrung mit ReactJS, React Native, JavaScript, CSS und HTML
+      For this role the next skills and knowledge is necessary:
 
-      * Mindestens 5 Jahre Erfahrung (medior) sind erforderlich.
 
-      * Eine Ausbildung im Bereich Communication & Multimedia Design oder eine verwandte
-      Ausbildung auf mindestens HBO-Niveau
+      * Strong skills as it comes to conversation design, building, analysing
+      and optimizing conversational flows in an AI-driven platform for chat
+      and/or voice.
 
-      * Gute Beherrschung der niederländischen und englischen Sprache
+      * Experience with user testing and facilitating workshops – you have good
+      consultancy skills.
 
-      * Erfahrung mit agiler Arbeitsweise (z. B. SAFe, SCRUM) ist von Vorteil.
+      * You love cocreating with groups of people, providing inspiration,
+      generating ideas, designing the desired way of working.
 
-      * Soziale Fähigkeiten: enthusiastisch, praktisch, strukturiert, flexibel,
-      ergebnisorientiert, starke kommunikative Fähigkeiten.
+      * A minimal of 2 years of experience (medior) is required.
 
-      * Grundkenntnisse in Docker, Kubernetes, Python, Natural Language Processing (NLP) und
-      Knowledge Graph-Technologie (z. B. RDF, SPARQL) sind von Vorteil.
-    what_we_offer_heading: 'Was wir bieten:'
+      * Native Dutch speaking.
+
+      * Experience with the agile way of working (e.g. SAFe, SCRUM) is an
+      advantage.
+
+      * Social skills: enthusiastic, hands-on, structured, flexible,
+      result-driven, strong presentation and communication capabilities.
+
+      * Driven to follow market developments in the field of conversation design
+      and implement them within the organisation, inquisitive.
+
+      * Basic knowledge of Python, NLP and intent-architecture would be nice but
+      is certainly not a ‘must have’.
+
+      * A completed master degree in a relevant discipline (e.g. Communications,
+      Human Centered Design).
+    what_we_offer_heading: 'What we offer:'
     what_we_offer: >-
-      * Das Y.clubhaus: unser nagelneues Büro in Zeist, in der Nähe des Bahnhofs
+      * The Y.clubhouse: our brand new office in Zeist, near Station
       Driebergen-Zeist
 
-      * Eine freundliche, offene, nicht-hierarchische und kollaborative
-      Arbeitsumgebung
+      * A friendly, open, non-hierarchical, and collaborative working
+      environment
 
-      * Innovative Projekte bei namhaften Organisationen in verschiedenen Branchen
+      * Innovative projects at high-profile organisations across different
+      sectors
 
-      * Hybrides Arbeiten, im Büro (3 Tage), beim Kunden oder von zu Hause aus
+      * Hybrid working, in the office, at the customer or from home
 
-      * Mobilitätspaket & Yoga-Stunden (optional)
+      * Mobility package
 
-      * Ein inspirierendes, vielfältiges und internationales Team von Kollegen
+      * An inspirational, diverse and international team of colleagues
 
-      * Ein maßgeschneidertes Lernprogramm nach Ihren Bedürfnissen und Ambitionen
+      * A learning path tailored to your needs and ambitions
 
-      * Vorteile wie: eine umfassende Rentenregelung und Bonusregelung
+      * Benefits including: a comprehensive pension scheme and bonus scheme
     send_cv: >-
-      ## **Interessiert?**
+      ## Sounds like you?
 
 
-      Rufen Sie Ian FitzPatrick für weitere Informationen an (0624 52 45 00) oder senden Sie
-      eine E-Mail mit einem Link zu Ihrem LinkedIn-Profil an [ian@y.digital](mailto:ian@y.digital).
-  - title: Medior Python Entwickler für ML und KI
+      Call Carla Verwijmeren for more information (06-31 99 13 85) or send an
+      email with a link to your LinkedIn profile to
+      [carla@y.digital](mailto:carla@y.digital).
+  - title: Medior Python Developer for ML and AI
     role: >-
-      ## Über uns:
+      ## About Us:
 
 
-      Y.digital ist ein erfahrenes und spezialisiertes KI-Unternehmen mit Büros in
-      Zeist, Niederlande, und Da Nang, Vietnam. Wir entwerfen, bauen und liefern intelligente
-      KI-Lösungen, die Menschen befähigen. Wir verwenden unseren eigenen einzigartigen Ansatz
-      und die modernste KI-Plattform Ally, um KI-gesteuerte Konversationslösungen zu
-      erstellen, mit denen Kunden auf eine angenehmere und intelligentere Weise mit
-      Unternehmen interagieren können. Und wir entwerfen und liefern intelligente Lösungen
-      zur Dokumentenverarbeitung, um Mitarbeiter bei der Durchführung wissensintensiver
-      Prozesse konsistenter, skalierbarer und effizienter zu unterstützen.
+      Y.digital is an experienced and specialised A.I. company with offices in
+      Zeist, The Netherlands, and Da Nang, Vietnam. We design, build, and
+      deliver intelligent AI solutions that empower humans. We use our own
+      unique approach and cutting-edge AI platform Ally to create conversational
+      AI solutions that help customers to engage with companies in a more
+      pleasant and intelligent way. And design and deliver intelligent document
+      processing solutions to support employees in making knowledge-intensive
+      processes more consistent, scalable, and efficient.
 
 
-      Unser vielfältiges und internationales Team verfügt über umfangreiche Expertise in der
-      Gestaltung und Durchführung von KI-unterstützten Kundenreisen unter Verwendung von
-      natürlicher Sprachverarbeitung, Computer Vision und Graphentechnologie. Unsere
-      Ambition ist es, uns als führende Firma in diesem Bereich in den Niederlanden und
-      darüber hinaus zu etablieren. Wir wachsen schnell und haben eine Stelle für einen
-      leidenschaftlichen **Python Entwickler für ML und KI auf Medior-Niveau** in unserem
-      Team zu besetzen.
+      Our diverse and international team has considerable expertise in the
+      design and execution of AI powered customer journeys, using natural
+      language processing, computer vision, and graph technology. Our ambition
+      is to establish ourselves as the leading firm in this area in the
+      Netherlands and beyond. We’re growing fast and have a vacancy for a
+      passionate **medior level Python developer for ML** and AI to join our
+      team.
 
 
-      ## Die Rolle:
+      ## The Role
 
 
-      Als Python Entwickler arbeiten Sie direkt für renommierte Organisationen aus verschiedenen
-      Branchen (Regierung, Finanzen, Versorgungsunternehmen, Gesundheitswesen). Manchmal
-      werden Sie abgeordnet, um mit Teams unserer Kunden zu arbeiten. Aber Sie werden auch an
-      Projekten mit dem internen Team von Y arbeiten.
+      As a Python Developer you will work directly for high-profile
+      organisations across different sectors (government, financial, utilities,
+      health). Sometimes you will be seconded to work with teams of our clients.
+      But you will also work on projects with the internal team of Y.
 
 
-      \- Sie vertreten Y.digital, unsere einzigartige Vision, kundenzentrierten Ansatz und
-      unsere KI-Plattform Y.Ally.
+      \- You represent Y.digital, our unique vision, customer driven approach
+      and AI-platform Y.Ally.
 
 
-      \- Sie passen sich leicht neuen Situationen an und liefern in kurzer Zeit hohe Werte für
-      unsere Kunden.
+      \- Easy adapt yourself to new situations and deliver high value for our
+      customers in a short term.
 
-      \- Sie entwerfen kreative KI-Lösungen und machen sie greifbar, verständlich und
-      wertvoll.
 
-      \- Sie entwickeln Prototypen in enger Zusammenarbeit mit multidisziplinären Teams von
-      Kunden und/oder internen Kollegen.
+      \- Design creative AI solutions and make them tangible, understandable and
+      valuable.
 
-      \- Sie ergreifen Initiative und setzen Dinge um.
 
-      \- Sie werden mit unserer modernen Y.Ally-Technologie arbeiten.
+      \- Develop prototypes in close cooperation with multi-disciplinaury teams
+      with our customers and/or internal colleagues.
 
-      \- Sie werden eng mit unseren hochqualifizierten Experten zusammenarbeiten: einer
-      starken und internationalen Peer-Gruppe von erfahrenen Maschinenlerningenieuren und
-      Data Scientists.
 
-      Innerhalb dieser Rolle, da wir uns stark erweitern und wachsen, gibt es reichlich Raum
-      zur Entwicklung, zum Wachsen und zur Verwirklichung Ihrer persönlichen Ziele und
-      Ambitionen.
+      \- You take initiative and get things done.
+
+
+      \- You will work with and on our cutting edge Y.Ally stack.
+
+
+      \- You will work closely with our highly-skilled experts: a strong peer
+      group of experienced machine learning engineers, data scientists and
+      conversation designers.
+
+
+      \- Within this role, as we are expanding and growing rapidly, there is
+      ample room to develop, grow and achieve your personal goals and ambitions.
     profile: >-
-      ## Ihr Profil
+      ## Your Profile
 
 
-      Wir möchten den besten Fachleuten im Bereich (konversationelle) KI auf dem Markt
-      ein Angebot machen. Für diese Rolle sind die folgenden Fähigkeiten und Kenntnisse
-      erforderlich:
-    skills_heading: 'Für diese Rolle sind die folgenden Fähigkeiten und Kenntnisse erforderlich:'
+      The following is a list of skills & knowledge we would like you to poses
+      when joining Y.
+    skills_heading: Skills and Knowledge
     skills: >-
-      * Erfahrung in der Python-Programmierung (z. B. GitHub-Projekte,
-      Hochschulkurse, frühere Berufserfahrung) ist unsere wichtigste Voraussetzung.
+      * Python programming experience (e.g., Github projects, higher-education
+      coursework, previous work experience) is our main prerequisite.
 
-      * Können in Python programmieren: Kenntnisse in Datenstrukturen/-typen, Algorithmen und
-      Standardbibliotheken für Zeit, Zeichenketten-Manipulation, Regex-Matching/Substitution,
-      Debugging und Protokollierung.
+      * Can program in Python: knowledge of data structures/types, algorithms
+      and know standard libraries for time, string-manipulation, regex
+      matching/substitution, debugging and logging.
 
-      * Linux-Befehlszeile: Navigieren von Ordnern, Anzeigen und Bearbeiten von Textdateien,
-      Ausführen von Bash- und Python-Skripten, Ausführen von API-Aufrufen und Abrufen von
-      Ressourcen aus dem Web (z. B. curl & wget).
+      * Can use the linux command line to: navigate folders, view and edit text
+      files, execute bash & python scripts, make api calls and retrieve
+      resources from the web (e.g., curl & wget).
 
-      * Verständnis von Versionskontrolle (insbesondere Git) und Verwendung von Befehlen zum
-      Committen, Pushen, Stagen, Pullen, Branchen.
+      * Understand version control (specifically git) and can make use of
+      commands to: commit, push, stage, pull, branch.
 
-      * Verständnis von Git-Submodulen, Erstellen von Pull Requests und Umgang mit rudimentären
-      Merge-Konflikten.
+      * Understand git submodules and can create pull requests and deal with
+      rudimentary merge conflicts.
 
-      * Verwendung von Docker auf der Befehlszeile: Erstellen, Ausführen, Pushen und Verwalten
-      von Containern und Images sowie Verständnis für das Exponieren von Ports und das Verbinden
-      von Volumes.
+      * Can use docker on the command line to: build, run, push, and manage
+      containers and images and understand how to expose ports and connect
+      volumes.
 
-      * Bereitstellen von Pods in Kubernetes und Überprüfen von Protokollen sowie Durchführen
-      grundlegender Fehlerbehebungen.
+      * Can deploy pods to Kubernetes and inspect logs, and perform basic
+      debugging.
 
-      * Verwendung von Python-Bibliotheken (z. B. Matplotlib, Seaborn) zur Erstellung einfacher
-      Datenvisualisierungen.
+      * Can use Python libraries (e.g., matlotplib, seaborn) to create simple
+      data visualisations.
 
-      * Verständnis von HTTP-Methoden (z. B. GET, POST) und Verwendung von Tools wie Postman zum
-      Durchführen von API-Aufrufen und Interpretieren der Ergebnisse.
+      * Understand HTTP methods (e.g., GET, POST) and can use tools such as
+      Postman to perform API calls and interpret the results.
 
-      * Neugierde und Can-Do-Einstellung.
+      * You are curious by nature and have a can-do attitude.
 
-      * Bereitschaft zum Lernen und Arbeiten im Team.
+      * You are willing to learn and work in a team.
 
-      * Verständnis der Prinzipien agiler Softwareentwicklung (insbesondere SCRUM).
+      * Understand the principles of Agile software development (particularly
+      SCRUM).
 
-      * Ein abgeschlossenes Bachelor- oder Masterstudium in einem relevanten Fachgebiet (z. B.
-      Informatik).
+      * You should also have a Bachelor's or Master's degree in a relevant field
+      (e.g. Computer Science).
 
-      **Nice to have:** Kenntnisse und (noch besser) Erfahrung in folgenden Bereichen:
-      * Natürliche Sprachverarbeitung (z. B. mit Spacy/NLTK)
-      * Computer Vision (z. B. CNNs, OpenCV)
+
+      **Nice to have:** Knowledge and (even better) experience with the
+      following:
+
+
+      * Natural Language Processing (e.g., with Spacy/NLTK)
+
+      * Computer Vision (e.g., CNNs, OpenCV)
+
       * Graph Neural Networks
-      * Semantische Web-Technologien (z. B. RDF, SPARQL)
-    what_we_offer_heading: 'Was wir bieten:'
+
+      * Semantic Web technologies (e.g., RDF, SPARQL)
+    what_we_offer_heading: 'What we offer:'
     what_we_offer: >-
-      * Das Y.clubhaus: unser brandneues Büro in Zeist, in der Nähe des Bahnhofs
+      * The Y.clubhouse: our brand new office in Zeist, near Station
       Driebergen-Zeist
 
-      * Wöchentliche Peer-Programming- und Brown-Bag-Meetings zur Förderung des Wissensaustauschs,
-      einschließlich der Y.academy mit Unterstützung und Lernmaterialien zur Unterstützung Ihrer Arbeit.
+      * Weekly peer-programming and brown-bag meetings to promote knowledge
+      exchange, including the Y.academy with support & learning materials to aid
+      you.
 
-      * Eine moderne Technologieplattform
+      * A cutting-edge technology stack
 
-      * Eine freundliche, offene, nicht-hierarchische und kollaborative Arbeitsumgebung
+      * A friendly, open, non-hierarchical, and collaborative working
+      environment
 
-      * Innovative Projekte bei namhaften Organisationen in verschiedenen Branchen
+      * Innovative projects at high-profile organisations across different
+      sectors
 
-      * Hybrides Arbeiten, im Büro, beim Kunden oder von zu Hause aus
+      * Hybrid working, in the office, at the customer or from home
 
-      * Mobilitätspaket
+      * Mobility package
 
-      * Ein inspirierendes, vielfältiges und internationales Team von Kollegen
+      * An inspirational, diverse and international team of colleagues
 
-      * Ein maßgeschneidertes Lernprogramm nach Ihren Bedürfnissen und Ambitionen
+      * A learning path tailored to your needs and ambitions
 
-      * Vorteile wie: eine umfassende Rentenregelung und Bonusregelung
+      * Benefits including: a comprehensive pension scheme and bonus scheme
     send_cv: >-
-      **Klingt das nach Ihnen?**
+      ## Sounds like you?
 
 
-      Rufen Sie Carla Verwijmeren für weitere Informationen an (06-31 99 13 85) oder senden Sie eine
-      E-Mail mit einem Link zu Ihrem LinkedIn-Profil an [carla@y.digital](mailto:carla@y.digital).
+      Call Ian FitzPatrick for more information (06-50 23 10 19) or send an
+      email with a link to your LinkedIn profile to
+      [ian@y.digital](mailto:ian@y.digital)
+  - title: Junior/Medior Digital Transformation Consultants
+    role: >-
+      ## About Us:
+
+
+      Y.digital is an experienced and specialised A.I. company with offices in
+      Zeist, The Netherlands, and Da Nang, Vietnam. We design, build, and
+      deliver intelligent AI solutions that empower humans. We use our own
+      unique approach and cutting-edge AI platform Ally to create conversational
+      AI solutions that help customers to engage with companies in a more
+      pleasant and intelligent way. And design and deliver intelligent document
+      processing solutions to support employees in making knowledge-intensive
+      processes more consistent, scalable, and efficient.
+
+
+      Our diverse and international team has considerable expertise in the
+      design and execution of AI powered customer journeys, using natural
+      language processing, computer vision, and graph technology. Our ambition
+      is to establish ourselves as the leading firm in this area in the
+      Netherlands and beyond. We’re growing fast and have a vacancy for a
+      passionate **junior and medior Digital Transformation Consultants** to
+      join our team.
+
+
+      ## The Role
+
+
+      As a Digital Transformation Consultant you will work directly for
+      high-profile organisations across different sectors (government,
+      financial, utilities, health). Sometimes you will be seconded to work with
+      teams of our clients. But you will also work on projects with the internal
+      team of Y.
+
+
+      \- You represent Y.digital, our unique vision, customer driven approach
+      and AI-platform Y.Ally.
+
+
+      \- You make our AI solutions tangible and understandable by giving
+      presentations, inspiration sessions and facilitating design labs, to
+      generate and prioritise valuable ideas, create roadmaps and develop
+      prototypes in close cooperation with customers.
+
+
+      \- You turn ideas into concrete projects, elaborating feasibility studies,
+      business process designs, information and knowledge models.
+
+
+      \- You are involved in projects during business analysis, design,
+      development and in the lead when implementing the AI solution, using our
+      agile approach, working in multi-disciplinary teams.
+
+
+      \- You will work closely with our highly-skilled experts: a strong peer
+      group of experienced machine learning engineers, data scientists and
+      conversation designers.
+
+
+      \- Within this role, as we are expanding and growing rapidly, there is
+      ample room to develop, grow and achieve your personal goals and ambitions.
+    profile: >-
+      ## Your Profile
+
+
+      We want to offer the best professionals in the field of digital
+      transformation in the market. For this role the next skills and knowledge
+      is necessary:
+    skills: >-
+      * Your strength is connecting disciplines and building bridges between
+      business and IT.
+
+      * Project experience: developing business cases, epic value statements,
+      product owner, project management, agile transformation approaches (e.g.
+      SAFe, SCRUM).
+
+      * Strong skills as it comes to digital transformation processes: business
+      analytics, building business cases, business process design, information
+      and knowledge modelling, change management.
+
+      * A minimal of 2 years of experience (junior) or 4 years (medior) is
+      required
+
+      * Native Dutch speaking
+
+      * Strong consultancy skills and communication capabilities, structured,
+      flexible, result-driven, extravert, ambitious and eager to make impact.
+
+      * Basic knowledge of AI concepts e.g. Natural Language Processing,
+      Computer Vision, Graph Neural Networks, Semantic Web technologies would be
+      nice but is not a ‘must have’. Although it should interest you.
+
+      * A completed master degree in a relevant discipline (e.g. Computer
+      Science, Business Administration, Economics).
+    what_we_offer: >-
+      * The Y.clubhouse: our brand new office in Zeist, near Station
+      Driebergen-Zeist
+
+      * A friendly, open, non-hierarchical, and collaborative working
+      environment
+
+      * Innovative projects at high-profile organisations across different
+      sectors
+
+      * Hybrid working, in the office, at the customer or from home
+
+      * Mobility package
+
+      * An inspirational, diverse and international team of colleagues
+
+      * A learning path tailored to your needs and ambitions
+
+      * Benefits including: a comprehensive pension scheme and bonus scheme
+    send: >-
+      ## Sounds like you?
+
+
+      Send us your CV and LinkedIn profile to
+      [**result@y.digital**](mailto:result@y.digital)
+    skills_heading: Skills and Knowledge
+    what_we_offer_heading: 'What we offer:'
+    send_cv: >-
+      ## Sounds like you?
+
+
+      Call Art Ligthart for more information (06-50 23 10 19) or send an email
+      with a link to your LinkedIn profile to
+      [art@y.digital](mailto:art@y.digital)
 _template: careers
 ---
-
-
