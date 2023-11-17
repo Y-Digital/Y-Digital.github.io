@@ -19,7 +19,7 @@ A few days before the elections a surprising amount of people are still doubting
 
 We simply tried to build what we were missing ourselves. There are plenty of tools that can help you make your decision, if you are still unclear what to vote for. But none of them succeeded in making clear what is most important: what will parties do once they are elected? How many of the promises they made in their programs will be turned into actions? 
 
-Why motions? 
+**Why motions? **
 
 Party programs often contain claims that are far-fetched and will be hard to realize. Partly because these parties won't be a part of the cabinet, and partly because they need to compromise. One way to find out what actions a party has taken is to look at the motions they filed and voted for. These motions contain a request to the ruling government, asking them to act in one way or another. 
 
@@ -27,16 +27,16 @@ Therefore we make the claim that, to make the right decision, you need to look a
 
 Apart from visualizing the difference between promises and their later realization, we wanted to be able to search for topics that we you are interested in, not what people are "commonly" interested in. Stemwijzer, a famous tool to help you find the party that most fits your needs, pics 30 questions on general topics, disregarding other topics you might find more interesting. Our tool allows you to search for what you find interesting. After all, it's a representative democracy, so the people we elect should represent our beliefs and ideologies. 
 
- How does the tool work? 
+**How does the tool work? **
 
 ![politics, politiek](</Politics navigator.png> "politiek, politics")
 
 The tool starts with a plain search bar, where a user can enter a phrase or a problem. The search engine that operates on top of the database returns motions and paragraphs from party-programs that concern your query. For the user, we display 4 quick facts: 
 
-* the party that filed the most motions concerning the topic, 
-* two parties that cooperated most on the motions concerning the topic, 
-* the party that voted the most in favor of all motions concerning the topic, 
-* the party that voted the most against all motions concerning the topic. 
+1. the party that filed the most motions concerning the topic, 
+2. two parties that cooperated most on the motions concerning the topic, 
+3. the party that voted the most in favor of all motions concerning the topic, 
+4. the party that voted the most against all motions concerning the topic. 
 
 Below this, we present a heatmap that shows the correlation between 8 parties that created most of the motions, visualizing how much they agreed concerning this topic. It's quite interesting to see how parties work together on some topics but oppose each other on others. For example, you can go to the tool to find "dierenwelzijn" which means animal welfare and see that the most opposing parties are BBB (party for farmers) and PVDD (party for animals). However, it is surprising that the parties that worked together the most on this topic are PVDD and PVV (party for freedom). The former is highly regarded as left-progressive, while the latter is seen as right-conservative.  
 
@@ -46,7 +46,7 @@ The chart that visualizes this shows the number of motions a party prepared, and
 
 The last part contains all the search results, which can be narrowed down to a given party by pressing its name in the graph. Clicking one of these results can show you the summary of the document, and, when it is a motion, show the parties that filed it and the ones that voted for and against it. 
 
-Why go for the trouble? 
+**Why go for the trouble? **
 
 As claimed before, many people still do not know what to vote for. With a few days until the elections, why not take some time to do some real investigation? Seeing what parties did when elected is the clearest way to find out if the party suits your needs.  
 
@@ -56,4 +56,4 @@ It should be underlined that the work is still in progress at the time of writin
 
 You can visit the tool [here](https://politics-navigator.web.app/). 
 
-Would you like more information? Send an email to [sep@y.digital](mailto:sep@y.digital) 
+More information? Send an email to [sep@y.digital of andrzej@y.digital](mailto:sep@y.digital) 
