@@ -18,11 +18,11 @@ author: 'Sep Keuchenius, Andrzej Gajda'
 
 A few days before the elections a surprising amount of people are still doubting what party to vote for. We would like to introduce the first version of [politics navigator](https://politics-navigator.web.app/): a tool - build by our AI engineers Sep and Andrej - that allows you to navigate through data concerning politics: voted motions and party-programs. The aim is to allow users to make more conscious decisions during the elections by presenting data in a digestible and understanding manner.
 
+We simply tried to build what we were missing ourselves. There are plenty of tools that can help you make your decision, if you are still unclear what to vote for. But none of them succeeded in making clear what is most important: what will parties do once they are elected? How many of the promises they made in their programs will be turned into actions?
+
  
 
-We simply tried to build what we were missing ourselves. There are plenty of tools that can help you make your decision, if you are still unclear what to vote for. But none of them succeeded in making clear what is most important: what will parties do once they are elected? How many of the promises they made in their programs will be turned into actions? 
-
-Why motions? 
+**Why motions? **
 
 Party programs often contain claims that are far-fetched and will be hard to realize. Partly because these parties won't be a part of the cabinet, and partly because they need to compromise. One way to find out what actions a party has taken is to look at the motions they filed and voted for. These motions contain a request to the ruling government, asking them to act in one way or another. 
 
@@ -32,14 +32,14 @@ Apart from visualizing the difference between promises and their later realizati
 
  
 
- How does the tool work? 
+**How does the tool work?** 
 
 The tool starts with a plain search bar, where a user can enter a phrase or a problem. The search engine that operates on top of the database returns motions and paragraphs from party-programs that concern your query. For the user, we display 4 quick facts: 
 
-* the party that filed the most motions concerning the topic, 
-* two parties that cooperated most on the motions concerning the topic, 
-* the party that voted the most in favor of all motions concerning the topic, 
-* the party that voted the most against all motions concerning the topic. 
+1. the party that filed the most motions concerning the topic, 
+2. two parties that cooperated most on the motions concerning the topic, 
+3. the party that voted the most in favor of all motions concerning the topic, 
+4. the party that voted the most against all motions concerning the topic. 
 
 ![](</Politics navigator.png>)
 
@@ -51,7 +51,7 @@ The last part contains all the search results, which can be narrowed down to a g
 
  
 
-Take some time for thorough investigation 
+**Take some time for thorough investigation **
 
 As claimed before, many people still do not know what to vote for. With a few days until the elections, why not take some time to do some real investigation? Seeing what parties did when elected is the clearest way to find out if the party suits your needs.  
 
@@ -59,11 +59,6 @@ We feel that we have built something that easily allows a user to search for inf
 
  
 
-It should be underlined that the work is still in progress at the time of writing. 
+It should be underlined that the work is still in progress at the time of writing. You can visit the tool [here](https://politics-navigator.web.app/). 
 
-You can visit the tool [here](https://politics-navigator.web.app/). 
-
-More information? Send an email to sep\@y.digital or andrzej\@y.digital 
-
-
-
+More information? Send an email to [sep@y.digital](mailto:sep@y.digital) or [andrzej@y.digital](mailto:andrzej@y.digital) 
