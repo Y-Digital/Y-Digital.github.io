@@ -29,7 +29,9 @@ Apart from visualizing the difference between promises and their later realizati
 
  How does the tool work? 
 
- The tool starts with a plain search bar, where a user can enter a phrase or a problem. The search engine that operates on top of the database returns motions and paragraphs from party-programs that concern your query. For the user, we display 4 quick facts: 
+![politics, politiek](</Politics navigator.png> "politiek, politics")
+
+The tool starts with a plain search bar, where a user can enter a phrase or a problem. The search engine that operates on top of the database returns motions and paragraphs from party-programs that concern your query. For the user, we display 4 quick facts: 
 
 * the party that filed the most motions concerning the topic, 
 * two parties that cooperated most on the motions concerning the topic, 
@@ -54,4 +56,4 @@ It should be underlined that the work is still in progress at the time of writin
 
 You can visit the tool [here](https://politics-navigator.web.app/). 
 
-Would you like more information? Send an email to sep\@y.digital 
+Would you like more information? Send an email to [sep@y.digital](mailto:sep@y.digital) 
