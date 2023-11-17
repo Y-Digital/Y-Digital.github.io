@@ -3,7 +3,7 @@ title: 'Politics Navigator: a data-driven AI tool to help you choose what to vot
 description: >-
   A few days before the elections a surprising amount of people are still
   doubting what party to vote for. Our collegues Sep and Andrzej would like to
-  introduce the first version of politics navigator.
+  introduce the first version of Politics Navigator. Build to help your!
 layout: Blog
 featured_image: /Politics.jpg
 date: 2023-11-16T23:00:00.000Z
