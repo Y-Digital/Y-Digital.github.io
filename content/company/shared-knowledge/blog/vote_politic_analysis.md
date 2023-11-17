@@ -16,7 +16,7 @@ summary: >
 author: 'Sep Keuchenius, Andrzej Gajda'
 ---
 
-A few days before the elections a surprising amount of people are still doubting what party to vote for. We would like to introduce the first version of **[politics navigator](https://politics-navigator.web.app/ "Politics Navigator")**: a tool - build by our AI engineers Sep and Andrej - that allows you to navigate through data concerning politics: voted motions and party-programs. The aim is to allow users to make more conscious decisions during the elections by presenting data in a digestible and understanding manner.
+A few days before the elections a surprising amount of people are still doubting what party to vote for. We would like to introduce the first version of **[politics navigator](https://politics-navigator.web.app/ "Politics Navigator")**: a tool - build by our AI engineers Sep and Andrzej - that allows you to navigate through data concerning politics: voted motions and party-programs. The aim is to allow users to make more conscious decisions during the elections by presenting data in a digestible and understanding manner.
 
 We simply tried to build what we were missing ourselves. There are plenty of tools that can help you make your decision, if you are still unclear what to vote for. But none of them succeeded in making clear what is most important: what will parties do once they are elected? How many of the promises they made in their programs will be turned into actions?
 
