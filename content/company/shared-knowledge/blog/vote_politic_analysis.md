@@ -1,18 +1,14 @@
 ---
 title: 'Politics Navigator: a data-driven AI tool to help you choose what to vote for '
 description: >-
-  A few days before the elections a surprising amount of people are still
-  doubting what party to vote for. That's why our collegues Sep and Andrzej
-  would like to introduce the first version of politics navigator. Build to help
-  you!
+  Our collegues Sep and Andrzej would like to introduce the first version of
+  politics navigator. Build to help you!
 layout: blog
 featured_image: /Politics.jpg
 date: 2023-11-16T23:00:00.000Z
 summary: >
-  A few days before the elections a surprising amount of people are still
-  doubting what party to vote for. That's why our collegues Sep and Andrzej
-  would like to introduce the first version of [politics
-  navigator.](https://politics-navigator.web.app/) Build to help you!
+  Our collegues Sep and Andrzej would like to introduce the first version of
+  [politics navigator.](https://politics-navigator.web.app/) Build to help you!
 author: 'Sep Keuchenius, Andrzej Gajda'
 ---
 
