@@ -12,20 +12,34 @@
 	width: 50em;
 	max-width: 100%;
 
+	ol {
+		list-style: initial;
+		padding-left: 20px;
+	}
+	
+	ul {
+		list-style: decimal;
+		padding-left: 20px;
+	}
+
+
 	h1 {
 		font-size: 2.5rem;
-		padding: 2em 0 1em 0;
+		padding: 1em 0 1em 0;
+		text-align: left;
 	}
 
 	h2 {
 		font-size: 1.5rem;
 		padding: 2em 0 1em 0;
+		text-align: left;
 	}
 
 	h3 {
 		font-size: 1.25rem;
 		font-weight: 700;
 		padding-bottom: 0.75em;
+		text-align: left;
 	}	
 
 	// blockquote p {
@@ -42,7 +56,7 @@
 		width: 50em;
 		max-width: 100%;
 		font-size: 1.25rem;
-		padding-bottom: 2em;
+		// padding-bottom: 2em;
 		line-height: 1.5;
 	}
 
@@ -217,6 +231,16 @@
 		font-size: 0.8125rem;
 		align-self: flex-end;
     	color: $dark-gray;
+	}
+
+	ol {
+		list-style: initial;
+		padding-left: 20px;
+	}
+	
+	ul {
+		list-style: decimal;
+		padding-left: 20px;
 	}
 }
 

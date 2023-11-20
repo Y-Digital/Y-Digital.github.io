@@ -6,8 +6,9 @@
 
 	<h1>{{ .Title }}</h1>
 	<!-- <h2>{{ .Params.subtitle }}</h2> -->
-
-	{{ .Content }}
+	{{ $content := .Content }}
+	{{$content = replace $content "\n" "<br>"}}
+	{{ $content | safeHTML }}
 
 	<p class="middle"><a href="../">Return to the blog</a></p>
 
