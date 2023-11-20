@@ -27,7 +27,10 @@
 		    <div class="list-card">
 		    	<div class="list-card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
 		        <h1>{{ .Title }}</h1>
-		        <p>{{ .Params.summary }}</p>
+						<p>{{$content := .Params.summary}} {{$content = replace $content "\n" "<br>"
+							}}
+							{{ $content | markdownify }}
+						</p>
 		    </div>
 		    </a>
 		    {{ end }}

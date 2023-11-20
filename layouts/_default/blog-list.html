@@ -27,7 +27,7 @@
     	<h1>{{ .Title }}</h1>
         <p class="card-content">{{$content := .Params.summary}} {{$content = replace $content "\n" "<br>"
             }}
-            {{ $content | safeHTML }}
+            {{ $content | markdownify }}
         </p>
     	<p class="card-read-more">read more</p>
     </section>
