@@ -5,7 +5,7 @@ description: >-
   doubting what party to vote for. That's why our collegues Sep and Andrzej
   would like to introduce the first version of politics navigator. Build to help
   you!
-layout: Blog
+layout: blog
 featured_image: /Politics.jpg
 date: 2023-11-16T23:00:00.000Z
 summary: >
