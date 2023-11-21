@@ -424,124 +424,50 @@ vacancy:
       Call Ian FitzPatrick for more information (0624 52 45 00) or send an email
       with a link to your LinkedIn profile to
       [ian@y.digital](mailto:ian@y.digital)
-  - title: Lead Conversation Designer
+  - title: Kubernetes Specialist
     role: >-
       ## About Us:
 
 
-      Y.digital is an experienced and specialised A.I. company with offices in
-      Zeist, The Netherlands, and Da Nang, Vietnam. We design, build, and
-      deliver intelligent AI solutions that empower humans. We use our own
-      unique approach and cutting-edge AI platform Ally to create conversational
-      AI solutions that help customers to engage with companies in a more
-      pleasant and intelligent way. And design and deliver intelligent document
-      processing solutions to support employees in making knowledge-intensive
-      processes more consistent, scalable, and efficient.
-
-
-      Our diverse and international team has considerable expertise in the
-      design and execution of AI powered customer journeys, using natural
-      language processing, computer vision, and graph technology. Our ambition
-      is to establish ourselves as the leading firm in this area in the
-      Netherlands and beyond. We’re growing fast and have a vacancy for a
-      passionate **medior level Lead Conversation Designer** to join our team.
+      Y.digital is a fast-growing language technology company based in Zeist
+      (with subsidiaries in Vietnam and Germany). Our AI platform Ally is used
+      to create conversational AI solutions that help customers to engage with
+      companies in a more pleasant and intelligent way. We also deliver
+      intelligent document processing solutions to support employees in making
+      knowledge-intensive processes more consistent, scalable, and efficient. We
+      have a highly-diverse and international team and our ambition is to
+      establish ourselves as the leading firm in this area in the Netherlands
+      and beyond.
 
 
       ## The Role
 
 
-      As a conversation designer you will work directly for high-profile
-      organisations across different sectors (government, financial, utilities,
-      health). Sometimes you will be seconded to work with teams of our clients.
-      But you will also work on projects with the internal team of Y.
-
-
-      · You represent Y.digital, our unique vision, customer driven approach and
-      AI-platform Y.Ally.
-
-
-      · You make sure we work customer centric by facilitating design labs,
-      design customer journeys, persona’s, conversation flows and user tests in
-      close cooperation with customers and our internal team.
-
-
-      · You analyse user data and optimize the AI-solution working in
-      multi-disciplinary teams.
-
-
-      · You further develop our Y.academy for conversation designers and provide
-      training for colleagues and customers.
-
-
-      · You will work closely with our highly-skilled AI experts: a strong and
-      international peer group of experienced machine learning engineers and
-      data scientists.
-
-
-      Within this role, as we are expanding and growing rapidly, there is ample
-      room to develop, grow and achieve your personal goals and ambitions.
+      At Y. Digital you will participate in the development of cutting-edge A.I.
+      solutions that have a lasting and meaningful impact on our customers':
+      efficiency, customer experience, and sustainability. You will work
+      directly with or for high-profile customers across different sectors
+      (e.g., government, financial, utilities) supported by a strong peer group
+      of experienced Machine Learning Engineers, Data Scientists, and Digital
+      Transformation Consultants. Your primary responsibility will be to design,
+      set-up, and configure Kubernetes infrastructure (Cloud or on-prem) either
+      directly for our customers or in aid of our AI platform Ally (a
+      containerised application configured with Helm). You will also be
+      assisting Kubernetes application developers in applying best practices for
+      configuring and deploying containerised applications on Kubernetes.
     profile: >-
       ## Your Profile
 
 
-      We want to offer the best professionals in the field of (conversational)
-      AI in the market. For this role the next skills and knowledge is
-      necessary:
+      Kubernetes experience and Python programming experience (e.g., github
+      projects, higher-education coursework, previous work experience) is our
+      main prerequisite. Besides that, you are curious by nature and have a
+      can-do attitude. You are willing to learn and work in a team. You should
+      also have a Bachelor's or Master's degree in a relevant field.
     skills_heading: Skills and Knowledge
-    skills: >-
-      For this role the next skills and knowledge is necessary:
-
-
-      * Strong skills as it comes to conversation design, building, analysing
-      and optimizing conversational flows in an AI-driven platform for chat
-      and/or voice.
-
-
-
-      * Experience with user testing and facilitating workshops – you have good
-      consultancy skills.
-
-      * You love cocreating with groups of people, providing inspiration,
-      generating ideas, designing the desired way of working.
-
-      * A minimal of 2 years of experience (medior) is required.
-
-      * Native Dutch speaking.
-
-      * Experience with the agile way of working (e.g. SAFe, SCRUM) is an
-      advantage.
-
-      * Social skills: enthusiastic, hands-on, structured, flexible,
-      result-driven, strong presentation and communication capabilities.
-
-      * Driven to follow market developments in the field of conversation design
-      and implement them within the organisation, inquisitive.
-
-      * Basic knowledge of Python, NLP and intent-architecture would be nice but
-      is certainly not a ‘must have’.
-
-      * A completed master degree in a relevant discipline (e.g. Communications,
-      Human Centered Design).
+    skills: "The following is a list of skills & knowledge we would like you to posess or aquire in your first few months at Y.\n* Strong skills as it comes to conversation design, building, analysing and optimizing conversational flows in an AI-driven platform for chat and/or voice.\n\n\nYou:\n•\thave a solid background in kubernetes application development (you are in possesion of a CKAD certification or are willing to obtain one in your first month at Y), including creating helm templates for all necessary resources.\n•\tunderstand kubernetes cluster setup and administration (you are in possesion of a CKA certification or are willing to obtain one in your first month at Y), including RBAC, CNI configuration, cluster upgrades, and persistent storage configuration.\n•\tcan setup and configure Kubernetes clusters on one or more popular Cloud hosting providers (eg., Azure, AWS, GCP). Ideally you are in possesion of Azure certifications: AZ-900 and/or AZ-305.\n•\tare highly proficient in the use of containerisation tools (docker/podman, etc.)\n•\tare an advanced user of Linux and understand the principles of Linux systems administration\n•\tunderstand version control (specifically git) and can make use of commands to: commit, push, stage, pull, branch.\n•\tunderstand git submodules and can create pull requests and deal with rudimentary merge conflicts.\n•\tcan program in Python (entails knowledge of data structures/types, algorithms) and know standard libraries for time, string-manipulation, regex matching/substitution, debugging and logging.\n•\tunderstand HTTP methods (e.g., GET, POST) and can use tools such as Postman to perform API calls and interpret the results.\n•\tunderstand the principles of Agile software development (particularly SCRUM)\nSupport & learning materials are available to aid you with any \"gaps\" in your knowledge.\n\nNice to have\n\nKnowledge and (even better) experience with the following:\n•\tOpenShift\n•\tElasticSearch\n•\tArgo\n•\tPrometheus\n•\tKibana\n•\tGrafana\n•\tSemantic Web technologies (e.g., RDF, SPARQL)\n•\tWebsockets\n•\tWebrtc\n•\tKubernetes Security (as evidenced by a CKS certification)\n\n* A completed master degree in a relevant discipline (e.g. Communications, Human Centered Design)."
     what_we_offer_heading: 'What we offer:'
-    what_we_offer: >-
-      * The Y.clubhouse: our brand new office in Zeist, near Station
-      Driebergen-Zeist
-
-      * A friendly, open, non-hierarchical, and collaborative working
-      environment
-
-      * Innovative projects at high-profile organisations across different
-      sectors
-
-      * Hybrid working, in the office, at the customer or from home
-
-      * Mobility package
-
-      * An inspirational, diverse and international team of colleagues
-
-      * A learning path tailored to your needs and ambitions
-
-      * Benefits including: a comprehensive pension scheme and bonus scheme
+    what_we_offer: "•\tThe Y.clubhouse: our brand new office in Zeist, near Station Driebergen-Zeist\n•\tWeekly peer-programming and brown-bag meetings to promote knowledge exchange, including the Y.academy with support & learning materials to aid you.\n•\tA cutting-edge technology stack\n•\tA friendly, open, non-hierarchical, and collaborative working environment\n•\tInnovative projects at high-profile organisations across different sectors\n•\tHybrid working, in the office, at the customer or from home\n•\tMobility package\n•\tAn inspirational, diverse and international team of colleagues\n•\tA learning path tailored to your needs and ambitions\n•\tBenefits including: a comprehensive pension scheme and bonus scheme\n"
     send_cv: >-
       ## Sounds like you?
 
@@ -551,5 +477,4 @@ vacancy:
       [carla@y.digital](mailto:carla@y.digital).
 _template: careers
 ---
-
 
