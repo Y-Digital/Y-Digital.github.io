@@ -15,30 +15,38 @@ summary: >
 author: 'Carla Verwijmeren, Nina Zonneveld'
 ---
 
-Het einde van het jaar is in zicht, en de feestdagen komen eraan. Piekbelasting zorgt voor extra werkdruk bij de Klantenservice van organisaties. Denk bijvoorbeeld aan Black Friday, de jaarlijkse prolongaties bij verzekeraars, Sinterklaas en Kerst kunnen leiden tot een explosie in het aantal klantcontacten. Het klantcontact biedt een mooie kans om de relatie met de klant te versterken en je imago te verstevigen, mits je als organisatie goed bent voorbereid op de extra vraag. Zodat de bereikbaarheid en kwaliteit van het klantcontact op hoog niveau blijven en de klant naar tevredenheid geholpen is.
+Het eind van het jaar is in zicht en de feestdagen komen eraan. Deze periode zorgt vaak voor extra werkdruk bij de Klantenservice. Piekbelasting rond bijvoorbeeld Black Friday, Sinterklaas en Kerst leiden tot een explosie in het aantal klantcontacten. Ook hebben bijvoorbeeld Zorgverzekeraars te maken met een toename als gevolg van de jaarlijkse prolongaties. Dit biedt een mooie kans om de relatie met de klant te versterken en het imago te verstevigen, mits je als organisatie goed bent voorbereid op de extra vraag. Zodat de bereikbaarheid en kwaliteit van het klantcontact op hoog niveau blijven en de klant naar tevredenheid wordt geholpen.  
 
-**Niet alle piekbelasting is voorspelbaar**
+ 
 
-Bovengenoemde events zijn voor organisaties goed te voorspellen. Daarmee is overigens niet gezegd dat het makkelijk op te vangen is, want het werven, opleiden en begeleiden van nieuwe medewerkers is een enorme klus. Juist in tijden van een krimpende arbeidsmarkt en stijgende loonkosten is dit extra uitdagend. Laat staan wanneer je als organisatie met minder voorspelbare piekbelastingen te maken hebt, zoals verzekeraars die te maken hebben met storm of gladheid op de weg. Want dan heb je niet van de ene op de andere dag een team klaar zitten. Kortom, de inzet van intelligente technologie is eigenlijk de enige optie voor het opschalen van klantcontact.
+Niet alle piekbelasting is voorspelbaar 
 
-**Niet ieder klantcontact vraagt om menselijke support**
+Bovengenoemde events zijn voor organisaties goed te voorspellen. Daarmee is niet gezegd dat het makkelijk op te vangen is, want het werven, opleiden en begeleiden van nieuwe medewerkers is een hele klus. Juist in tijden van een krimpende arbeidsmarkt en stijgende loonkosten is dit extra uitdagend. Laat staan wanneer je als organisatie met minder voorspelbare piekbelastingen te maken hebt, zoals storm of gladheid voor verzekeraars. De inzet van intelligente technologie is in alle gevallen noodzakelijk om snel op te kunnen schalen. Vaak is deze ‘digitale collega’ op langere termijn ook een meer zekere en betaalbare optie.  
 
-Om als organisatie ten alle tijden hoogwaardige dienstverlening te kunnen bieden, wordt de inzet van intelligente technologie steeds belangrijker binnen de customer journey. Eenvoudige repeterende contacten met weinig emotie (“waar blijft mijn pakketje”) zijn heel goed te automatiseren. Zodat schaarse menselijke capaciteit gereserveerd blijft voor de écht complexe contacten of voor contacten met veel emotie (“mijn partner is overleden, wat betekent dit voor mijn pensioen?”). Het ontwerp van de klantcontactstrategie is hiervoor de basis, zo krijg je als organisatie een scherp beeld van de typen klantcontact, de gewenste bedieningsconcepten en de inzet van intelligente technologie op specifieke punten.
+ 
 
-**Intelligente technologie maakt het verschil**
+Niet ieder klantcontact vraagt om menselijke support 
 
-In boardrooms wordt volop nagedacht over de inzet van intelligente technologie. Dat de noodzaak er is, dat is duidelijk. De vraag is vooral “hoe doen we dat dan?” Hierbij speelt een aantal zaken een belangrijke rol. In de basis is het belangrijk om te overwegen intelligentie en toepassing van artificiële intelligentie en klantcontactkanalen van elkaar te scheiden. Het splitsen van deze elementen maakt dat je naar de toekomst toe wendbaar en flexibel bent, bijvoorbeeld als je wilt switchen van leverancier van je telefonieplatform of live chat. Terwijl de onderliggende intelligentie geborgd blijft en in handen van de eigen organisatie, zodat je dit voor zowel je klanten als interne medewerkers kunt inzetten.
+Om als organisatie ten alle tijden hoogwaardige dienstverlening te kunnen bieden, wordt de inzet van intelligente technologie steeds belangrijker binnen de customer journey. Eenvoudige repeterende contacten met weinig emotie (“waar blijft mijn pakketje”) zijn heel goed te automatiseren. Zodat schaarse menselijke capaciteit gereserveerd blijft voor de écht complexe contacten of voor contacten met veel emotie (“mijn partner is overleden, wat betekent dit voor mijn pensioen?”). Het ontwerp van de klantcontactstrategie is hiervoor de basis, zo krijg je als organisatie een scherp beeld van de typen klantcontact, de gewenste bedieningsconcepten en de inzet van intelligente technologie op specifieke contactmomenten. 
 
-**Denk na over de technologische randvoorwaarden**
+ 
 
-De vooruitgang van technologie heeft een prijs en is eerste instantie niet perse goedkoop. Vooral de initiële aanloop kan een behoorlijke investering vergen, wat je op langere termijn terugverdient. Er zijn een aantal aspecten om goed over na te denken:
+Intelligente technologie maakt het verschil  
 
-•	Allereerst moeten oplossingen schaalbaar zijn over verschillende afdelingen en klantcontactkanalen heen. Zodat de technologie goed beheersbaar blijft, breed binnen de organisatie inzetbaar is en klanten gemakkelijk kunnen switchen tussen verschillende kanalen met behoud van historie en context.
+In boardrooms wordt volop nagedacht over de inzet van intelligente technologie. Dat de noodzaak er is, dat is duidelijk. De vraag is vooral “hoe doen we dat dan?” Hierbij speelt een aantal zaken een belangrijke rol. In de basis is het belangrijk om te overwegen om technologie voor artificiële intelligentie en klantcontactsystemen qua architectuur van elkaar te scheiden. Het grote voordeel hiervan is dat je naar de toekomst toe wendbaar en flexibel bent. En zelf regie houdt over de eigen opgebouwde modellen en algoritmen, waardoor je bijvoorbeeld kunt switchen van telefonieplatform zonder de opgebouwde intelligence te verliezen. Bovendien kun je AI hiermee inzetten voor support op al je kanalen en toepassingen, zowel voor klanten (bijvoorbeeld chatbots en spraakassistenten) als voor de interne medewerker (agent assist). Dit voorkomt een wildgroei aan los van elkaar werkende puntoplossingen.  
 
-•	In de tweede plaats zijn een sterke infrastructuur en voldoende servercapaciteit essentieel om technologie te kunnen benutten en opschalen. Het vergt investeringen in zowel hardware als (intelligente) software. Maak je gebruik van large language models, dan zal ook de benodigde rekenkracht sterk toenemen.
+ 
 
-•	Tot slot zijn de kwaliteit en veiligheid van data en de borging van privacy essentiële elementen bij iedere oplossing op het gebied van AI. Dit stelt eisen aan de manier waarop de totale oplossing is opgezet en geïntegreerd met de systemen uit de organisatie.
+Denk na over de technologische randvoorwaarden 
 
-**Wil je vrijblijvend verkennen wat de mogelijkheden zijn voor jouw organisatie?**
+De vooruitgang van technologie vergt een serieuze en langdurige investering. Het is geen sprint maar een marathon als je de technologie goed wilt neerzetten en optimaliseren. Er zijn een aantal aspecten om goed over na te denken: 
 
-[Download hier](https://pages.y.digital/nl-nl/whitepaper-smart-call-assistance) de productkaart ‘Smart Call Assistance’ om meer gevoel te krijgen bij wat AI kan betekenen voor jouw Klantenservice. Op zoek naar inspiratie? Plan een afspraak met een van onze experts voor relevante use-cases in het domein van klantenservice.
+* Allereerst moeten oplossingen schaalbaar zijn over verschillende afdelingen en klantcontactkanalen heen. Zodat de technologie goed beheersbaar blijft, breed binnen de organisatie inzetbaar is en klanten gemakkelijk kunnen switchen tussen verschillende kanalen met behoud van historie en context. 
+* In de tweede plaats zijn een sterke infrastructuur en voldoende servercapaciteit essentieel om technologie te kunnen benutten en opschalen. Het vergt investeringen in zowel hardware als (intelligente) software. Maak je gebruik van large language models, dan zal ook de benodigde rekenkracht verder toenemen.   
+* Tot slot zijn de kwaliteit en veiligheid van data en de borging van privacy essentiële elementen bij iedere oplossing op het gebied van AI. Dit stelt eisen aan de manier waarop de totale oplossing is opgezet en geïntegreerd met de systemen uit de organisatie.    
+
+ 
+
+Wil je vrijblijvend verkennen wat de mogelijkheden zijn voor jouw organisatie? 
+
+[Download hier](https://pages.y.digital/nl-nl/whitepaper-smart-call-assistance) de productkaart ‘Smart Call Assistance’ om meer gevoel te krijgen bij wat AI kan betekenen voor jouw Klantenservice. Op zoek naar inspiratie? Plan een afspraak met een van onze experts en krijg een vrijblijvende demo van de mogelijkheden voor jouw Klantenservice.  
