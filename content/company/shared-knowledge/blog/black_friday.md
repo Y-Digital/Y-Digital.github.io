@@ -1,5 +1,5 @@
 ---
-title: Help…. hoe overleef ik Black Friday in mijn Contact Center?
+title: 'Tips: hoe zet ik AI in bij piekperiodes in de Klantenservice?'
 description: >-
   Piekbelasting zorgt voor extra werkdruk bij de Klantenservice. Het
   klantcontact biedt een mooie kans om de relatie met de klant te versterken en
