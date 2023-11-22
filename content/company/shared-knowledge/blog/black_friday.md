@@ -9,11 +9,10 @@ layout: blog
 featured_image: /cfe7d119-963c-44f5-8ac6-d5a7e2c53236.jpg
 date: 2023-11-21T23:00:00.000Z
 summary: >
-  Het einde van het jaar is in zicht, en de feestdagen komen eraan.
-  Piekbelasting zorgt voor extra werkdruk bij de Klantenservice van
-  organisaties. Het klantcontact biedt een mooie kans om de relatie met de klant
-  te versterken en je imago te verstevigen, mits je als organisatie goed bent
-  voorbereid op de extra vraag.
+  Piekbelasting zorgt voor extra werkdruk bij de Klantenservice. Het
+  klantcontact biedt een mooie kans om de relatie met de klant te versterken en
+  je imago te verstevigen, mits je als organisatie goed bent voorbereid op de
+  extra vraag. 
 author: 'Carla Verwijmeren, Nina Zonneveld'
 ---
 
