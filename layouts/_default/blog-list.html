@@ -2,14 +2,14 @@
 
 
 <section class="wide orange">
-    
+
 
     <img class="logo-image" src="/img/blog-white.svg" alt="Blog">
     <h1 class="white-text">{{ T "blogOverview" }}</h1>
 
 
-  
-<!--   <section class="intro">
+
+    <!--   <section class="intro">
     <p>{{ .Params.intro_text }}</p>
   </section> -->
 
@@ -17,20 +17,20 @@
 </section>
 
 <section class="wide blog-list">
+    {{ $otherPages := where .Site.AllPages "Layout" "blog" }}
 
-
-    {{ range .Pages.ByDate.Reverse }}
+    {{ range $otherPages.ByDate.Reverse }}
     <a href="{{ .Permalink }}">
-    <section class="blogcard">
-    	<div class="card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
-    	<p class="date">{{ .Date.Format "02 January, 2006" }}</p>
-    	<h1>{{ .Title }}</h1>
-        <p class="card-content">{{$content := .Params.summary}} {{$content = replace $content "\n" "<br>"
-            }}
-            {{ $content | markdownify }}
-        </p>
-    	<p class="card-read-more">read more</p>
-    </section>
+        <section class="blogcard">
+            <div class="card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
+            <p class="date">{{ .Date.Format "02 January, 2006" }}</p>
+            <h1>{{ .Title }}</h1>
+            <p class="card-content">{{$content := .Params.summary}} {{$content = replace $content "\n" "<br>"
+                }}
+                {{ $content | markdownify }}
+            </p>
+            <p class="card-read-more">read more</p>
+        </section>
     </a>
     {{ end }}
 

@@ -101,3 +101,10 @@ other = "Kontaktformular"
 
 [blogOverview]
 other = "Übersicht Blogs"
+
+[enLang]
+other = "Englisch"
+[nlLang]
+other = "Niederländisch"
+[deLang]
+other = "Deutsch"

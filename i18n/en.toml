@@ -101,3 +101,10 @@ other = "Contact Form"
 
 [blogOverview]
 other = "Blog Overview"
+
+[enLang]
+other = "English"
+[nlLang]
+other = "Dutch"
+[deLang]
+other = "Deutsch"

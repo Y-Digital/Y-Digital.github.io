@@ -1,11 +1,16 @@
 [en]
 languageName = "🇺🇸"
 weight = 1
+[en.params]
+    text = "enLang"
 
 [nl]
 languageName = "🇳🇱"
 weight = 2
-
+[nl.params]
+    text = "nlLang"
 [de]
 languageName = "🇩🇪"
 weight = 3
+[de.params]
+    text = "deLang"
