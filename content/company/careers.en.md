@@ -11,129 +11,161 @@ intro_text: >-
   people who are passionate about digital, learning and working together.
 page_title: Y.careers
 vacancy:
-  - title: Lead Conversation Designer
+  - title: Business Transformation Experts (medior)
     role: >-
-      ## About Us:
+      ## Over ons:
 
 
-      Y.digital is an experienced and specialised A.I. company with offices in
-      Zeist, The Netherlands, and Da Nang, Vietnam. We design, build, and
-      deliver intelligent AI solutions that empower humans. We use our own
-      unique approach and cutting-edge AI platform Ally to create conversational
-      AI solutions that help customers to engage with companies in a more
-      pleasant and intelligent way. And design and deliver intelligent document
-      processing solutions to support employees in making knowledge-intensive
-      processes more consistent, scalable, and efficient.
+      Artificial Intelligence die natuurlijke taal verwerkt heeft de toekomst!
+      Wil jij meedoen aan het vormgeven van die toekomst? Wil je organisaties
+      inspireren hoe AI het beste past in hun bedrijfsstrategie? Wil je
+      analyseren welke concrete AI-toepassingen direct waarde voor hen kunnen
+      hebben? Wil je vervolgens de realisatie en implementatie van die
+      AI-toepassingen begeleiden? Kom dan snel praten! Wij zoeken namelijk
+      nieuwe collega's. Vanuit onze eigen Y.academy zorgen we eerst dat jij
+      alles komt te weten over AI. Daarna ga je onze klanten helpen om de
+      digital transformation van hun organisatie te regisseren.
 
 
-      Our diverse and international team has considerable expertise in the
-      design and execution of AI powered customer journeys, using natural
-      language processing, computer vision, and graph technology. Our ambition
-      is to establish ourselves as the leading firm in this area in the
-      Netherlands and beyond. We’re growing fast and have a vacancy for a
-      passionate **medior level Lead Conversation Designer** to join our team.
+      Y.digital is dé AI-expert op het gebied van taal. We zijn gevestigd in
+      Zeist, hebben een kantoor in Vietnam en starten dit jaar ook in Duitsland.
+      We realiseren innovatieve AI-oplossingen vanuit ons eigen platform Ally.
+      Onze missie is Empowering Humans: we zetten AI vooral in om mensen
+      optimaal te ondersteunen. Onze klanten zitten dan ook in allerlei sectoren
+      zoals overheid, financiële sector, energy- en utilities-sector,
+      gezondheidszorg. We hebben de Y.academy en het Y.research lab om kennis te
+      borgen en delen.
 
 
-      ## The Role
+      ## Jouw nieuwe collega’s:
 
 
-      As a conversation designer you will work directly for high-profile
-      organisations across different sectors (government, financial, utilities,
-      health). Sometimes you will be seconded to work with teams of our clients.
-      But you will also work on projects with the internal team of Y.
+      Ons team is divers en internationaal. Vanuit onze vestigingen bieden we
+      integrale dienstverlening:
 
 
-      · You represent Y.digital, our unique vision, customer driven approach and
-      AI-platform Y.Ally.
+      \- onze Business Transformation Experts helpen klanten bij het realiseren
+      van hun AI-strategie, het signaleren van kansen, proces re-design,
+      analyse, projectmanagement en het waarmaken van hun digitale
+      transformatie.
 
 
-      · You make sure we work customer centric by facilitating design labs,
-      design customer journeys, persona’s, conversation flows and user tests in
-      close cooperation with customers and our internal team.
+      \- onze Engineers ontwerpen, realiseren, trainen en implementeren de
+      AI-oplossingen, en ze ontwikkelen continu door aan ons AI-platform Ally.
 
 
-      · You analyse user data and optimize the AI-solution working in
-      multi-disciplinary teams.
+      Onze ambitie is om een autoriteit te worden op het gebied van
+      taalverwerking, in Nederland en daarbuiten. We groeien snel en hebben
+      vacatures voor gepassioneerde Business Transformation Experts om ons team
+      te versterken!
 
 
-      · You further develop our Y.academy for conversation designers and provide
-      training for colleagues and customers.
+      ## De rol:
 
 
-      · You will work closely with our highly-skilled AI experts: a strong and
-      international peer group of experienced machine learning engineers and
-      data scientists.
+      Als Business Transformation Expert werk je rechtstreeks voor spraakmakende
+      organisaties in verschillende sectoren.
 
 
-      Within this role, as we are expanding and growing rapidly, there is ample
-      room to develop, grow and achieve your personal goals and ambitions.
-    profile: >-
-      ## Your Profile
+      \- Je vindt het leuk om een organisatie in te duiken en mensen te
+      inspireren met nieuwe technologische mogelijkheden via presentaties en
+      inspiratiessessies.
 
 
-      We want to offer the best professionals in the field of (conversational)
-      AI in the market. For this role the next skills and knowledge is
-      necessary:
+      \- Je stroopt je mouwen op en werkt samen met mensen uit de organisatie om
+      ideeën te genereren, om te zetten in prototypes en daar concrete projecten
+      van te maken. Dat doe je volgens de design thinking aanpak.
+
+
+      \- Je voert business analyses en proces redesign uit, en neemt daarna de
+      lead als projectmanager of product owner van het team dat de AI-oplossing
+      gaat realiseren.
+
+
+      \- Je betrekt continu alle stakeholders en zorgt ervoor dat de gewenste
+      transformatie ook echt wordt doorgevoerd in de organisatie.
+
+
+      \- Het werk is gevarieerd: soms zit je in een detacheringsopdracht, vaak
+      samen met één van onze senioren, en in andere gevallen doe je mee aan onze
+      projecten. Je werkt in ieder geval altijd nauw samen met onze
+      hoogopgeleide experts, een sterke peer group van ervaren transformation
+      experts, engineers en conversation designers.
+
+
+      \- Je vertegenwoordigt Y.digital, onze unieke visie, klantgedreven aanpak
+      en AI-platform Y.Ally.
+
+
+      Aangezien we snel uitbreiden en groeien, is er binnen deze rol méér dan
+      voldoende ruimte om je te ontwikkelen, te groeien en je persoonlijke
+      doelen en ambities te realiseren.
+
+
+      Wij willen alleen de beste en gemotiveerde professionals op het gebied van
+      digitale transformatie
+    profile: ''
     skills_heading: Skills and Knowledge
     skills: >-
-      For this role the next skills and knowledge is necessary:
+      * Positief, enthousiast en gedreven.
 
+      * Passie voor mensen en het verbeteren van organisaties.
 
-      * Strong skills as it comes to conversation design, building, analysing
-      and optimizing conversational flows in an AI-driven platform for chat
-      and/or voice.
+      * Goed in verbinden van mensen en disciplines: bruggen bouwen tussen
+      business en IT.
 
-      * Experience with user testing and facilitating workshops – you have good
-      consultancy skills.
+      * Nieuwsgierig naar de nieuwe mogelijkheden van innovatieve technologie,
+      maar ook bewust van negatieve kanten en risico’s.
 
-      * You love cocreating with groups of people, providing inspiration,
-      generating ideas, designing the desired way of working.
+      * Minimaal 3 jaar ervaring (medior) in de rol van analist of consultant
 
-      * A minimal of 2 years of experience (medior) is required.
+      * Ervaring in business analyse: requirements, business cases, proces
+      redesign, informatie- en kennismodellering, DPIA.
 
-      * Native Dutch speaking.
+      * Ervaring in consultancy: strategie, design thinking, faciliteren van
+      sessies, advisering, change management.
 
-      * Experience with the agile way of working (e.g. SAFe, SCRUM) is an
-      advantage.
+      * Ervaring met agile werken, product owner /project manager, SAFe, SCRUM.
 
-      * Social skills: enthusiastic, hands-on, structured, flexible,
-      result-driven, strong presentation and communication capabilities.
+      * Nederlandstalig, goed niveau in Engels.
 
-      * Driven to follow market developments in the field of conversation design
-      and implement them within the organisation, inquisitive.
+      * Sterke adviesvaardigheden en communicatieve vaardigheden,
+      gestructureerd, flexibel, resultaatgericht, extravert, ambitieus en wil
+      graag impact maken.
 
-      * Basic knowledge of Python, NLP and intent-architecture would be nice but
-      is certainly not a ‘must have’.
+      * Basiskennis van AI is een pré, in het bijzonder Natural Language
+      Processing en Knowledge Graphs, maar via onze Y.academy zorgen we voor
+      alle relevante verdieping.
 
-      * A completed master degree in a relevant discipline (e.g. Communications,
-      Human Centered Design).
+      * Een afgeronde bachelor of masteropleiding in een relevante discipline.
+
+      * Beschikbaarheid voor minimaal 32 uur per week.
     what_we_offer_heading: 'What we offer:'
     what_we_offer: >-
-      * The Y.clubhouse: our brand new office in Zeist, near Station
-      Driebergen-Zeist
+      * Het Y.clubhouse: ons gloednieuwe kantoor in Zeist, vlakbij Station
+      Driebergen-Zeist.
 
-      * A friendly, open, non-hierarchical, and collaborative working
-      environment
+      * Een vriendelijke, open, niet-hiërarchische en collaboratieve
+      werkomgeving.
 
-      * Innovative projects at high-profile organisations across different
-      sectors
+      * Innovatieve projecten bij spraakmakende organisaties in verschillende
+      sectoren.
 
-      * Hybrid working, in the office, at the customer or from home
+      * Hybride werken, op kantoor, bij de klant of vanuit huis.
 
-      * Mobility package
+      * Mobiliteitspakket.
 
-      * An inspirational, diverse and international team of colleagues
+      * Een inspirerend, divers en internationaal team van collega's.
 
-      * A learning path tailored to your needs and ambitions
+      * Een leertraject op maat van jouw wensen en ambities.
 
-      * Benefits including: a comprehensive pension scheme and bonus scheme
+      * Een uitgebreide pensioenregeling en bonusregeling.
     send_cv: >-
-      ## Sounds like you?
+      Herken je jezelf in dit profiel en heb je zin in deze uitdaging?
 
 
-      Call Carla Verwijmeren for more information (06-31 99 13 85) or send an
-      email with a link to your LinkedIn profile to
-      [carla@y.digital](mailto:carla@y.digital).
+      Bel Art Ligthart voor meer informatie (06-50 23 10 19) of stuur een e-mail
+      met een link naar je LinkedIn-profiel naar art@y.digital 
   - title: Medior Python Developer for ML and AI
     role: >-
       ## About Us:
@@ -286,105 +318,140 @@ vacancy:
       ## Sounds like you?
 
 
-      Call Ian FitzPatrick for more information (06-50 23 10 19) or send an
-      email with a link to your LinkedIn profile to
+      Call Ian FitzPatrick for more information (0624 52 45 00) or send an email
+      with a link to your LinkedIn profile to
       [ian@y.digital](mailto:ian@y.digital)
-  - title: Junior/Medior Digital Transformation Consultants
+  - title: Kubernetes Specialist
     role: >-
       ## About Us:
 
 
-      Y.digital is an experienced and specialised A.I. company with offices in
-      Zeist, The Netherlands, and Da Nang, Vietnam. We design, build, and
-      deliver intelligent AI solutions that empower humans. We use our own
-      unique approach and cutting-edge AI platform Ally to create conversational
-      AI solutions that help customers to engage with companies in a more
-      pleasant and intelligent way. And design and deliver intelligent document
-      processing solutions to support employees in making knowledge-intensive
-      processes more consistent, scalable, and efficient.
-
-
-      Our diverse and international team has considerable expertise in the
-      design and execution of AI powered customer journeys, using natural
-      language processing, computer vision, and graph technology. Our ambition
-      is to establish ourselves as the leading firm in this area in the
-      Netherlands and beyond. We’re growing fast and have a vacancy for a
-      passionate **junior and medior Digital Transformation Consultants** to
-      join our team.
+      Y.digital is a fast-growing language technology company based in Zeist
+      (with subsidiaries in Vietnam and Germany). Our AI platform Ally is used
+      to create conversational AI solutions that help customers to engage with
+      companies in a more pleasant and intelligent way. We also deliver
+      intelligent document processing solutions to support employees in making
+      knowledge-intensive processes more consistent, scalable, and efficient. We
+      have a highly-diverse and international team and our ambition is to
+      establish ourselves as the leading firm in this area in the Netherlands
+      and beyond.
 
 
       ## The Role
 
 
-      As a Digital Transformation Consultant you will work directly for
-      high-profile organisations across different sectors (government,
-      financial, utilities, health). Sometimes you will be seconded to work with
-      teams of our clients. But you will also work on projects with the internal
-      team of Y.
-
-
-      \- You represent Y.digital, our unique vision, customer driven approach
-      and AI-platform Y.Ally.
-
-
-      \- You make our AI solutions tangible and understandable by giving
-      presentations, inspiration sessions and facilitating design labs, to
-      generate and prioritise valuable ideas, create roadmaps and develop
-      prototypes in close cooperation with customers.
-
-
-      \- You turn ideas into concrete projects, elaborating feasibility studies,
-      business process designs, information and knowledge models.
-
-
-      \- You are involved in projects during business analysis, design,
-      development and in the lead when implementing the AI solution, using our
-      agile approach, working in multi-disciplinary teams.
-
-
-      \- You will work closely with our highly-skilled experts: a strong peer
-      group of experienced machine learning engineers, data scientists and
-      conversation designers.
-
-
-      \- Within this role, as we are expanding and growing rapidly, there is
-      ample room to develop, grow and achieve your personal goals and ambitions.
+      At Y. Digital you will participate in the development of cutting-edge A.I.
+      solutions that have a lasting and meaningful impact on our customers':
+      efficiency, customer experience, and sustainability. You will work
+      directly with or for high-profile customers across different sectors
+      (e.g., government, financial, utilities) supported by a strong peer group
+      of experienced Machine Learning Engineers, Data Scientists, and Digital
+      Transformation Consultants. Your primary responsibility will be to design,
+      set-up, and configure Kubernetes infrastructure (Cloud or on-prem) either
+      directly for our customers or in aid of our AI platform Ally (a
+      containerised application configured with Helm). You will also be
+      assisting Kubernetes application developers in applying best practices for
+      configuring and deploying containerised applications on Kubernetes.
     profile: >-
       ## Your Profile
 
 
-      We want to offer the best professionals in the field of digital
-      transformation in the market. For this role the next skills and knowledge
-      is necessary:
+      Kubernetes experience and Python programming experience (e.g., github
+      projects, higher-education coursework, previous work experience) is our
+      main prerequisite. Besides that, you are curious by nature and have a
+      can-do attitude. You are willing to learn and work in a team. You should
+      also have a Bachelor's or Master's degree in a relevant field.
+    skills_heading: Skills and Knowledge
     skills: >-
-      * Your strength is connecting disciplines and building bridges between
-      business and IT.
+      The following is a list of skills & knowledge we would like you to posess
+      or aquire in your first few months at Y.
 
-      * Project experience: developing business cases, epic value statements,
-      product owner, project management, agile transformation approaches (e.g.
-      SAFe, SCRUM).
+      * Strong skills as it comes to conversation design, building, analysing
+      and optimizing conversational flows in an AI-driven platform for chat
+      and/or voice.
 
-      * Strong skills as it comes to digital transformation processes: business
-      analytics, building business cases, business process design, information
-      and knowledge modelling, change management.
 
-      * A minimal of 2 years of experience (junior) or 4 years (medior) is
-      required
 
-      * Native Dutch speaking
+      You:
 
-      * Strong consultancy skills and communication capabilities, structured,
-      flexible, result-driven, extravert, ambitious and eager to make impact.
+      * have a solid background in kubernetes application development (you are
+      in possesion of a CKAD certification or are willing to obtain one in your
+      first month at Y), including creating helm templates for all necessary
+      resources.
 
-      * Basic knowledge of AI concepts e.g. Natural Language Processing,
-      Computer Vision, Graph Neural Networks, Semantic Web technologies would be
-      nice but is not a ‘must have’. Although it should interest you.
+      * understand kubernetes cluster setup and administration (you are in
+      possesion of a CKA certification or are willing to obtain one in your
+      first month at Y), including RBAC, CNI configuration, cluster upgrades,
+      and persistent storage configuration.
 
-      * A completed master degree in a relevant discipline (e.g. Computer
-      Science, Business Administration, Economics).
-    what_we_offer: >-
+      * can setup and configure Kubernetes clusters on one or more popular Cloud
+      hosting providers (eg., Azure, AWS, GCP). Ideally you are in possesion of
+      Azure certifications: AZ-900 and/or AZ-305.
+
+      * are highly proficient in the use of containerisation tools
+      (docker/podman, etc.)
+
+      * are an advanced user of Linux and understand the principles of Linux
+      systems administration
+
+      * understand version control (specifically git) and can make use of
+      commands to: commit, push, stage, pull, branch.
+
+      * understand git submodules and can create pull requests and deal with
+      rudimentary merge conflicts.
+
+      * can program in Python (entails knowledge of data structures/types,
+      algorithms) and know standard libraries for time, string-manipulation,
+      regex matching/substitution, debugging and logging.
+
+      * understand HTTP methods (e.g., GET, POST) and can use tools such as
+      Postman to perform API calls and interpret the results.
+
+      * understand the principles of Agile software development (particularly
+      SCRUM)
+
+      Support & learning materials are available to aid you with any "gaps" in
+      your knowledge.
+
+
+      Nice to have
+
+
+      Knowledge and (even better) experience with the following:
+
+      * OpenShift
+
+      * ElasticSearch
+
+      * Argo
+
+      * Prometheus
+
+      * Kibana
+
+      * Grafana
+
+      * Semantic Web technologies (e.g., RDF, SPARQL)
+
+      * Websockets
+
+      * Webrtc
+
+      * Kubernetes Security (as evidenced by a CKS certification)
+
+
+      * A completed master degree in a relevant discipline (e.g. Communications,
+      Human Centered Design).
+    what_we_offer_heading: 'What we offer:'
+    what_we_offer: >
       * The Y.clubhouse: our brand new office in Zeist, near Station
       Driebergen-Zeist
+
+      * Weekly peer-programming and brown-bag meetings to promote knowledge
+      exchange, including the Y.academy with support & learning materials to aid
+      you.
+
+      * A cutting-edge technology stack
 
       * A friendly, open, non-hierarchical, and collaborative working
       environment
@@ -401,21 +468,12 @@ vacancy:
       * A learning path tailored to your needs and ambitions
 
       * Benefits including: a comprehensive pension scheme and bonus scheme
-    send: >-
-      ## Sounds like you?
-
-
-      Send us your CV and LinkedIn profile to
-      [**result@y.digital**](mailto:result@y.digital)
-    skills_heading: Skills and Knowledge
-    what_we_offer_heading: 'What we offer:'
     send_cv: >-
       ## Sounds like you?
 
 
-      Call Art Ligthart for more information (06-50 23 10 19) or send an email
-      with a link to your LinkedIn profile to
-      [art@y.digital](mailto:art@y.digital)
+      Call Carla Verwijmeren for more information (06-31 99 13 85) or send an
+      email with a link to your LinkedIn profile to
+      [carla@y.digital](mailto:carla@y.digital).
 _template: careers
 ---
-
