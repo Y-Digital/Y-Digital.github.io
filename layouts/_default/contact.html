@@ -11,7 +11,7 @@
 <section class="wide second">
 	<div class="contact-form">  
 	  <form id="contact" action="https://formspree.io/f/myyoprqr" method="post">
-	    <h3>Contact Form</h3>
+			<h3>{{T "contactForm"}}</h3>
 	    <fieldset>
 	      <input placeholder='{{ T "firstName" }}*' type="text"  name="name" tabindex="1" required>
 	    </fieldset>    
@@ -32,7 +32,10 @@
 	    </fieldset>
 	    <p class="obligated">{{ T "requiredField"}}</p>
 	    <fieldset>
-	      <button name="submit" class="circle small orange" type="submit" value="Send" id="contact-submit" data-submit="...Sending"><p><span class="white-text">{{ T "send" }}<br> {{ T "message" }}<br></span></p><img class="arrow-dark-gray" src="/img/arrow-dark-gray.svg">
+				<button name="submit" class="circle small orange" type="submit" value="Send" id="contact-submit"
+					data-submit="...Sending">
+					<p><span class="white-text">{{ T "sendMessage" }}<br></span></p><img class="arrow-dark-gray"
+						src="/img/arrow-dark-gray.svg">
 	      </button>
 	    </fieldset>  
 	  </form>

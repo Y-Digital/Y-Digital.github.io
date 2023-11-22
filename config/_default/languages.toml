@@ -1,11 +1,11 @@
 [en]
-languageName = "🇺🇸 English"
+languageName = "🇺🇸"
 weight = 1
 
 [nl]
-languageName = "🇳🇱 Dutch"
+languageName = "🇳🇱"
 weight = 2
 
 [de]
-languageName = "🇩🇪 German"
+languageName = "🇩🇪"
 weight = 3

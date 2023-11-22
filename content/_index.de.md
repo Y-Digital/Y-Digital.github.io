@@ -32,12 +32,15 @@ hero_slide:
     slide_right_circle: Start humanizing
     slide_image: /img/hero-home.jpg
 media:
-  first_item: Podcast anhören
-  first_item_link: /company/shared-knowledge/podcast/
-  second_item: National Voice Monitor herunterladen
-  second_item_link: 'https://www.nationalevoicemonitor.nl/'
-  third_item: Newsletter abonnieren
-  third_item_link: '#footer-newsletter-form'
+  # - item: Podcast anhören
+  #   item_link: /company/shared-knowledge/podcast/
+  #   item_image: /img/podcast.svg
+  # - item: National Voice Monitor herunterladen
+  #   item_link: 'https://www.nationalevoicemonitor.nl/'
+  #   item_image: /img/download.svg
+  - item: Newsletter abonnieren
+    item_link: '#footer-newsletter-form'
+    item_image: '/img/sign-up.svg'
 footer_photo: /img/upload/ally.JPG
 numbered_features:
   - title: Entwicklung

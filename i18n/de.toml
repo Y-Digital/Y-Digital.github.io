@@ -92,3 +92,12 @@ other = "{{ .Name }} Seite"
 
 [voorwaardenLink]
 other = "/img/upload/nldigital-terms-en.pdf"
+
+[sendMessage]
+other = "Nachricht senden"
+
+[contactForm]
+other = "Kontaktformular"
+
+[blogOverview]
+other = "Übersicht Blogs"
