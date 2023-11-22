@@ -11,7 +11,7 @@ date: 2023-11-21T23:00:00.000Z
 summary: >
   Piekbelasting zorgt voor extra werkdruk bij de Klantenservice, maar biedt een
   mooie kans om de relatie met de klant te versterken en je imago te
-  verstevigen, mits je als organisatie goed bent voorbereid. 
+  verstevigen, mits je als organisatie goed bent voorbereid.
 author: 'Carla Verwijmeren, Nina Zonneveld'
 ---
 
@@ -19,25 +19,25 @@ Het eind van het jaar is in zicht en de feestdagen komen eraan. Deze periode zor
 
  
 
-Niet alle piekbelasting is voorspelbaar 
+**Niet alle piekbelasting is voorspelbaar **
 
 Bovengenoemde events zijn voor organisaties goed te voorspellen. Daarmee is niet gezegd dat het makkelijk op te vangen is, want het werven, opleiden en begeleiden van nieuwe medewerkers is een hele klus. Juist in tijden van een krimpende arbeidsmarkt en stijgende loonkosten is dit extra uitdagend. Laat staan wanneer je als organisatie met minder voorspelbare piekbelastingen te maken hebt, zoals storm of gladheid voor verzekeraars. De inzet van intelligente technologie is in alle gevallen noodzakelijk om snel op te kunnen schalen. Vaak is deze ‘digitale collega’ op langere termijn ook een meer zekere en betaalbare optie.  
 
  
 
-Niet ieder klantcontact vraagt om menselijke support 
+**Niet ieder klantcontact vraagt om menselijke support **
 
 Om als organisatie ten alle tijden hoogwaardige dienstverlening te kunnen bieden, wordt de inzet van intelligente technologie steeds belangrijker binnen de customer journey. Eenvoudige repeterende contacten met weinig emotie (“waar blijft mijn pakketje”) zijn heel goed te automatiseren. Zodat schaarse menselijke capaciteit gereserveerd blijft voor de écht complexe contacten of voor contacten met veel emotie (“mijn partner is overleden, wat betekent dit voor mijn pensioen?”). Het ontwerp van de klantcontactstrategie is hiervoor de basis, zo krijg je als organisatie een scherp beeld van de typen klantcontact, de gewenste bedieningsconcepten en de inzet van intelligente technologie op specifieke contactmomenten. 
 
  
 
-Intelligente technologie maakt het verschil  
+**Intelligente technologie maakt het verschil  **
 
 In boardrooms wordt volop nagedacht over de inzet van intelligente technologie. Dat de noodzaak er is, dat is duidelijk. De vraag is vooral “hoe doen we dat dan?” Hierbij speelt een aantal zaken een belangrijke rol. In de basis is het belangrijk om te overwegen om technologie voor artificiële intelligentie en klantcontactsystemen qua architectuur van elkaar te scheiden. Het grote voordeel hiervan is dat je naar de toekomst toe wendbaar en flexibel bent. En zelf regie houdt over de eigen opgebouwde modellen en algoritmen, waardoor je bijvoorbeeld kunt switchen van telefonieplatform zonder de opgebouwde intelligence te verliezen. Bovendien kun je AI hiermee inzetten voor support op al je kanalen en toepassingen, zowel voor klanten (bijvoorbeeld chatbots en spraakassistenten) als voor de interne medewerker (agent assist). Dit voorkomt een wildgroei aan los van elkaar werkende puntoplossingen.  
 
  
 
-Denk na over de technologische randvoorwaarden 
+**Denk na over de technologische randvoorwaarden **
 
 De vooruitgang van technologie vergt een serieuze en langdurige investering. Het is geen sprint maar een marathon als je de technologie goed wilt neerzetten en optimaliseren. Er zijn een aantal aspecten om goed over na te denken: 
 
@@ -47,6 +47,6 @@ De vooruitgang van technologie vergt een serieuze en langdurige investering. Het
 
  
 
-Wil je vrijblijvend verkennen wat de mogelijkheden zijn voor jouw organisatie? 
+**Wil je vrijblijvend verkennen wat de mogelijkheden zijn voor jouw organisatie? **
 
 [Download hier](https://pages.y.digital/nl-nl/whitepaper-smart-call-assistance) de productkaart ‘Smart Call Assistance’ om meer gevoel te krijgen bij wat AI kan betekenen voor jouw Klantenservice. Op zoek naar inspiratie? Plan een afspraak met een van onze experts en krijg een vrijblijvende demo van de mogelijkheden voor jouw Klantenservice.  
