@@ -19,7 +19,7 @@ features:
 
       Need help with one of these topics, [just give us a call](/contact/)! And
       if you are interested in a training to deepen your own knowledge, have a
-      look at the Masterclasses of our Y.academy!
+      look at the Masterclasses of our <a class="y-link" href="https://pages.y.digital/nl-nl/y.academy" target="_blank" rel="noopener">Y.academy</a>
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
@@ -38,7 +38,7 @@ cards:
       * User testing
       * Development sprints
       * Run & grow services
-      * Y.academy
+      * <a class="y-link" href="https://pages.y.digital/nl-nl/y.academy" target="_blank" rel="noopener">Y.academy</a>
   - card_heading: Who we deliver
     list_heading: Our experts
     list: |-

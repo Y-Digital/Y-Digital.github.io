@@ -1,0 +1,110 @@
+[firstName]
+other = "Vorname"
+
+[lastName]
+other = "Nachname"
+
+[phoneNumber]
+other = "Telefon"
+
+[phone]
+other = "Telefon"
+
+[email]
+other = "E-Mail"
+
+[address]
+other = "Adresse"
+
+[netherlands]
+other = "Niederlande"
+
+[asia]
+other = "Asien"
+
+[companyName]
+other = "Firmenname"
+
+[requiredField]
+other = "* Pflichtfeld"
+
+[innovationInbox]
+other = "Innovation im Posteingang"
+
+[receiveMonthly]
+other = "Monatliche Newsletter über Conversational AI & intelligente Dokumentenverarbeitung erhalten"
+
+[more]
+other = "Mehr"
+
+[allTitle]
+other = "Alle {{.Title }}"
+
+[recentTitle]
+other = "Neueste {{.Title }}"
+
+[readMore]
+other = "weiterlesen"
+
+[whatsInThis]
+other = "Was steckt in diesem {{ .Type }}"
+
+[related]
+other = "Verwandte Themen"
+
+[yourName]
+other = "Ihr Name"
+
+[emailAddress]
+other = "E-Mail-Adresse"
+
+[yourEmail]
+other = "Ihre E-Mail-Adresse"
+
+[message]
+other = "Nachricht"
+
+[newsletter]
+other = "Newsletter abonnieren"
+
+[emailRequiredNote]
+other = "Eine E-Mail-Adresse ist erforderlich."
+
+[send]
+other = "Senden"
+
+[subscribe]
+other = "Absenden"
+
+[taxonomyPageList]
+other = "Unten finden Sie Seiten, die den Taxonomiebegriff {{ .Title }} verwenden"
+
+[readingTime]
+one = "Eine Minute Lesezeit"
+other = "{{ .Count }} Minuten Lesezeit"
+
+[wordCount]
+one = "Ein Wort"
+other = "{{ .Count }} Wörter"
+
+[pageTitle]
+other = "{{ .Name }} Seite"
+
+[voorwaardenLink]
+other = "/img/upload/nldigital-terms-en.pdf"
+
+[sendMessage]
+other = "Nachricht senden"
+
+[contactForm]
+other = "Kontaktformular"
+
+[blogOverview]
+other = "Übersicht Blogs"
+
+[enLang]
+other = "Englisch"
+[nlLang]
+other = "Niederländisch"
+[deLang]
+other = "Deutsch"

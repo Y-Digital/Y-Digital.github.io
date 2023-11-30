@@ -76,6 +76,43 @@ export default defineConfig({
       },
       {
         format: "md",
+        label: "Pages DE",
+        name: "pages_de",
+        path: "content",
+        frontmatterFormat: "yaml",
+        match: {
+          include: "*.de",
+        },
+        templates: [
+          {
+            name: "home",
+            label: "Home Page",
+            fields: [...homeFields()],
+          },
+          {
+            name: "approach",
+            label: "Approach Page",
+            fields: [...approachFields()],
+          },
+          {
+            name: "contact",
+            label: "Contact Page",
+            fields: [...contactFields()],
+          },
+          {
+            name: "services",
+            label: "Service Page",
+            fields: [...servicesFields()],
+          },
+        ],
+        ui: {
+          allowedActions: {
+            create: false,
+          },
+        },
+      },
+      {
+        format: "md",
         label: "Pages NL",
         name: "pages_nl",
         path: "content",

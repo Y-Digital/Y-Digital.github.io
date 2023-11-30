@@ -19,7 +19,7 @@
 		<h2 class="card-heading">{{ .card_heading }}</h2>
 		<h3 class="list-heading">{{ .list_heading }}</h3>
 		<ul>
-			{{ markdownify .list }}
+			{{ markdownify .list | safeHTML }}
 		</ul>
 	</section>
 {{ end }}

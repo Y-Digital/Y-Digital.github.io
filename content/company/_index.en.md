@@ -89,7 +89,7 @@ experience: >-
   Financial Services, Industry, Health and (semi) Public.
 academy: >-
   Do you want to deepen your knowledge about AI? Then register for one of our
-  Y.academy courses! The experts at Y.digital have fundamental, practical and
+  <a class="y-link" href="https://pages.y.digital/nl-nl/y.academy" target="_blank" rel="noopener">Y.academy</a> courses! The experts at Y.digital have fundamental, practical and
   current knowledge in the field of Artificial Intelligence. And we are happy to
   share that knowledge! There are Masterclasses on AI and ChatGPT/LLM, but it is
   also possible to go on Expedition AI with your organization together with your

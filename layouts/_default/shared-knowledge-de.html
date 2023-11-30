@@ -17,7 +17,7 @@
 			<h2>blog</h2>
 		</div>
 		<div class="section-link">
-			<a class="all" href="blog/">see all</a>
+			<a class="all" href="blog/">Alle anzeigen</a>
 		</div>
 	</div>
 
@@ -27,10 +27,7 @@
 			<div class="list-card">
 				<div class="list-card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
 				<h1>{{ .Title }}</h1>
-				<p>{{$content := .Params.summary}} {{$content = replace $content "\n" "<br>"
-					}}
-					{{ $content | markdownify }}
-				</p>
+				<p>{{ .Params.summary }}</p>
 			</div>
 		</a>
 		{{ end }}
@@ -38,7 +35,7 @@
 
 </section>
 
-<section class="podcast4 wide blue">
+{{/* <section class="podcast4 wide blue">
 
 	<div class="section-name">
 		<div class="section-logo">
@@ -46,7 +43,7 @@
 			<h2>podcast</h2>
 		</div>
 		<div class="section-link">
-			<a class="all" href="https://y.digital/company/shared-knowledge/podcast/">see all</a>
+			<a class="all" href="podcast/">see all</a>
 		</div>
 	</div>
 
@@ -62,7 +59,7 @@
 		{{ end }}
 	</div>
 
-</section>
+</section> */}}
 
 
 

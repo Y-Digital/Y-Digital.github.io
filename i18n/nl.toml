@@ -84,3 +84,19 @@ other = "{{ .Name }} pagina"
 
 [voorwaardenLink]
 other = "/img/upload/nldigital-voorwaarden-nl.pdf"
+
+[sendMessage]
+other = "Verstuur Bericht"
+
+[contactForm]
+other = "Contact Form"
+
+[blogOverview]
+other = "Blog Overview"
+
+[enLang]
+other = "English"
+[nlLang]
+other = "Dutch"
+[deLang]
+other = "Deutsch"

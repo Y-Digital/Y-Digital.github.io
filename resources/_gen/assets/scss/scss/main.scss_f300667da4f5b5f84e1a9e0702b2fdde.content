@@ -482,6 +482,10 @@ a:hover {
   text-align: center;
   margin: 2em 0; }
 
+.y-link {
+  color: #EF8903;
+  font-weight: 700; }
+
 /********** Menu **********/
 a {
   text-decoration: none; }
@@ -1801,7 +1805,8 @@ h2.title {
     font-size: 1.375em;
     text-align: center;
     font-weight: 700;
-    margin-top: 1em; }
+    margin-top: 1em;
+    word-break: break-all; }
 
 .our-dna {
   width: 50em;

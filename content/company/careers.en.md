@@ -477,4 +477,3 @@ vacancy:
       [carla@y.digital](mailto:carla@y.digital).
 _template: careers
 ---
-

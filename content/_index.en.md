@@ -43,12 +43,15 @@ hero_slide:
     slide_left_circle: Stop robotizing
     slide_right_circle: Start humanizing
 media:
-  first_item: listen to podcast
-  first_item_link: /company/shared-knowledge/podcast/
-  second_item: download National Voice Monitor
-  second_item_link: 'https://www.nationalevoicemonitor.nl/'
-  third_item: sign up newsletter
-  third_item_link: '#footer-newsletter-form'
+  - item: listen to podcast
+    item_link: /company/shared-knowledge/podcast/
+    item_image: /img/podcast.svg
+  - item: download National Voice Monitor
+    item_link: 'https://www.nationalevoicemonitor.nl/'
+    item_image: /img/download.svg
+  - item: sign up newsletter
+    item_link: '#footer-newsletter-form'
+    item_image: '/img/sign-up.svg'
 footer_photo: /img/upload/ally.JPG
 numbered_features:
   - title: Development
