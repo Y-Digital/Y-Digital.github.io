@@ -3,7 +3,7 @@ title: Conversational AI
 description: conversational ai
 layout: conversational-ai
 lang: nl
-translationKey: conversational-ai
+translationKey: smartcall-assistance
 hero_image: /img/upload/hero-conversational-ai-new.jpg
 hero_circles:
   left_circle: Stop inefficiency

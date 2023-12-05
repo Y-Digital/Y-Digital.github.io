@@ -417,7 +417,7 @@ export default defineConfig({
         format: "md",
         label: "Solutions/Conversational AI",
         name: "conversational_ai",
-        path: "content/solutions/conversational-ai",
+        path: "content/solutions/smartcall-assistance",
         frontmatterFormat: "yaml",
         match: {
           include: "*",

@@ -30,7 +30,7 @@ conversational_ai:
   box_text: >-
     Wir schaffen eine völlig neue Erfahrung in der Interaktion zwischen Menschen und Systemen über Chatbots und Sprachassistenten. Um bestehende Herausforderungen im Bereich der Sprachverarbeitung, Skalierbarkeit und Intent-Modellierung zu lösen, haben wir eine Conversational AI-Lösung der nächsten Generation entwickelt. Eine Lösung, die auf Knowledge-Graph-Technologie basiert und der ein tiefgreifendes Verständnis der Neurolinguistik und der Funktionsweise des menschlichen Gehirns zugrundeliegt.
 
-  link: /de/solutions/conversational-ai/
+  link: /de/solutions/smartcall-assistance/
 
 intelligent_document_processing:
   box_title: Intelligent Document Processing

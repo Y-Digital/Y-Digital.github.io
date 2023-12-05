@@ -38,7 +38,7 @@ conversational_ai:
     oplossing die is gebaseerd op knowledge graph technologie, vanuit een
     diepgaand begrip van de neurolinguïstiek en de werking van het menselijk
     brein.
-  link: /nl/oplossingen/conversational-ai/
+  link: /nl/oplossingen/smartcall-assistance/
 intelligent_document_processing:
   box_title: Intelligent Document Processing
   box_text: >-
