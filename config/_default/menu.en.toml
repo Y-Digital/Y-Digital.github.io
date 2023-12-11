@@ -19,8 +19,8 @@ weight = 20
 	parent = "solutions"
 	name = "conversational ai"
 	title = "conversational ai"
-	url = "/solutions/conversational-ai/"
-	pageRef = "/solutions/conversational-ai"
+	url = "/solutions/smartcall-assistance/"
+	pageRef = "/solutions/smartcall-assistance"
 	weight = 22
 	[[main]]
 	identifier = "intelligent-document-processing"
@@ -110,8 +110,8 @@ weight = 20
 	identifier = "conversational-ai"
 	parent = "solutions"
 	name = "Conversational AI"
-	url = "/solutions/conversational-ai/"
-	pageRef = "/solutions/conversational-ai"
+	url = "/solutions/smartcall-assistance/"
+	pageRef = "/solutions/smartcall-assistance"
 	weight = 22
 	[[footer]]
 	identifier = "intelligent-document-processing"

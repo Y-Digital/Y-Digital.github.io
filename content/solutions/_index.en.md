@@ -41,7 +41,7 @@ conversational_ai:
     processing, scalability and intent modeling we developed a next-level
     conversational AI solution. One that’s based on a deep understanding of
     human interaction.
-  link: /solutions/conversational-ai/
+  link: /solutions/smartcall-assistance/
 intelligent_document_processing:
   box_title: Intelligent Document Processing
   box_text: >-
