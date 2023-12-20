@@ -4,15 +4,12 @@ description: >-
   We are wrapping up 2023, and we are looking back at a year in which Artificial
   Intelligence (AI) technology has become a disruptor. 
 layout: blog
-featured_image: /pexels-tara-winstead-8386440.jpg
+featured_image: /StockSnap_O2RN5ZTFWJ.jpg
 date: 2023-12-19T23:00:00.000Z
-summary: >+
+summary: >
   We are wrapping up 2023, and we are looking back at a year in which Artificial
   Intelligence (AI) technology has become a disruptor. Looking forward to 2024,
   we have lined up some trends to pay attention to.
-
-
-
 author: 'Carla Verwijmeren, Nina Zonneveld'
 ---
 
@@ -34,7 +31,7 @@ With the rise of ChatGPT as the predecessor of what is coming next in the field 
 
 **4.	Use of local and smaller large language models**
 
-Large language models are offered by big tech companies, using basically all information and content from the internet. More and more organizations limit the use of large language models within their business processes due to the fear of sharing privacy-sensitive information. The need for localized and locally run models is getting bigger and bigger. Meanwhile, the discussion about efficiently using large language models, and the fact that not all content on the internet is needed to generate content specific to your organization makes us see two trends. First, the possibility to use models such as Llama, that can run locally. Second, the initiative from TNO (in the Netherlands) to see whether the Dutch government can create a localized Dutch Large Language Model, that is free of bias and other offensive content. 
+Large language models are offered by big tech companies, using basically all information and content from the internet. More and more organizations limit the use of large language models within their business processes due to the fear of sharing privacy-sensitive information. The need for localized and locally run models is getting bigger and bigger. Meanwhile, the discussion about efficiently using large language models, and the fact that not all content on the internet is needed to generate content specific to your organization makes us see two trends. First, the possibility to use models such as Llama, that can run locally. Second, the initiative from TNO (in the Netherlands) to see whether the Dutch government can create a localized Dutch Large Language Model, that is free of bias and other offensive content.
 
 **5.	Regulations and Ethics**
 
@@ -42,6 +39,6 @@ Not only the use of large language models, but also the creation of large langua
 
 **6.	Sustainability**
 
-The world around us is changing, but what most of us do not realize is the amount of energy used when using ChatGPT. For a simple prompt to generate an image, the electricity required is equal to charging your mobile phone. Imagine what impact the application of large language models could have if this is woven into (crucial) business processes. The footprint of the use of large language models is not visible yet, but organizations will take this into account in their ESG-scan. Possible solutions are using smaller large language models and using other technologies for specific use-cases where large language models are not necessarily required. The application of AI will remain to stay top of mind, yet the hype of GenAI will make space for a more nuanced view on the use, the added value of GenAI for specific use-cases. 
+The world around us is changing, but what most of us do not realize is the amount of energy used when using ChatGPT. For a simple prompt to generate an image, the electricity required is equal to charging your mobile phone. Imagine what impact the application of large language models could have if this is woven into (crucial) business processes. The footprint of the use of large language models is not visible yet, but organizations will take this into account in their ESG-scan. Possible solutions are using smaller large language models and using other technologies for specific use-cases where large language models are not necessarily required. The application of AI will remain to stay top of mind, yet the hype of GenAI will make space for a more nuanced view on the use, the added value of GenAI for specific use-cases.
 
 We are looking forward to 2024; would you like to know more about what AI can mean for your organization? We are happy to help!
